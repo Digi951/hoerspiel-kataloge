@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-27",
+  "catalogs": [
+    {
+      "id": "die-drei-fragezeichen",
+      "name": "Die drei ???",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/blob/main/catalogs/The_three_questionmarks.json"
+    },
+    {
+      "id": "die-drei-fragezeichen-kids",
+      "name": "Die drei ??? Kids",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/The_three_questionmarks_kids.json"
+    },
+    {
+      "id": "die-drei-ausrufezeichen",
+      "name": "Die drei !!!",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/The_tree_exclamationmarks.json"
+    },
+    {
+      "id": "bibi-blocksberg",
+      "name": "Bibi Blocksberg",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/Bibi_Blocksberg.json"
+    }
+  ]
+}
