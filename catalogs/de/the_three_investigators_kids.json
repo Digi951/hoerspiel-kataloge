@@ -1,0 +1,620 @@
+{
+  "collectionName": "Die drei ??? Kids",
+  "version": 1,
+  "lastUpdated": "2026-05-15",
+  "entryCount": 102,
+  "entries": [
+    {
+      "number": 1,
+      "title": "Panik im Paradies",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-1-panik-im-paradies/1092525638"
+    },
+    {
+      "number": 2,
+      "title": "Radio Rocky Beach",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-2-radio-rocky-beach/1092534740"
+    },
+    {
+      "number": 3,
+      "title": "Invasion der Fliegen",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-3-invasion-der-fliegen/1092525866"
+    },
+    {
+      "number": 4,
+      "title": "Chaos vor der Kamera",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-4-chaos-vor-der-kamera/1092522053"
+    },
+    {
+      "number": 5,
+      "title": "Flucht in die Zukunft",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-5-flucht-in-die-zukunft/1092521899"
+    },
+    {
+      "number": 6,
+      "title": "Gefahr im Gruselgarten",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-6-gefahr-im-gruselgarten/1092521960"
+    },
+    {
+      "number": 7,
+      "title": "Gruft der Piraten",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-7-gruft-der-piraten/1092534848"
+    },
+    {
+      "number": 8,
+      "title": "Nacht unter Wölfen",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-8-nacht-unter-w%C3%B6lfen/1092521938"
+    },
+    {
+      "number": 9,
+      "title": "SOS über den Wolken",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-9-sos-%C3%BCber-den-wolken/1092524593"
+    },
+    {
+      "number": 10,
+      "title": "Spuk in Rocky Beach",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-10-spuk-in-rocky-beach/1092525596"
+    },
+    {
+      "number": 11,
+      "title": "Fluch des Goldes",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-11-fluch-des-goldes/1092526621"
+    },
+    {
+      "number": 12,
+      "title": "Internetpiraten",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-12-internetpiraten/1092527217"
+    },
+    {
+      "number": 13,
+      "title": "Im Reich der Rätsel",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/13-3er-box-folgen-37-38-39/1319364432"
+    },
+    {
+      "number": 14,
+      "title": "Gefahr aus dem All",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-14-gefahr-aus-dem-all/1092521435"
+    },
+    {
+      "number": 15,
+      "title": "In der Geisterstadt",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/015-3er-box-folgen-43-44-45/1443752461"
+    },
+    {
+      "number": 16,
+      "title": "Der magische Brunnen",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/016-3er-box-folgen-46-47-48/1478389708"
+    },
+    {
+      "number": 17,
+      "title": "Rettet Atlantis!",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-17-rettet-atlantis/1092526143"
+    },
+    {
+      "number": 18,
+      "title": "Mission Maulwurf",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-18-mission-maulwurf/1092521904"
+    },
+    {
+      "number": 19,
+      "title": "Spur in die Wildnis",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-19-spur-in-die-wildnis/1092527170"
+    },
+    {
+      "number": 20,
+      "title": "Die Schmugglerinsel",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-20-die-schmugglerinsel/1092527789"
+    },
+    {
+      "number": 21,
+      "title": "Die Geisterjäger",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-21-die-geisterj%C3%A4ger/1092520364"
+    },
+    {
+      "number": 22,
+      "title": "Einarmige Banditen",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-22-einarmige-banditen/1092521920"
+    },
+    {
+      "number": 23,
+      "title": "Feuer in Rocky Beach",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-23-feuer-in-rocky-beach/1092522056"
+    },
+    {
+      "number": 24,
+      "title": "Im Bann des Zauberers",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-24-im-bann-des-zauberers/1092521032"
+    },
+    {
+      "number": 25,
+      "title": "In letzter Sekunde",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-25-in-letzter-sekunde/1092520692"
+    },
+    {
+      "number": 26,
+      "title": "Fußball-Alarm",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-26-fu%C3%9Fball-alarm/1092521933"
+    },
+    {
+      "number": 27,
+      "title": "Die Schokofalle",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-27-die-schokofalle/1110089219"
+    },
+    {
+      "number": 28,
+      "title": "Diamantenjagd",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-28-diamantenjagd/1110089816"
+    },
+    {
+      "number": 29,
+      "title": "Monsterpilze",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-29-monsterpilze/1110094707"
+    },
+    {
+      "number": 30,
+      "title": "Im Geisterschiff",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-30-im-geisterschiff/1110091371"
+    },
+    {
+      "number": 31,
+      "title": "Rückkehr der Saurier",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-31-r%C3%BCckkehr-der-saurier/1110094649"
+    },
+    {
+      "number": 32,
+      "title": "Die Gruselfalle",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-32-die-gruselfalle/1112948510"
+    },
+    {
+      "number": 33,
+      "title": "Nacht im Kerker",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-33-nacht-im-kerker/1112966058"
+    },
+    {
+      "number": 34,
+      "title": "Falsches Gold",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-34-falsches-gold/1112966083"
+    },
+    {
+      "number": 35,
+      "title": "Im Wilden Westen",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-35-im-wilden-westen/1112972954"
+    },
+    {
+      "number": 36,
+      "title": "Mission Mars",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-36-mission-mars/1112988770"
+    },
+    {
+      "number": 37,
+      "title": "Der Fluch der Indianer",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-37-der-fluch-der-indianer/1112989580"
+    },
+    {
+      "number": 38,
+      "title": "Stunde der Wahrheit",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-38-stunde-der-wahrheit/1112998417"
+    },
+    {
+      "number": 39,
+      "title": "Der verrückte Erfinder",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-39-der-verr%C3%BCckte-erfinder/1115103972"
+    },
+    {
+      "number": 40,
+      "title": "Brennendes Eis",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-40-brennendes-eis/1115104534"
+    },
+    {
+      "number": 41,
+      "title": "Insel der Haie",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-41-insel-der-haie/1134537437"
+    },
+    {
+      "number": 42,
+      "title": "Fußballgötter",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-42-fu%C3%9Fballg%C3%B6tter/1134540244"
+    },
+    {
+      "number": 43,
+      "title": "Duell der Ritter",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-43-duell-der-ritter/1134540248"
+    },
+    {
+      "number": 44,
+      "title": "Monster in Rocky Beach",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-44-monster-in-rocky-beach/1134543461"
+    },
+    {
+      "number": 45,
+      "title": "Ein Fall für Superhelden",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-45-ein-fall-f%C3%BCr-superhelden/1134564507"
+    },
+    {
+      "number": 46,
+      "title": "Jagd auf das Dino-Ei",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-46-jagd-auf-das-dino-ei/1134546821"
+    },
+    {
+      "number": 47,
+      "title": "Falsche Fußballfreunde",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-47-falsche-fu%C3%9Fball-freunde/1134560583"
+    },
+    {
+      "number": 48,
+      "title": "Tanz der Skelette",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-48-tanz-der-skelette/1134548664"
+    },
+    {
+      "number": 49,
+      "title": "Der singende Geist",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-49-der-singende-geist/1147619383"
+    },
+    {
+      "number": 50,
+      "title": "Schatz der Piraten",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-50-schatz-der-piraten/1147641684"
+    },
+    {
+      "number": 51,
+      "title": "Tatort Kletterpark",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-51-tatort-kletterpark/1098177344"
+    },
+    {
+      "number": 52,
+      "title": "Mächtige Magier",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-52-m%C3%A4chtige-magier/1108467631"
+    },
+    {
+      "number": 53,
+      "title": "Geheimnis der Tiere",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-53-geheimnis-der-tiere/1128771972"
+    },
+    {
+      "number": 54,
+      "title": "Zombie-Alarm",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-54-zombie-alarm/1149252060"
+    },
+    {
+      "number": 55,
+      "title": "Der schwarze Joker",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-55-der-schwarze-joker/1176893386"
+    },
+    {
+      "number": 56,
+      "title": "Das Rätsel der Könige",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-56-das-r%C3%A4tsel-der-k%C3%B6nige/1193156639"
+    },
+    {
+      "number": 57,
+      "title": "Der Weihnachtsdieb",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-57-der-weihnachtsdieb/1207844864"
+    },
+    {
+      "number": 58,
+      "title": "Spur des Drachen",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-58-spur-des-drachen/1207844655"
+    },
+    {
+      "number": 59,
+      "title": "Fußballhelden",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-59-fu%C3%9Fballhelden/1233233340"
+    },
+    {
+      "number": 60,
+      "title": "Gespensterjagd",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-60-gespensterjagd/1257755625"
+    },
+    {
+      "number": 61,
+      "title": "Alarm im Dino-Park",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-61-alarm-im-dino-park/1281905742"
+    },
+    {
+      "number": 62,
+      "title": "Gefahr im Dschungel",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-62-gefahr-im-dschungel/1321933872"
+    },
+    {
+      "number": 63,
+      "title": "Monster-Wolken",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-63-monster-wolken/1339183101"
+    },
+    {
+      "number": 64,
+      "title": "In der Schatzhöhle",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-64-in-der-schatzh%C3%B6hle/1349263233"
+    },
+    {
+      "number": 65,
+      "title": "Mission Goldhund",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-65-mission-goldhund/1373160803"
+    },
+    {
+      "number": 66,
+      "title": "Geheimnis im Meer",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-66-geheimnis-im-meer/1406277822"
+    },
+    {
+      "number": 67,
+      "title": "Der goldene Drache",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-67-der-goldene-drache/1436948056"
+    },
+    {
+      "number": 68,
+      "title": "Chaos im Dunkeln",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-68-chaos-im-dunkeln/1441756871"
+    },
+    {
+      "number": 69,
+      "title": "Die Rätselfalle",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-69-die-r%C3%A4tselfalle/1449570341"
+    },
+    {
+      "number": 70,
+      "title": "Aufbruch ins All",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-70-aufbruch-ins-all/1458535921"
+    },
+    {
+      "number": 71,
+      "title": "Tatort Trampolin",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-71-tatort-trampolin/1463752980"
+    },
+    {
+      "number": 72,
+      "title": "Die Laser-Falle",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-72-die-laser-falle/1471657941"
+    },
+    {
+      "number": 73,
+      "title": "Surfstrand in Gefahr",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-73-surfstrand-in-gefahr/1479539513"
+    },
+    {
+      "number": 74,
+      "title": "Das Schienen-Monster",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-74-das-schienen-monster/1488586881"
+    },
+    {
+      "number": 75,
+      "title": "Der Fußball-Roboter",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-75-der-fu%C3%9Fball-roboter/1495018958"
+    },
+    {
+      "number": 76,
+      "title": "Blinde Passagiere",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-76-blinde-passagiere/1501322284"
+    },
+    {
+      "number": 77,
+      "title": "Die Musikdiebe",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-77-die-musikdiebe/1515518227"
+    },
+    {
+      "number": 78,
+      "title": "Schrottplatz in Gefahr",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-78-schrottplatz-in-gefahr/1524265516"
+    },
+    {
+      "number": 79,
+      "title": "Achtung, Abenteuer!",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-79-achtung-abenteuer/1530167507"
+    },
+    {
+      "number": 80,
+      "title": "Gefährlicher Nebel",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-80-gef%C3%A4hrlicher-nebel/1539905640"
+    },
+    {
+      "number": 81,
+      "title": "Turbo-Rennen",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-81-turbo-rennen/1549188908"
+    },
+    {
+      "number": 82,
+      "title": "Die Delfin-Piraten",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-82-die-delfin-piraten/1559050329"
+    },
+    {
+      "number": 83,
+      "title": "Fußball-Diebe",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-83-fu%C3%9Fball-diebe/1568955355"
+    },
+    {
+      "number": 84,
+      "title": "Tatort Skater-Park",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-84-tatort-skater-park/1576834649"
+    },
+    {
+      "number": 85,
+      "title": "Falscher Alarm",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-85-falscher-alarm/1587166954"
+    },
+    {
+      "number": 86,
+      "title": "Riesen in Rocky Beach",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-86-riesen-in-rocky-beach/1596439738"
+    },
+    {
+      "number": 87,
+      "title": "Das Geisterspiel",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-87-das-geisterspiel/1606704347"
+    },
+    {
+      "number": 88,
+      "title": "Schatz aus dem All",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-88-schatz-aus-dem-all/1613788881"
+    },
+    {
+      "number": 89,
+      "title": "Im Geistergarten",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-89-im-geistergarten/1683337782"
+    },
+    {
+      "number": 90,
+      "title": "Flug ins Nichts",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-90-flug-ins-nichts/1683339484"
+    },
+    {
+      "number": 91,
+      "title": "Gefahr im Spiegelkabinett",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-91-gefahr-im-spiegelkabinett/1752873259"
+    },
+    {
+      "number": 92,
+      "title": "Spuk im Leuchtturm",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-92-spuk-im-leuchtturm/1752884104"
+    },
+    {
+      "number": 93,
+      "title": "Die Geistermühle",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-93-die-geisterm%C3%BChle/1752883023"
+    },
+    {
+      "number": 94,
+      "title": "Falsche Vampire",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-94-falsche-vampire/1752882887"
+    },
+    {
+      "number": 95,
+      "title": "Geheime Zeichen",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-95-geheime-zeichen/1752883247"
+    },
+    {
+      "number": 96,
+      "title": "Der Schrottkönig",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-96-der-schrottk%C3%B6nig/1752883723"
+    },
+    {
+      "number": 97,
+      "title": "Die Fragezeichen-Falle",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-97-die-fragezeichen-falle/1758038649"
+    },
+    {
+      "number": 98,
+      "title": "Die Geisterpferde",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-98-die-geisterpferde/1779340094"
+    },
+    {
+      "number": 99,
+      "title": "Football-Falle",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-99-football-falle/1797766577"
+    },
+    {
+      "number": 100,
+      "title": "100 Stunden",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-100-100-stunden/1824627006"
+    },
+    {
+      "number": 101,
+      "title": "Geistermusik",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-101-geistermusik/1849207129"
+    },
+    {
+      "number": 102,
+      "title": "Spur der Tresorknacker",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-102-spur-der-tresorknacker/1872987119"
+    }
+  ]
+}

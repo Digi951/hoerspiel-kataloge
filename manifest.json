@@ -1,30 +1,30 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-27",
+  "updatedAt": "2026-05-15",
   "catalogs": [
     {
       "id": "die-drei-fragezeichen",
       "name": "Die drei ???",
       "language": "de",
-      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/The_three_questionmarks.json"
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/the_three_investigators.json"
     },
     {
       "id": "die-drei-fragezeichen-kids",
       "name": "Die drei ??? Kids",
       "language": "de",
-      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/The_three_questionmarks_kids.json"
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/the_three_investigators_kids.json"
     },
     {
       "id": "die-drei-ausrufezeichen",
       "name": "Die drei !!!",
       "language": "de",
-      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/The_tree_exclamationmarks.json"
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/the_three_exclamation_marks.json"
     },
     {
       "id": "bibi-blocksberg",
       "name": "Bibi Blocksberg",
       "language": "de",
-      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/Bibi_Blocksberg.json"
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/bibi_blocksberg.json"
     }
   ]
 }

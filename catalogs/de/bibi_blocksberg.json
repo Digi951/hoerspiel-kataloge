@@ -1,0 +1,971 @@
+{
+  "collectionName": "Bibi Blocksberg",
+  "version": 1,
+  "lastUpdated": "2026-05-15",
+  "entryCount": 163,
+  "entries": [
+    {
+      "number": 1,
+      "title": "Hexen gibt es doch",
+      "releaseYear": 1980,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-1-hexen-gibt-es-doch/1038165554"
+    },
+    {
+      "number": 2,
+      "title": "Hexerei in der Schule",
+      "releaseYear": 1980,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-2-hexerei-in-der-schule/1038186713"
+    },
+    {
+      "number": 3,
+      "title": "Die Zauberlimonade",
+      "releaseYear": 1980,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-3-die-zauberlimonade/1038190000"
+    },
+    {
+      "number": 4,
+      "title": "Der Bankräuber",
+      "releaseYear": 1980,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-4-der-bankr%C3%A4uber/1069136347"
+    },
+    {
+      "number": 5,
+      "title": "Ein verhexter Urlaub",
+      "releaseYear": 1980,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-5-ein-verhexter-urlaub/1069133821"
+    },
+    {
+      "number": 6,
+      "title": "Die Kuh im Schlafzimmer",
+      "releaseYear": 1982,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-6-die-kuh-im-schlafzimmer/1069143495"
+    },
+    {
+      "number": 7,
+      "title": "heilt den Bürgermeister",
+      "releaseYear": 1982,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-7-bibi-blocksberg-heilt-den-b%C3%BCrgermeister/1069232076"
+    },
+    {
+      "number": 8,
+      "title": "Die Schloßgespenster",
+      "releaseYear": 1983,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-8-die-schlossgespenster/1069245739"
+    },
+    {
+      "number": 9,
+      "title": "verliebt sich",
+      "releaseYear": 1983,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-9-bibi-blocksberg-verliebt-sich/1038098323"
+    },
+    {
+      "number": 10,
+      "title": "Bibis neue Freundin",
+      "releaseYear": 1983,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-10-bibis-neue-freundin/1143582073"
+    },
+    {
+      "number": 11,
+      "title": "Der Schulausflug",
+      "releaseYear": 1983,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-11-der-schulausflug/1069164764"
+    },
+    {
+      "number": 12,
+      "title": "hat Geburtstag",
+      "releaseYear": 1983,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-12-hat-geburtstag/1143581597"
+    },
+    {
+      "number": 13,
+      "title": "Ein verhexter Sonntag",
+      "releaseYear": 1983,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-13-ein-verhexter-sonntag/1143593231"
+    },
+    {
+      "number": 14,
+      "title": "in Amerika",
+      "releaseYear": 1984,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-14-bibi-blocksberg-in-amerika/1069045651"
+    },
+    {
+      "number": 15,
+      "title": "Die schwarzen Vier",
+      "releaseYear": 1984,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-15-die-schwarzen-vier/1143592791"
+    },
+    {
+      "number": 16,
+      "title": "Das Schulfest",
+      "releaseYear": 1984,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-16-das-schulfest/1038158342"
+    },
+    {
+      "number": 17,
+      "title": "Der kleine Hexer",
+      "releaseYear": 1984,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-17-der-kleine-hexer/1069161306"
+    },
+    {
+      "number": 18,
+      "title": "Auf dem Hexenberg",
+      "releaseYear": 1984,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-18-auf-dem-hexenberg/455825596"
+    },
+    {
+      "number": 19,
+      "title": "Das Sportfest",
+      "releaseYear": 1984,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-19-das-sportfest/1038230227"
+    },
+    {
+      "number": 20,
+      "title": "Papa ist weg",
+      "releaseYear": 1984,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-20-papa-ist-weg/452589230"
+    },
+    {
+      "number": 21,
+      "title": "zieht um",
+      "releaseYear": 1984,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-21-bibi-blocksberg-zieht-um/452594624"
+    },
+    {
+      "number": 22,
+      "title": "3× schwarzer Kater",
+      "releaseYear": 1984,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-22-3x-schwarzer-kater/452589279"
+    },
+    {
+      "number": 23,
+      "title": "und der Autostau",
+      "releaseYear": 1985,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-23-bibi-blocksberg-und-der-autostau/1038121396"
+    },
+    {
+      "number": 24,
+      "title": "und der Supermarkt",
+      "releaseYear": 1985,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-24-bibi-blocksberg-und-der-supermarkt/452589327"
+    },
+    {
+      "number": 25,
+      "title": "reißt aus",
+      "releaseYear": 1985,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-25-bibi-blocksberg-rei%C3%9Ft-aus/452601711"
+    },
+    {
+      "number": 26,
+      "title": "Die Schnitzeljagd",
+      "releaseYear": 1985,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-26-die-schnitzeljagd/452589409"
+    },
+    {
+      "number": 27,
+      "title": "Die verhexte Hitparade",
+      "releaseYear": 1985,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-27-die-verhexte-hitparade/1069126384"
+    },
+    {
+      "number": 28,
+      "title": "im Dschungel",
+      "releaseYear": 1985,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-28-bibi-blocksberg-im-dschungel/452589462"
+    },
+    {
+      "number": 29,
+      "title": "Der neue Hexenbesen",
+      "releaseYear": 1985,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-29-der-neue-hexenbesen/452601861"
+    },
+    {
+      "number": 30,
+      "title": "in der Ritterzeit",
+      "releaseYear": 1985,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-30-bibi-blocksberg-in-der-ritterzeit/452594849"
+    },
+    {
+      "number": 31,
+      "title": "Auf der Märcheninsel",
+      "releaseYear": 1985,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-31-auf-der-m%C3%A4rcheninsel/452595943"
+    },
+    {
+      "number": 32,
+      "title": "als Prinzessin",
+      "releaseYear": 1986,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-32-als-prinzessin/1143580200"
+    },
+    {
+      "number": 33,
+      "title": "als Babysitter",
+      "releaseYear": 1986,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-33-bibi-blocksberg-als-babysitter/452588737"
+    },
+    {
+      "number": 34,
+      "title": "darf nicht hexen",
+      "releaseYear": 1986,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-34-bibi-blocksberg-darf-nicht-hexen/452589537"
+    },
+    {
+      "number": 35,
+      "title": "Der Hexenfluch",
+      "releaseYear": 1986,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-35-der-hexenfluch/452588781"
+    },
+    {
+      "number": 36,
+      "title": "Die weißen Enten",
+      "releaseYear": 1986,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-36-die-wei%C3%9Fen-enten/452589530"
+    },
+    {
+      "number": 37,
+      "title": "Der Flohmarkt",
+      "releaseYear": 1987,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-37-der-flohmarkt/452596949"
+    },
+    {
+      "number": 38,
+      "title": "Die Weihnachtsmänner",
+      "releaseYear": 1987,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-38-die-weihnachtsm%C3%A4nner/1069161364"
+    },
+    {
+      "number": 39,
+      "title": "Unverhofftes Wiedersehen",
+      "releaseYear": 1988,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-39-unverhofftes-wiedersehen/452588945"
+    },
+    {
+      "number": 40,
+      "title": "und die Vampire",
+      "releaseYear": 1988,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-40-bibi-blocksberg-und-die-vampire/1069173658"
+    },
+    {
+      "number": 41,
+      "title": "Ohne Mami geht es nicht",
+      "releaseYear": 1989,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-41-ohne-mami-geht-es-nicht/448057220"
+    },
+    {
+      "number": 42,
+      "title": "im Zirkus",
+      "releaseYear": 1989,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-42-bibi-blocksberg-im-zirkus/448057465"
+    },
+    {
+      "number": 43,
+      "title": "Der Reiterhof – Teil 1",
+      "releaseYear": 1989,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-43-der-reiterhof-teil-1/1038226696"
+    },
+    {
+      "number": 44,
+      "title": "Der Reiterhof – Teil 2",
+      "releaseYear": 1989,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-44-der-reiterhof-teil-2/1038134015"
+    },
+    {
+      "number": 45,
+      "title": "Das Lufttaxi",
+      "releaseYear": 1990,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-45-das-lufttaxi/448057126"
+    },
+    {
+      "number": 46,
+      "title": "Karla gibt nicht auf",
+      "releaseYear": 1990,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-46-karla-gibt-nicht-auf/773500229"
+    },
+    {
+      "number": 47,
+      "title": "Das Reitturnier",
+      "releaseYear": 1990,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-47-das-reitturnier/1143576168"
+    },
+    {
+      "number": 48,
+      "title": "ist krank",
+      "releaseYear": 1990,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-48-bibi-blocksberg-ist-krank/448050251"
+    },
+    {
+      "number": 49,
+      "title": "Der Hexengeburtstag",
+      "releaseYear": 1990,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-49-der-hexengeburtstag/448057210"
+    },
+    {
+      "number": 50,
+      "title": "im Orient",
+      "releaseYear": 1991,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-50-bibi-blocksberg-im-orient/1069142603"
+    },
+    {
+      "number": 51,
+      "title": "wird entführt",
+      "releaseYear": 1991,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-51-bibi-blocksberg-wird-entf%C3%BChrt/1069148346"
+    },
+    {
+      "number": 52,
+      "title": "Wo ist Kartoffelbrei?",
+      "releaseYear": 1991,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-52-wo-ist-kartoffelbrei/446680916"
+    },
+    {
+      "number": 53,
+      "title": "Der Superhexspruch",
+      "releaseYear": 1992,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-53-der-superhexspruch/1069131275"
+    },
+    {
+      "number": 54,
+      "title": "Die Computerhexe",
+      "releaseYear": 1992,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-54-die-computerhexe/446681421"
+    },
+    {
+      "number": 55,
+      "title": "Mamis Geburtstag",
+      "releaseYear": 1992,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-55-mamis-geburtstag/1069135202"
+    },
+    {
+      "number": 56,
+      "title": "Der Wetterfrosch",
+      "releaseYear": 1993,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-56-der-wetterfrosch/446681809"
+    },
+    {
+      "number": 57,
+      "title": "Der blaue Brief",
+      "releaseYear": 1993,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-57-der-blaue-brief/1069138778"
+    },
+    {
+      "number": 58,
+      "title": "und das Dino-Ei",
+      "releaseYear": 1993,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-58-bibi-blocksberg-und-das-dino-ei/1069077340"
+    },
+    {
+      "number": 59,
+      "title": "und Dino",
+      "releaseYear": 1994,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-59-bibi-blocksberg-und-dino/446669818"
+    },
+    {
+      "number": 60,
+      "title": "Der Geisterkater",
+      "releaseYear": 1994,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-60-der-geisterkater/1069211017"
+    },
+    {
+      "number": 61,
+      "title": "Der Flaschengeist",
+      "releaseYear": 1994,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-61-der-flaschengeist/1069186955"
+    },
+    {
+      "number": 62,
+      "title": "Das feuerrote Nashorn",
+      "releaseYear": 1995
+    },
+    {
+      "number": 63,
+      "title": "Die Wahrsagerin",
+      "releaseYear": 1995,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-63-die-wahrsagerin/1069148974"
+    },
+    {
+      "number": 64,
+      "title": "Die neue Schule",
+      "releaseYear": 1996,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-64-die-neue-schule/1069205508"
+    },
+    {
+      "number": 65,
+      "title": "Das Wettfliegen",
+      "releaseYear": 1996,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-65-das-wettfliegen/446683621"
+    },
+    {
+      "number": 66,
+      "title": "Das verhexte Osterei",
+      "releaseYear": 1997,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-66-das-verhexte-osterei/1143577553"
+    },
+    {
+      "number": 67,
+      "title": "Der weiße Kakadu",
+      "releaseYear": 1997,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-67-der-wei%C3%9Fe-kakadu/446684611"
+    },
+    {
+      "number": 68,
+      "title": "und die Piraten",
+      "releaseYear": 1997,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-68-und-die-piraten/1143588962"
+    },
+    {
+      "number": 69,
+      "title": "Verhexte Weihnachten",
+      "releaseYear": 1998,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-69-verhexte-weihnachten/1069238192"
+    },
+    {
+      "number": 70,
+      "title": "Das gestohlene Hexenkraut",
+      "releaseYear": 1999,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-70-das-gestohlene-hexenkraut/1069134693"
+    },
+    {
+      "number": 71,
+      "title": "Die Hexenschule",
+      "releaseYear": 1999
+    },
+    {
+      "number": 72,
+      "title": "Der verhexte Kalender",
+      "releaseYear": 2000,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-72-der-verhexte-kalender/1069141801"
+    },
+    {
+      "number": 73,
+      "title": "Freitag, der 13.",
+      "releaseYear": 2000,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-73-freitag-der-13/443841925"
+    },
+    {
+      "number": 74,
+      "title": "Der Brieffreund",
+      "releaseYear": 2001,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-74-der-brieffreund/1069139211"
+    },
+    {
+      "number": 75,
+      "title": "Die neue Lehrerin",
+      "releaseYear": 2001,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-75-die-neue-lehrerin/443841867"
+    },
+    {
+      "number": 76,
+      "title": "Schubia dreht durch",
+      "releaseYear": 2002,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-76-schubia-dreht-durch/1069186562"
+    },
+    {
+      "number": 77,
+      "title": "im Hexeninternat",
+      "releaseYear": 2002,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-77-bibi-blocksberg-im-hexeninternat/1069223798"
+    },
+    {
+      "number": 78,
+      "title": "und Elea Eluanda",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-78-bibi-blocksberg-und-elea-eluanda/443842851"
+    },
+    {
+      "number": 79,
+      "title": "Papis Geburtstag",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-79-papis-geburtstag/443842257"
+    },
+    {
+      "number": 80,
+      "title": "Das Schmusekätzchen",
+      "releaseYear": 2004
+    },
+    {
+      "number": 81,
+      "title": "Mami in Not",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-81-mami-in-not/443874971"
+    },
+    {
+      "number": 82,
+      "title": "Hexspruch mit Folgen",
+      "releaseYear": 2005
+    },
+    {
+      "number": 83,
+      "title": "Die Klassenreise",
+      "releaseYear": 2005,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-83-die-klassenreise/1069148749"
+    },
+    {
+      "number": 84,
+      "title": "Das Hexenhoroskop",
+      "releaseYear": 2005
+    },
+    {
+      "number": 85,
+      "title": "Die Hundebabys",
+      "releaseYear": 2006,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-85-die-hundebabys/1069056198"
+    },
+    {
+      "number": 86,
+      "title": "Kann Papi hexen?",
+      "releaseYear": 2006,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-86-kann-papi-hexen/443821713"
+    },
+    {
+      "number": 87,
+      "title": "Die vertauschte Hexenkugel",
+      "releaseYear": 2007
+    },
+    {
+      "number": 88,
+      "title": "Superpudel Puck",
+      "releaseYear": 2007,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-88-superpudel-puck/443847464"
+    },
+    {
+      "number": 89,
+      "title": "Die Junghexenbande",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-89-die-junghexenbande/443847723"
+    },
+    {
+      "number": 90,
+      "title": "Oma Grete sorgt für Wirbel",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-90-oma-grete-sorgt-f%C3%BCr-wirbel/442193874"
+    },
+    {
+      "number": 91,
+      "title": "Maritas Geheimnis",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-91-maritas-geheimnis/442193700"
+    },
+    {
+      "number": 92,
+      "title": "Das geheimnisvolle Schloss",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-92-das-geheimnisvolle-schloss/442193671"
+    },
+    {
+      "number": 93,
+      "title": "braucht Hilfe",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-93-bibi-blocksberg-braucht-hilfe/442163927"
+    },
+    {
+      "number": 94,
+      "title": "Die verhexte Zeitreise",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-94-die-verhexte-zeitreise/1069210562"
+    },
+    {
+      "number": 95,
+      "title": "Die verbotene Hexeninsel",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-95-die-verbotene-hexeninsel/442193120"
+    },
+    {
+      "number": 96,
+      "title": "Das traurige Einhorn",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-96-das-traurige-einhorn/442197326"
+    },
+    {
+      "number": 97,
+      "title": "Überraschung für Mami",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-97-%C3%BCberraschung-f%C3%BCr-mami/442193358"
+    },
+    {
+      "number": 98,
+      "title": "Die Prinzessinnen von Thunderstorm",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-98-die-prinzessinnen-von-thunderstorm/1069089989"
+    },
+    {
+      "number": 99,
+      "title": "Die kleine Spürnase",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-99-die-kleine-sp%C3%BCrnase/442193559"
+    },
+    {
+      "number": 100,
+      "title": "Die große Hexenparty",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-100-die-gro%C3%9Fe-hexenparty/1069118023"
+    },
+    {
+      "number": 101,
+      "title": "und Piraten-Lilly",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-101-bibi-blocksberg-und-piraten-lilly/442171584"
+    },
+    {
+      "number": 102,
+      "title": "Die Ballett-Tanzgruppe",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-102-die-ballett-tanzgruppe/459073337"
+    },
+    {
+      "number": 103,
+      "title": "Der Hexenschatz",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-103-der-hexenschatz/474862431"
+    },
+    {
+      "number": 104,
+      "title": "Der verhexte Bürgermeister",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-104-der-verhexte-b%C3%BCrgermeister/505859204"
+    },
+    {
+      "number": 105,
+      "title": "Die Hexenküche",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-105-die-hexenk%C3%BCche/556472851"
+    },
+    {
+      "number": 106,
+      "title": "Der verrückte Staubsauger",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-106-der-verhexte-staubsauger/574680596"
+    },
+    {
+      "number": 107,
+      "title": "Die Geheimsprache",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-107-die-geheimsprache-bonus-track-version/609824566"
+    },
+    {
+      "number": 108,
+      "title": "Der Familienausflug",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-108-der-familienausflug-inkl-bonustrack/1038229201"
+    },
+    {
+      "number": 109,
+      "title": "Der Hexenball",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-109-der-hexenball/1144560681"
+    },
+    {
+      "number": 110,
+      "title": "und die kleine Elfe",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-110-bibi-blocksberg-und-die-kleine-elfe/827982913"
+    },
+    {
+      "number": 111,
+      "title": "Der Hexenbesen-Dieb",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-111-der-hexenbesen-dieb/911631884"
+    },
+    {
+      "number": 112,
+      "title": "Das TV-Hex-Duell",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-112-das-tv-hex-duell/934220465"
+    },
+    {
+      "number": 113,
+      "title": "Die Hexprüfung",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-113-die-hexpr%C3%BCfung/950405308"
+    },
+    {
+      "number": 114,
+      "title": "Der verhexte Wandertag",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-114-der-verhexte-wandertag/963127797"
+    },
+    {
+      "number": 115,
+      "title": "Urlaub in der Hexenpension",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-115-urlaub-in-der-hexenpension/969967932"
+    },
+    {
+      "number": 116,
+      "title": "Im Wald der Hexenbesen",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-116-im-wald-der-hexenbesen/1001105149"
+    },
+    {
+      "number": 117,
+      "title": "Die Besenflugprüfung",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-117-die-besenflugpr%C3%BCfung/1076312811"
+    },
+    {
+      "number": 118,
+      "title": "Die Austauschschülerin",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-118-die-austauschsch%C3%BClerin/1081824421"
+    },
+    {
+      "number": 119,
+      "title": "und der Feuerdrache",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-119-und-der-feuerdrache/1130396761"
+    },
+    {
+      "number": 120,
+      "title": "Der Affe ist los!",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-120-der-affe-ist-los/1162802815"
+    },
+    {
+      "number": 121,
+      "title": "Der neue Schulgarten",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-121-der-neue-schulgarten/1209996974"
+    },
+    {
+      "number": 122,
+      "title": "Chaos im Hexeninternat",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-122-chaos-im-hexeninternat/1244156727"
+    },
+    {
+      "number": 123,
+      "title": "Oma Grete in Gefahr",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-123-oma-grete-in-gefahr/1309657903"
+    },
+    {
+      "number": 124,
+      "title": "Das verrückte Huhn",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-124-das-verr%C3%BCckte-huhn/1353438238"
+    },
+    {
+      "number": 125,
+      "title": "Der Strandurlaub",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-125-der-strandurlaub/1367509140"
+    },
+    {
+      "number": 126,
+      "title": "Das wilde Schlittenrennen",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-126-das-wilde-schlittenrennen/1434574522"
+    },
+    {
+      "number": 127,
+      "title": "zieht aus",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-127-bibi-zieht-aus/1439589650"
+    },
+    {
+      "number": 128,
+      "title": "Ausgehext!",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-128-ausgehext/1452609095"
+    },
+    {
+      "number": 129,
+      "title": "Ein sensationelles Team",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-129-ein-sensationelles-team/1468137425"
+    },
+    {
+      "number": 130,
+      "title": "Mami spielt verrückt",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-130-mami-spielt-verr%C3%BCckt/1481632854"
+    },
+    {
+      "number": 131,
+      "title": "Das verhexte Handy",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-131-das-verhexte-handy/1491075084"
+    },
+    {
+      "number": 132,
+      "title": "Die Walpurgisnacht",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-132-die-walpurgisnacht/1498234055"
+    },
+    {
+      "number": 133,
+      "title": "im Modeatelier",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-133-im-modeatelier/1501373996"
+    },
+    {
+      "number": 134,
+      "title": "Hexen unter Verdacht",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-134-hexen-unter-verdacht/1518816090"
+    },
+    {
+      "number": 135,
+      "title": "Freunde in Gefahr",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-135-freunde-in-gefahr/1526145514"
+    },
+    {
+      "number": 136,
+      "title": "Im verhexten Winterwald",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-136-im-verhexten-winterwald/1538441660"
+    },
+    {
+      "number": 137,
+      "title": "Ein verrückter Ausflug",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-137-ein-verr%C3%BCckter-ausflug/1548517211"
+    },
+    {
+      "number": 138,
+      "title": "Urlaub am See",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-138-urlaub-am-see/1563761713"
+    },
+    {
+      "number": 139,
+      "title": "Chaos am Flughafen",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-139-chaos-am-flughafen/1580082004"
+    },
+    {
+      "number": 140,
+      "title": "Alles voll verhext",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-140-alles-voll-verhext/1589450853"
+    },
+    {
+      "number": 141,
+      "title": "Mit Papi allein zu Haus",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-141-mit-papi-allein-zu-haus/1600059108"
+    },
+    {
+      "number": 142,
+      "title": "UFOs über Neustadt",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-142-ufos-%C3%BCber-neustadt/1611219867"
+    },
+    {
+      "number": 143,
+      "title": "Zurück zur Märcheninsel",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-143-zur%C3%BCck-zur-m%C3%A4rcheninsel/1619310319"
+    },
+    {
+      "number": 144,
+      "title": "Der Klimawettbewerb",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-144-der-klimawettbewerb/1641711597"
+    },
+    {
+      "number": 145,
+      "title": "Etwas andere Weihnachten",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-145-etwas-andere-weihnachten/1649355498"
+    },
+    {
+      "number": 146,
+      "title": "Der Hexenbesenausflug",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-146-der-hexenbesenausflug/1656693811"
+    },
+    {
+      "number": 147,
+      "title": "Rettung der Junghexeninsel",
+      "releaseYear": 2023
+    },
+    {
+      "number": 148,
+      "title": "Die Übungshexenkugel",
+      "releaseYear": 2023
+    },
+    {
+      "number": 149,
+      "title": "Zottel ist weg",
+      "releaseYear": 2023
+    },
+    {
+      "number": 150,
+      "title": "Neustadt in Gefahr",
+      "releaseYear": 2024
+    },
+    {
+      "number": 151,
+      "title": "rettet das Hexenfest",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-151-rettet-das-hexenfest/1724963746"
+    },
+    {
+      "number": 152,
+      "title": "Die verrückte Autofahrt",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-152-die-verr%C3%BCckte-autofahrt/1742802135"
+    },
+    {
+      "number": 153,
+      "title": "Die neuen Klassensprecher",
+      "releaseYear": 2024
+    },
+    {
+      "number": 154,
+      "title": "Besuch in London",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-154-besuch-in-london/1761068321"
+    },
+    {
+      "number": 155,
+      "title": "Die Hexenbürgermeisterin",
+      "releaseYear": 2024
+    },
+    {
+      "number": 156,
+      "title": "Die Vertretungshexlehrerin",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-156-die-vertretungshexlehrerin/1782003126"
+    },
+    {
+      "number": 157,
+      "title": "Team Blocksberg",
+      "releaseYear": 2025
+    },
+    {
+      "number": 158,
+      "title": "Der fliegende Bürgermeister",
+      "releaseYear": 2025
+    },
+    {
+      "number": 159,
+      "title": "Ins Bild gehext!",
+      "releaseYear": 2025
+    },
+    {
+      "number": 160,
+      "title": "Spuk auf Schloss Thunderstorm",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-160-spuk-auf-schloss-thunderstorm/1824733724"
+    },
+    {
+      "number": 161,
+      "title": "Das neue Hexkraut",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-161-das-neue-hexkraut/1836984225"
+    },
+    {
+      "number": 162,
+      "title": "Der verhexte Eulenstaub",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-162-der-verhexte-eulenstaub/1859988247"
+    },
+    {
+      "number": 163,
+      "title": "Der falsche Hextrank",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-163-der-falsche-hextrank/1872675303"
+    }
+  ]
+}
