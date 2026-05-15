@@ -2,8 +2,503 @@
   "collectionName": "TKKG",
   "version": 1,
   "lastUpdated": "2026-05-15",
-  "entryCount": 141,
+  "entryCount": 240,
   "entries": [
+    {
+      "number": 1,
+      "title": "Die Jagd nach den Millionendieben",
+      "releaseYear": 1981
+    },
+    {
+      "number": 2,
+      "title": "Der blinde Hellseher",
+      "releaseYear": 1981
+    },
+    {
+      "number": 3,
+      "title": "Das leere Grab im Moor",
+      "releaseYear": 1981
+    },
+    {
+      "number": 4,
+      "title": "Das Paket mit dem Totenkopf",
+      "releaseYear": 1981
+    },
+    {
+      "number": 5,
+      "title": "Das Phantom auf dem Feuerstuhl",
+      "releaseYear": 1981
+    },
+    {
+      "number": 6,
+      "title": "Angst in der 9a",
+      "releaseYear": 1981
+    },
+    {
+      "number": 7,
+      "title": "Rätsel um die alte Villa",
+      "releaseYear": 1982
+    },
+    {
+      "number": 8,
+      "title": "Auf der Spur der Vogelmörder",
+      "releaseYear": 1982
+    },
+    {
+      "number": 9,
+      "title": "Abenteuer im Ferienlager",
+      "releaseYear": 1982
+    },
+    {
+      "number": 10,
+      "title": "Alarm für Zirkus Sarani",
+      "releaseYear": 1982
+    },
+    {
+      "number": 11,
+      "title": "Die Falschmünzer vom Mäuseweg",
+      "releaseYear": 1982
+    },
+    {
+      "number": 12,
+      "title": "Nachts wenn der Feuerteufel kommt",
+      "releaseYear": 1982
+    },
+    {
+      "number": 13,
+      "title": "Die Bettelmönche aus Atlantis",
+      "releaseYear": 1982
+    },
+    {
+      "number": 14,
+      "title": "Der Schlangenmensch",
+      "releaseYear": 1982
+    },
+    {
+      "number": 15,
+      "title": "Ufos in Bad Finkenstein",
+      "releaseYear": 1982
+    },
+    {
+      "number": 16,
+      "title": "X7 antwortet nicht",
+      "releaseYear": 1982
+    },
+    {
+      "number": 17,
+      "title": "Die Doppelgängerin",
+      "releaseYear": 1982
+    },
+    {
+      "number": 18,
+      "title": "Hexenjagd in Lerchenbach",
+      "releaseYear": 1982
+    },
+    {
+      "number": 19,
+      "title": "Der Schatz der Drachenhöhle",
+      "releaseYear": 1982
+    },
+    {
+      "number": 20,
+      "title": "Das Geheimnis der chinesischen Vase",
+      "releaseYear": 1982
+    },
+    {
+      "number": 21,
+      "title": "Die Rache des Bombenlegers",
+      "releaseYear": 1982
+    },
+    {
+      "number": 22,
+      "title": "In den Klauen des Tigers",
+      "releaseYear": 1983
+    },
+    {
+      "number": 23,
+      "title": "Kampf der Spione",
+      "releaseYear": 1983
+    },
+    {
+      "number": 24,
+      "title": "Gefährliche Diamanten",
+      "releaseYear": 1983
+    },
+    {
+      "number": 25,
+      "title": "Die Stunde der schwarzen Maske",
+      "releaseYear": 1983
+    },
+    {
+      "number": 26,
+      "title": "Das Geiseldrama",
+      "releaseYear": 1984
+    },
+    {
+      "number": 27,
+      "title": "Banditen im Palasthotel",
+      "releaseYear": 1984
+    },
+    {
+      "number": 28,
+      "title": "Verrat im Höllental",
+      "releaseYear": 1984
+    },
+    {
+      "number": 29,
+      "title": "Hundediebe kennen keine Gnade",
+      "releaseYear": 1984
+    },
+    {
+      "number": 30,
+      "title": "Die Mafia kommt zur Geisterstunde",
+      "releaseYear": 1984
+    },
+    {
+      "number": 31,
+      "title": "Entführung in der Mondscheingasse",
+      "releaseYear": 1984
+    },
+    {
+      "number": 32,
+      "title": "Wilddiebe im Teufelsmoor",
+      "releaseYear": 1984
+    },
+    {
+      "number": 33,
+      "title": "Wer raubte das Millionenpferd?",
+      "releaseYear": 1984
+    },
+    {
+      "number": 34,
+      "title": "Vampir der Autobahn",
+      "releaseYear": 1984
+    },
+    {
+      "number": 35,
+      "title": "Die Nacht des Überfalls",
+      "releaseYear": 1985
+    },
+    {
+      "number": 36,
+      "title": "Das Geschenk des Bösen",
+      "releaseYear": 1985
+    },
+    {
+      "number": 37,
+      "title": "Der letzte Schuss",
+      "releaseYear": 1985
+    },
+    {
+      "number": 38,
+      "title": "Die weiße Schmuggler-Yacht",
+      "releaseYear": 1985
+    },
+    {
+      "number": 39,
+      "title": "Die Gift-Party",
+      "releaseYear": 1985
+    },
+    {
+      "number": 40,
+      "title": "Duell im Morgengrauen",
+      "releaseYear": 1986
+    },
+    {
+      "number": 41,
+      "title": "Heißes Gold im Silbersee",
+      "releaseYear": 1986
+    },
+    {
+      "number": 42,
+      "title": "Anschlag auf den Silberpfeil",
+      "releaseYear": 1986
+    },
+    {
+      "number": 43,
+      "title": "Gefangen in der Schreckenskammer",
+      "releaseYear": 1986
+    },
+    {
+      "number": 44,
+      "title": "Um Mitternacht am schwarzen Fluss",
+      "releaseYear": 1987
+    },
+    {
+      "number": 45,
+      "title": "Unternehmen Grüne Hölle",
+      "releaseYear": 1987
+    },
+    {
+      "number": 46,
+      "title": "Hotel in Flammen",
+      "releaseYear": 1987
+    },
+    {
+      "number": 47,
+      "title": "Todesfracht im Jaguar",
+      "releaseYear": 1987
+    },
+    {
+      "number": 48,
+      "title": "Bestien in der Finsternis",
+      "releaseYear": 1987
+    },
+    {
+      "number": 49,
+      "title": "Bombe an Bord",
+      "releaseYear": 1987
+    },
+    {
+      "number": 50,
+      "title": "Spion auf der Flucht",
+      "releaseYear": 1987
+    },
+    {
+      "number": 51,
+      "title": "Gangster auf der Gartenparty",
+      "releaseYear": 1987
+    },
+    {
+      "number": 52,
+      "title": "Überfall im Hafen",
+      "releaseYear": 1987
+    },
+    {
+      "number": 53,
+      "title": "Schüsse aus der Rosenhecke",
+      "releaseYear": 1987
+    },
+    {
+      "number": 54,
+      "title": "Alarm! Klößchen ist verschwunden",
+      "releaseYear": 1987
+    },
+    {
+      "number": 55,
+      "title": "Der Mörder aus dem Schauerwald",
+      "releaseYear": 1987
+    },
+    {
+      "number": 56,
+      "title": "Todesgruß vom Gelben Drachen",
+      "releaseYear": 1987
+    },
+    {
+      "number": 57,
+      "title": "Jagt das rote Geisterauto!",
+      "releaseYear": 1987
+    },
+    {
+      "number": 58,
+      "title": "Der doppelte Petro",
+      "releaseYear": 1987
+    },
+    {
+      "number": 59,
+      "title": "Trickdiebe auf Burg Drachenstein",
+      "releaseYear": 1988
+    },
+    {
+      "number": 60,
+      "title": "Der Teufel vom Weiga-See",
+      "releaseYear": 1988
+    },
+    {
+      "number": 61,
+      "title": "Im Schatten des Dämons",
+      "releaseYear": 1989
+    },
+    {
+      "number": 62,
+      "title": "Terror aus dem Pulverfass",
+      "releaseYear": 1989
+    },
+    {
+      "number": 63,
+      "title": "Die Falle am Fuchsbach",
+      "releaseYear": 1989
+    },
+    {
+      "number": 64,
+      "title": "Schwarze Pest aus Indien",
+      "releaseYear": 1989
+    },
+    {
+      "number": 65,
+      "title": "Sklaven aus Wutawia",
+      "releaseYear": 1989
+    },
+    {
+      "number": 66,
+      "title": "Gauner mit der Goldenen Hand",
+      "releaseYear": 1989
+    },
+    {
+      "number": 67,
+      "title": "Hinterhalt im Eulenforst",
+      "releaseYear": 1990
+    },
+    {
+      "number": 68,
+      "title": "Rauschgift-Razzia im Internat",
+      "releaseYear": 1990
+    },
+    {
+      "number": 69,
+      "title": "Achtung: Die Monster kommen!",
+      "releaseYear": 1990
+    },
+    {
+      "number": 70,
+      "title": "Wer hat Tims Mutter entführt?",
+      "releaseYear": 1990
+    },
+    {
+      "number": 71,
+      "title": "Stimmen aus der Unterwelt",
+      "releaseYear": 1991
+    },
+    {
+      "number": 72,
+      "title": "Taschengeld für ein Gespenst",
+      "releaseYear": 1991
+    },
+    {
+      "number": 73,
+      "title": "Herr der Schlangeninsel",
+      "releaseYear": 1991
+    },
+    {
+      "number": 74,
+      "title": "Im Schattenreich des Dr. Mabuse",
+      "releaseYear": 1991
+    },
+    {
+      "number": 75,
+      "title": "Lösegeld am Henkersberg",
+      "releaseYear": 1991
+    },
+    {
+      "number": 76,
+      "title": "Die Goldgräber-Bande",
+      "releaseYear": 1991
+    },
+    {
+      "number": 77,
+      "title": "Der erpresste Erpresser",
+      "releaseYear": 1992
+    },
+    {
+      "number": 78,
+      "title": "Heißer Draht nach Paradiso",
+      "releaseYear": 1992
+    },
+    {
+      "number": 79,
+      "title": "Ein Toter braucht Hilfe",
+      "releaseYear": 1992
+    },
+    {
+      "number": 80,
+      "title": "Weißes Gift im Nachtexpress",
+      "releaseYear": 1992
+    },
+    {
+      "number": 81,
+      "title": "Horror-Trip im Luxusauto",
+      "releaseYear": 1993
+    },
+    {
+      "number": 82,
+      "title": "Spuk aus dem Jenseits",
+      "releaseYear": 1993
+    },
+    {
+      "number": 83,
+      "title": "Hilfe! Gaby in Gefahr",
+      "releaseYear": 1993
+    },
+    {
+      "number": 84,
+      "title": "Dynamit im Kofferraum",
+      "releaseYear": 1993
+    },
+    {
+      "number": 85,
+      "title": "Freiheit für gequälte Tiere",
+      "releaseYear": 1993
+    },
+    {
+      "number": 86,
+      "title": "Die Schatzsuchermafia schlägt zu",
+      "releaseYear": 1993
+    },
+    {
+      "number": 87,
+      "title": "Der böse Geist vom Waisenhaus",
+      "releaseYear": 1994
+    },
+    {
+      "number": 88,
+      "title": "Kampf um das Zauberschwert",
+      "releaseYear": 1994
+    },
+    {
+      "number": 89,
+      "title": "Feind aus der Vergangenheit",
+      "releaseYear": 1994
+    },
+    {
+      "number": 90,
+      "title": "Schmuggler reisen unerkannt",
+      "releaseYear": 1994
+    },
+    {
+      "number": 91,
+      "title": "Crash-Kids riskieren ihr Leben",
+      "releaseYear": 1995
+    },
+    {
+      "number": 92,
+      "title": "Der grausame Rächer",
+      "releaseYear": 1995
+    },
+    {
+      "number": 93,
+      "title": "Die Opfer mit der kühlen Schnauze",
+      "releaseYear": 1995
+    },
+    {
+      "number": 94,
+      "title": "Um Mitternacht am Mamoor-Grab",
+      "releaseYear": 1996
+    },
+    {
+      "number": 95,
+      "title": "U-Bahn des Schreckens",
+      "releaseYear": 1996
+    },
+    {
+      "number": 96,
+      "title": "Die Entführung des Popstars",
+      "releaseYear": 1996
+    },
+    {
+      "number": 97,
+      "title": "Die Hand an den Sternen",
+      "releaseYear": 1996
+    },
+    {
+      "number": 98,
+      "title": "Die Haie vom Lotus-Garten",
+      "releaseYear": 1996
+    },
+    {
+      "number": 99,
+      "title": "Hilflos in eisiger Nacht",
+      "releaseYear": 1996
+    },
     {
       "number": 100,
       "title": "Fieser Trick mit Nr. 100",
