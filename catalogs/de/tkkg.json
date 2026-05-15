@@ -1,0 +1,854 @@
+{
+  "collectionName": "TKKG",
+  "version": 1,
+  "lastUpdated": "2026-05-15",
+  "entryCount": 141,
+  "entries": [
+    {
+      "number": 100,
+      "title": "Fieser Trick mit Nr. 100",
+      "releaseYear": 1996,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-100-fieser-trick-mit-nr-100/1195632440"
+    },
+    {
+      "number": 101,
+      "title": "Opfer fliegen 1. Klasse",
+      "releaseYear": 1997,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-101-opfer-fliegen-1-klasse/1195637277"
+    },
+    {
+      "number": 102,
+      "title": "Angst auf der Autobahn",
+      "releaseYear": 1997,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-102-angst-auf-der-autobahn/1195630985"
+    },
+    {
+      "number": 103,
+      "title": "Mörderischer Stammbaum",
+      "releaseYear": 1997,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-103-m%C3%B6rderischer-stammbaum/1195638051"
+    },
+    {
+      "number": 104,
+      "title": "Im Wettbüro des Teufels",
+      "releaseYear": 1997,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-104-im-wettb%C3%BCro-des-teufels/1195640824"
+    },
+    {
+      "number": 105,
+      "title": "Vermißte Kids und Killerpflanzen",
+      "releaseYear": 1997,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-105-vermi%C3%9Fte-kids-und-killerpflanzen/1195640806"
+    },
+    {
+      "number": 106,
+      "title": "Mädchenraub im Ferienhaus",
+      "releaseYear": 1997,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-106-m%C3%A4dchenraub-im-ferienhaus/1195639982"
+    },
+    {
+      "number": 107,
+      "title": "Lösegeld für einen Irrtum",
+      "releaseYear": 1998,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-107-l%C3%B6segeld-f%C3%BCr-einen-irrtum/1195639126"
+    },
+    {
+      "number": 108,
+      "title": "Das Konzert bei den Ratten",
+      "releaseYear": 1998,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-108-das-konzert-bei-den-ratten/1195639983"
+    },
+    {
+      "number": 109,
+      "title": "Mörderspiel im Burghotel",
+      "releaseYear": 1998,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-109-m%C3%B6rderspiel-im-burghotel/1195640800"
+    },
+    {
+      "number": 110,
+      "title": "Das Phantom im Schokoladenmuseum",
+      "releaseYear": 1998,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-110-das-phantom-im-schokoladenmuseum/1195642078"
+    },
+    {
+      "number": 111,
+      "title": "Die tödliche Falle",
+      "releaseYear": 1998,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-111-die-t%C3%B6dliche-falle/1195640790"
+    },
+    {
+      "number": 112,
+      "title": "Bombenspaß bei Kies & Knete",
+      "releaseYear": 1999,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-112-bombenspa%C3%9F-bei-kies-knete/1195643556"
+    },
+    {
+      "number": 113,
+      "title": "Mit heißer Nadel Jagd auf Kids",
+      "releaseYear": 1999,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-113-mit-hei%C3%9Fer-nadel-jagd-auf-kids/1195642309"
+    },
+    {
+      "number": 114,
+      "title": "Die Sekte Satans",
+      "releaseYear": 1999,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-114-die-sekte-satans/1216483973"
+    },
+    {
+      "number": 115,
+      "title": "Der Diamant im Bauch der Kobra",
+      "releaseYear": 1999,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-115-der-diamant-im-bauch-der-kobra/1086574965"
+    },
+    {
+      "number": 116,
+      "title": "Klassenfahrt zur Hexenburg",
+      "releaseYear": 1999,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-116-klassenfahrt-zur-hexenburg/1216486986"
+    },
+    {
+      "number": 117,
+      "title": "Im Schloß der schlafenden Vampire",
+      "releaseYear": 1999,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-117-im-schlo%C3%9F-der-schlafenden-vampire/1087173572"
+    },
+    {
+      "number": 118,
+      "title": "Im Kaufhaus ist der Teufel los",
+      "releaseYear": 2000,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-118-im-kaufhaus-ist-der-teufel-los/1216485638"
+    },
+    {
+      "number": 119,
+      "title": "Frische Spur nach 70 Jahren",
+      "releaseYear": 2000,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-119-frische-spur-nach-70-jahren/1216486401"
+    },
+    {
+      "number": 120,
+      "title": "Bei Anruf Angst",
+      "releaseYear": 2000,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-120-bei-anruf-angst/1216486746"
+    },
+    {
+      "number": 121,
+      "title": "Ein cooler Typ aus der Hölle",
+      "releaseYear": 2000,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-121-ein-cooler-typ-aus-der-h%C3%B6lle/1216489453"
+    },
+    {
+      "number": 122,
+      "title": "Der Goldschatz, der vom Himmel fiel",
+      "releaseYear": 2000,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-122-der-goldschatz-der-vom-himmel-fiel/1216483982"
+    },
+    {
+      "number": 123,
+      "title": "Mordkomplott im Luxus-Klo",
+      "releaseYear": 2000,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-123-mordkomplott-im-luxus-klo/1216488734"
+    },
+    {
+      "number": 124,
+      "title": "Vergebliche Suche nach Gaby",
+      "releaseYear": 2001,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-124-vergebliche-suche-nach-gaby/1086570316"
+    },
+    {
+      "number": 125,
+      "title": "Der Mörder aus einer anderen Zeit",
+      "releaseYear": 2001,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-125-der-m%C3%B6rder-aus-einer-anderen-zeit/1216486931"
+    },
+    {
+      "number": 126,
+      "title": "Teddy Talers Höllenfahrt",
+      "releaseYear": 2001,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-126-teddy-talers-h%C3%B6llenfahrt/1216485702"
+    },
+    {
+      "number": 127,
+      "title": "Im Schlauchboot durch die Unterwelt",
+      "releaseYear": 2001,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-127-im-schlauchboot-durch-die-unterwelt/1216485771"
+    },
+    {
+      "number": 129,
+      "title": "Der Erpresser fährt bis Endstation",
+      "releaseYear": 2001,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-129-der-erpresser-f%C3%A4hrt-bis-endstation/1087180132"
+    },
+    {
+      "number": 130,
+      "title": "Die gefährliche Zeugin verschwindet",
+      "releaseYear": 2002,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-130-die-gef%C3%A4hrliche-zeugin-verschwindet/1195643560"
+    },
+    {
+      "number": 131,
+      "title": "Stundenlohn für flotte Gangster",
+      "releaseYear": 2002,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-131-stundenlohn-f%C3%BCr-flotte-gangster/1216486640"
+    },
+    {
+      "number": 132,
+      "title": "Homejacker machen Überstunden",
+      "releaseYear": 2002,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-132-homejacker-machen-%C3%BCberstunden/1216486405"
+    },
+    {
+      "number": 133,
+      "title": "Auf vier Pfoten zur Millionenbeute",
+      "releaseYear": 2002,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-133-auf-vier-pfoten-zur-millionenbeute/1216489439"
+    },
+    {
+      "number": 134,
+      "title": "Wer stoppt die Weihnachts-Gangster",
+      "releaseYear": 2002,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-134-wer-stoppt-die-weihnachts-gangster/1216486782"
+    },
+    {
+      "number": 135,
+      "title": "Der Meisterdieb und seine Feinde",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-135-der-meisterdieb-und-seine-feinde/1216486752"
+    },
+    {
+      "number": 136,
+      "title": "Argentinische Entführung",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-136-argentinische-entf%C3%BChrung/1216486764"
+    },
+    {
+      "number": 137,
+      "title": "Verschleppt ins Tal Diabolo",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-137-verschleppt-ins-tal-diabolo/1087177228"
+    },
+    {
+      "number": 138,
+      "title": "Raubzug mit Bumerang",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-138-raubzug-mit-bumerang/1087177832"
+    },
+    {
+      "number": 139,
+      "title": "Oskar jagt die Drogendealer",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-139-oskar-jagt-die-drogendealer/1216489428"
+    },
+    {
+      "number": 140,
+      "title": "Draculas Erben",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-140-draculas-erben/1216484141"
+    },
+    {
+      "number": 141,
+      "title": "Todesbiss der schwarzen Mamba",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-141-todesbiss-der-schwarzen-mamba/1216489474"
+    },
+    {
+      "number": 142,
+      "title": "Bankräuber mit Supertrick",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-142-bankr%C3%A4uber-mit-supertrick/1087329868"
+    },
+    {
+      "number": 143,
+      "title": "Das unheimliche Haus",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-143-das-unheimliche-haus/1087322158"
+    },
+    {
+      "number": 144,
+      "title": "Schreckensnacht im Schlangenmaul",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-144-schreckensnacht-im-schlangenmaul/1087320310"
+    },
+    {
+      "number": 145,
+      "title": "Hinterhalt am schwarzen Fels",
+      "releaseYear": 2005,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-145-hinterhalt-am-schwarzen-fels/1087322970"
+    },
+    {
+      "number": 146,
+      "title": "Nonstop in die Raketenfalle",
+      "releaseYear": 2005,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-146-nonstop-in-die-raketenfalle/1087326483"
+    },
+    {
+      "number": 147,
+      "title": "Hölle ohne Hintertür",
+      "releaseYear": 2005,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-147-h%C3%B6lle-ohne-hintert%C3%BCr/1216489440"
+    },
+    {
+      "number": 148,
+      "title": "Fieser Trick beim Finale",
+      "releaseYear": 2005,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-148-fieser-trick-beim-finale/1087331214"
+    },
+    {
+      "number": 149,
+      "title": "Tims gefährlichster Gegner",
+      "releaseYear": 2005,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-149-tims-gef%C3%A4hrlichster-gegner/1087327191"
+    },
+    {
+      "number": 150,
+      "title": "Heiße Nächte im Dezember",
+      "releaseYear": 2006,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-150-hei%C3%9Fe-n%C3%A4chte-im-dezember/1216486809"
+    },
+    {
+      "number": 151,
+      "title": "Gekauftes Spiel",
+      "releaseYear": 2006,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-151-gekauftes-spiel/1087331218"
+    },
+    {
+      "number": 152,
+      "title": "Max und Anna, ein diebisches Paar",
+      "releaseYear": 2006,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-152-max-und-anna-ein-diebisches-paar/1087332112"
+    },
+    {
+      "number": 153,
+      "title": "Es geschah in einer Regennacht",
+      "releaseYear": 2007,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-153-es-geschah-in-einer-regennacht/1087333378"
+    },
+    {
+      "number": 154,
+      "title": "Das Geheimnis der Burgruine",
+      "releaseYear": 2007,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-154-das-geheimnis-der-burgruine/1087325899"
+    },
+    {
+      "number": 155,
+      "title": "Gefangen im Spukhaus",
+      "releaseYear": 2007,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-155-gefangen-im-spukhaus/1087319262"
+    },
+    {
+      "number": 156,
+      "title": "Erpresser fahren Achterbahn",
+      "releaseYear": 2007,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-156-erpresser-fahren-achterbahn/1087323229"
+    },
+    {
+      "number": 157,
+      "title": "Oskar und die sieben Zwerge",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-157-oskar-und-die-sieben-zwerge/1087330050"
+    },
+    {
+      "number": 158,
+      "title": "Trainer unter Verdacht",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-158-trainer-unter-verdacht/1087325856"
+    },
+    {
+      "number": 159,
+      "title": "Böses Spiel im Sommercamp",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-159-b%C3%B6ses-spiel-im-sommercamp/1216489187"
+    },
+    {
+      "number": 160,
+      "title": "Das Grauen naht um Zwölf",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-160-das-grauen-naht-um-zw%C3%B6lf/1216485027"
+    },
+    {
+      "number": 161,
+      "title": "Ein Yeti in der Millionenstadt",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-161-ein-yeti-in-der-millionenstadt/1216486749"
+    },
+    {
+      "number": 162,
+      "title": "Gefahr für Oskar!",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-162-gefahr-f%C3%BCr-oskar/1216488364"
+    },
+    {
+      "number": 163,
+      "title": "Die Makler-Mafia",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-163-die-makler-mafia/1216486936"
+    },
+    {
+      "number": 164,
+      "title": "Operation Hexen-Graffiti",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-164-operation-hexen-graffiti/1216486910"
+    },
+    {
+      "number": 165,
+      "title": "Advent mit Knall-Effekt",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-165-advent-mit-knall-effekt/1216486810"
+    },
+    {
+      "number": 166,
+      "title": "Das Mädchen mit der Kristallkugel",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-166-das-m%C3%A4dchen-mit-der-kristallkugel/1087322825"
+    },
+    {
+      "number": 167,
+      "title": "Der Unsichtbare",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-167-der-unsichtbare/1087320423"
+    },
+    {
+      "number": 168,
+      "title": "Millionencoup im Stadion",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-168-millionencoup-im-stadion/1087327950"
+    },
+    {
+      "number": 169,
+      "title": "Tatort Dschungel",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-169-tatort-dschungel/1087322245"
+    },
+    {
+      "number": 170,
+      "title": "Schock im Schnee",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-170-schock-im-schnee/1087328597"
+    },
+    {
+      "number": 171,
+      "title": "Das lebende Gemälde",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-171-das-lebende-gem%C3%A4lde/1087332113"
+    },
+    {
+      "number": 172,
+      "title": "Das Geheimnis der Moorleiche",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-172-das-geheimnis-der-moorleiche/1087326266"
+    },
+    {
+      "number": 173,
+      "title": "Die Skelettbande",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-173-die-skelettbande/1087331843"
+    },
+    {
+      "number": 174,
+      "title": "Doppelgänger auf der Rennbahn",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-174-doppelg%C3%A4nger-auf-der-rennbahn/1087326606"
+    },
+    {
+      "number": 175,
+      "title": "Nachtwanderung mit Schrecken",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-175-nachtwanderung-mit-schrecken/1154531423"
+    },
+    {
+      "number": 176,
+      "title": "Verbrechen im Rampenlicht",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-176-verbrechen-im-rampenlicht/1087329422"
+    },
+    {
+      "number": 177,
+      "title": "Die Spur der Wölfin",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-177-die-spur-der-w%C3%B6lfin/1087329715"
+    },
+    {
+      "number": 178,
+      "title": "Hai-Alarm im Aquapark",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-178-hai-alarm-im-aquapark/1087326591"
+    },
+    {
+      "number": 179,
+      "title": "Abzocke im Online-Chat",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-179-abzocke-im-online-chat/1087331171"
+    },
+    {
+      "number": 180,
+      "title": "Alarm im Raubtierhaus",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-180-alarm-im-raubtierhaus/1087321042"
+    },
+    {
+      "number": 181,
+      "title": "Der vertauschte Koffer",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-181-der-vertauschte-koffer/1087333074"
+    },
+    {
+      "number": 182,
+      "title": "Im Bann des Übersinnlichen",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-182-im-bann-des-%C3%BCbersinnlichen/1087327153"
+    },
+    {
+      "number": 183,
+      "title": "Blindgänger im Villenviertel",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-183-blindg%C3%A4nger-im-villenviertel/1087322498"
+    },
+    {
+      "number": 184,
+      "title": "Die ewige Finsternis",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-184-die-ewige-finsternis/1087321041"
+    },
+    {
+      "number": 185,
+      "title": "der unsichtbare Dieb",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-185-der-unsichtbare-dieb/1087336971"
+    },
+    {
+      "number": 186,
+      "title": "Die schlafende Chinesin",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-186-die-schlafende-chinesin/1087334826"
+    },
+    {
+      "number": 187,
+      "title": "Ausspioniert!",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-187-ausspioniert/1087327863"
+    },
+    {
+      "number": 188,
+      "title": "Die blauen Schafe von Artelsbach",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-188-die-blauen-schafe-von-artelsbach/1087329420"
+    },
+    {
+      "number": 189,
+      "title": "Iwan, der Schreckliche",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-189-iwan-der-schreckliche/1087320030"
+    },
+    {
+      "number": 190,
+      "title": "Der eiskalte Clown",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-190-der-eiskalte-clown/1087320029"
+    },
+    {
+      "number": 191,
+      "title": "Nord-Nordwest zum Hexenplatz",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-191-nord-nordwest-zum-hexenplatz/1087307958"
+    },
+    {
+      "number": 192,
+      "title": "Feuer auf Gut Ribbeck!",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-192-feuer-auf-gut-ribbeck/1087307956"
+    },
+    {
+      "number": 193,
+      "title": "Das Weihnachts-Phantom",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-193-das-weihnachts-phantom/1087308911"
+    },
+    {
+      "number": 194,
+      "title": "Der Friedhof der Namenlosen",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-194-der-friedhof-der-namenlosen/1087309130"
+    },
+    {
+      "number": 195,
+      "title": "Dem Sonnenkönig auf der Spur",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-195-dem-sonnenk%C3%B6nig-auf-der-spur/1150338992"
+    },
+    {
+      "number": 196,
+      "title": "Tatort Wagenburg",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-196-tatort-wagenburg/1148959439"
+    },
+    {
+      "number": 197,
+      "title": "Bei Anpfiff Übergabe",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-197-bei-anpfiff-%C3%BCbergabe/1148961615"
+    },
+    {
+      "number": 198,
+      "title": "Der Golem vom Dunkelsee",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-198-der-golem-vom-dunkelsee/1145292244"
+    },
+    {
+      "number": 199,
+      "title": "Verfolgungsjagd vor Mitternacht",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-199-verfolgungsjagd-vor-mitternacht/1174859884"
+    },
+    {
+      "number": 200,
+      "title": "Der große Coup",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-200-der-gro%C3%9Fe-coup/1208973032"
+    },
+    {
+      "number": 201,
+      "title": "Vom Goldschatz besessen",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-201-vom-goldschatz-besessen/1233291606"
+    },
+    {
+      "number": 202,
+      "title": "Ein Paradies für Diebe",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-202-ein-paradies-f%C3%BCr-diebe/1245097655"
+    },
+    {
+      "number": 203,
+      "title": "Der Räuber mit der Weihnachtsmaske",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-203-der-r%C3%A4uber-mit-der-weihnachtsmaske/1298617442"
+    },
+    {
+      "number": 204,
+      "title": "Verschwörung auf hoher See",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-204-verschw%C3%B6rung-auf-hoher-see/1332712464"
+    },
+    {
+      "number": 205,
+      "title": "Teuflische Kaffeefahrt",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-205-teuflische-kaffeefahrt/1345999553"
+    },
+    {
+      "number": 206,
+      "title": "Achtung, UFO-Kult!",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-206-achtung-ufo-kult/1371388955"
+    },
+    {
+      "number": 207,
+      "title": "Doppelte Entführung",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-207-doppelte-entf%C3%BChrung/1397341082"
+    },
+    {
+      "number": 208,
+      "title": "Geheimnis im Tresor",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-208-geheimnis-im-tresor/1439195203"
+    },
+    {
+      "number": 209,
+      "title": "Drohbriefe von Unbekannt",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-209-drohbriefe-von-unbekannt/1449473902"
+    },
+    {
+      "number": 210,
+      "title": "Raubzug im Casino",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-210-raubzug-im-casino/1454389428"
+    },
+    {
+      "number": 211,
+      "title": "Geiselnahme im Villenviertel",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-211-geiselnahme-im-villenviertel/1480819029"
+    },
+    {
+      "number": 212,
+      "title": "Tyrannei Kommando Eins",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-212-tyrannei-kommando-eins/1477493477"
+    },
+    {
+      "number": 213,
+      "title": "Das unheimliche Dorf",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-213-das-unheimliche-dorf/1486568481"
+    },
+    {
+      "number": 214,
+      "title": "Diamantenrausch auf der A9",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-214-diamantenrausch-auf-der-a9/1493944495"
+    },
+    {
+      "number": 215,
+      "title": "Verbrechen im Moorsteiner Wald",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-215-verbrechen-im-moorsteiner-wald/1521299226"
+    },
+    {
+      "number": 216,
+      "title": "Das Geheimnis im Jagdschloss",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-216-das-geheimnis-im-jagdschloss/1536103124"
+    },
+    {
+      "number": 217,
+      "title": "Tödliche Klarinette",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-217-t%C3%B6dliche-klarinette/1542192404"
+    },
+    {
+      "number": 218,
+      "title": "Schutzgeld für Dämonen",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-218-schutzgeld-f%C3%BCr-d%C3%A4monen/1559602751"
+    },
+    {
+      "number": 219,
+      "title": "Terror frei Haus",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-219-terror-frei-haus/1560974913"
+    },
+    {
+      "number": 220,
+      "title": "Attentat am Gämsengrat",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-220-attentat-am-g%C3%A4msengrat/1580961248"
+    },
+    {
+      "number": 221,
+      "title": "Beim Raubzug helfen Ahnungslose",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-221-beim-raubzug-helfen-ahnungslose/1600511548"
+    },
+    {
+      "number": 222,
+      "title": "Roter Drache 222",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-222-roter-drache-222/1685179952"
+    },
+    {
+      "number": 223,
+      "title": "Betrüger Super Sauber",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-223-betr%C3%BCger-super-sauber/1685181389"
+    },
+    {
+      "number": 224,
+      "title": "Bilderdiebe haben kein Gesicht",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-224-bilderdiebe-haben-kein-gesicht/1685185731"
+    },
+    {
+      "number": 225,
+      "title": "Tanz mit der Giftschlange",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-225-tanz-mit-der-giftschlange/1751465070"
+    },
+    {
+      "number": 226,
+      "title": "Der Täter ist unter uns",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-226-der-t%C3%A4ter-ist-unter-uns/1751465793"
+    },
+    {
+      "number": 227,
+      "title": "Zwei für Zwölf",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-227-zwei-f%C3%BCr-zw%C3%B6lf/1751468455"
+    },
+    {
+      "number": 228,
+      "title": "Das Geld, das niemand wollte",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-228-das-geld-das-niemand-wollte/1751468665"
+    },
+    {
+      "number": 229,
+      "title": "Auf den Schwingen des Totenvogels",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-229-auf-den-schwingen-des-totenvogels/1751467059"
+    },
+    {
+      "number": 230,
+      "title": "Die Tesla-Verschwörung",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-230-die-tesla-verschw%C3%B6rung/1751468268"
+    },
+    {
+      "number": 231,
+      "title": "Knackis streicheln mit der Faust",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-231-knackis-streicheln-mit-der-faust/1751468642"
+    },
+    {
+      "number": 232,
+      "title": "Drohnenaugen in der Nacht",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-232-drohnenaugen-in-der-nacht/1751468900"
+    },
+    {
+      "number": 233,
+      "title": "Räuberwald",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-233-r%C3%A4uberwald/1754104087"
+    },
+    {
+      "number": 234,
+      "title": "Im Auftrag des Bösen",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-234-im-auftrag-des-b%C3%B6sen/1764059248"
+    },
+    {
+      "number": 235,
+      "title": "Ein Gruselfest für ein Vermögen",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-235-ein-gruselfest-f%C3%BCr-ein-verm%C3%B6gen/1777053460"
+    },
+    {
+      "number": 236,
+      "title": "Schatten aus der Unterwelt (Das Hörspiel zur Live-Tour)",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-236-schatten-aus-der-unterwelt-das-h%C3%B6rspiel-zur/1794142382"
+    },
+    {
+      "number": 237,
+      "title": "K.I. Kriminelle Illusion",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-237-k-i-kriminelle-illusion/1799909287"
+    },
+    {
+      "number": 238,
+      "title": "Nur Tote schlafen länger",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-238-nur-tote-schlafen-l%C3%A4nger/1822997217"
+    },
+    {
+      "number": 239,
+      "title": "Vollgas ins Verderben",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-239-vollgas-ins-verderben/1836900059"
+    },
+    {
+      "number": 240,
+      "title": "Das verschollene Zepter von Gizeh",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-240-das-verschollene-zepter-von-gizeh/1869244321"
+    },
+    {
+      "number": 241,
+      "title": "Das Rätsel der Gruselvilla",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-241-das-r%C3%A4tsel-der-gruselvilla/1880633189"
+    }
+  ]
+}

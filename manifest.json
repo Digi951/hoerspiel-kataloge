@@ -25,6 +25,12 @@
       "name": "Bibi Blocksberg",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/bibi_blocksberg.json"
+    },
+    {
+      "id": "tkkg",
+      "name": "TKKG",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/tkkg.json"
     }
   ]
 }
