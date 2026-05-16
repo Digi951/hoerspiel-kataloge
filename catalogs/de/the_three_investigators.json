@@ -1,1347 +1,1585 @@
 {
   "collectionName": "Die drei ???",
-  "version": 1,
-  "lastUpdated": "2026-05-15",
+  "version": 2,
+  "lastUpdated": "2026-05-16",
   "entryCount": 240,
   "entries": [
     {
       "number": 1,
       "title": "und der Super-Papagei",
       "releaseYear": 1979,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-1-und-der-super-papagei/386150027"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-1-und-der-super-papagei/386150027",
+      "spotifyURL": "https://open.spotify.com/album/4N9tvSjWfZXx3eHKblYEWQ"
     },
     {
       "number": 2,
       "title": "und der Phantomsee",
       "releaseYear": 1979,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-2-und-der-phantomsee/386137830"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-2-und-der-phantomsee/386137830",
+      "spotifyURL": "https://open.spotify.com/album/0xldqK4Ocdt8dwQSxUzt6x"
     },
     {
       "number": 3,
       "title": "und der Karpatenhund",
       "releaseYear": 1979,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-3-und-der-karpatenhund/386138485"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-3-und-der-karpatenhund/386138485",
+      "spotifyURL": "https://open.spotify.com/album/61OtrnMm1lqoMgMRb1aw7g"
     },
     {
       "number": 4,
       "title": "und die schwarze Katze",
-      "releaseYear": 1979
+      "releaseYear": 1979,
+      "spotifyURL": "https://open.spotify.com/album/2w902iYtkf0ipmTImyLlsL"
     },
     {
       "number": 5,
       "title": "und der Fluch des Rubins",
-      "releaseYear": 1979
+      "releaseYear": 1979,
+      "spotifyURL": "https://open.spotify.com/album/5YWM39RnabpxekZuHriTam"
     },
     {
       "number": 6,
       "title": "und der sprechende Totenkopf",
-      "releaseYear": 1979
+      "releaseYear": 1979,
+      "spotifyURL": "https://open.spotify.com/album/54eP8BYMR270sTqklv83V0"
     },
     {
       "number": 7,
       "title": "und der unheimliche Drache",
-      "releaseYear": 1979
+      "releaseYear": 1979,
+      "spotifyURL": "https://open.spotify.com/album/3nGyW4ETDrDpInYEAQCyYS"
     },
     {
       "number": 8,
       "title": "und der grüne Geist",
-      "releaseYear": 1979
+      "releaseYear": 1979,
+      "spotifyURL": "https://open.spotify.com/album/6MRsf5IcfqJIogaNqtESnh"
     },
     {
       "number": 9,
       "title": "und die rätselhaften Bilder",
-      "releaseYear": 1979
+      "releaseYear": 1979,
+      "spotifyURL": "https://open.spotify.com/album/0aNqdp5ayuUNsOdUwu8x0b"
     },
     {
       "number": 10,
       "title": "und die flüsternde Mumie",
-      "releaseYear": 1980
+      "releaseYear": 1980,
+      "spotifyURL": "https://open.spotify.com/album/4h75QQIxW1etThTuw6vWzg"
     },
     {
       "number": 11,
       "title": "und das Gespensterschloss",
       "releaseYear": 1980,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-11-und-das-gespensterschloss/386130452"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-11-und-das-gespensterschloss/386130452",
+      "spotifyURL": "https://open.spotify.com/album/07EhJ6uxWcQQWKeXJ1e8Lb"
     },
     {
       "number": 12,
       "title": "und der seltsame Wecker",
       "releaseYear": 1980,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-12-und-der-seltsame-wecker/386142921"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-12-und-der-seltsame-wecker/386142921",
+      "spotifyURL": "https://open.spotify.com/album/0bSrvyOjOzFoFJfx3uaFgk"
     },
     {
       "number": 13,
       "title": "und der lachende Schatten",
       "releaseYear": 1980,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-13-und-der-lachende-schatten/386139424"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-13-und-der-lachende-schatten/386139424",
+      "spotifyURL": "https://open.spotify.com/album/2AZ7zFBophWEIuBPjAG60I"
     },
     {
       "number": 14,
       "title": "und das Bergmonster",
-      "releaseYear": 1980
+      "releaseYear": 1980,
+      "spotifyURL": "https://open.spotify.com/album/3O5STjjugoL5cNKfeRuBiU"
     },
     {
       "number": 15,
       "title": "und der rasende Löwe",
       "releaseYear": 1980,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-15-und-der-rasende-l%C3%B6we/386133439"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-15-und-der-rasende-l%C3%B6we/386133439",
+      "spotifyURL": "https://open.spotify.com/album/2dQYcaTRh5qEYk2oH7WoBC"
     },
     {
       "number": 16,
       "title": "und der Zauberspiegel",
       "releaseYear": 1980,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-16-und-der-zauberspiegel/386140193"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-16-und-der-zauberspiegel/386140193",
+      "spotifyURL": "https://open.spotify.com/album/16dOhg07DVqoSxlS7ToLM5"
     },
     {
       "number": 17,
       "title": "und die gefährliche Erbschaft",
-      "releaseYear": 1980
+      "releaseYear": 1980,
+      "spotifyURL": "https://open.spotify.com/album/0CMsNalUakIcv6znyVLALr"
     },
     {
       "number": 18,
       "title": "und die Geisterinsel",
       "releaseYear": 1980,
-      "appleMusicURL": "https://music.apple.com/de/album/die-drei-folge-18-und-die-geisterinsel/386138499"
+      "appleMusicURL": "https://music.apple.com/de/album/die-drei-folge-18-und-die-geisterinsel/386138499",
+      "spotifyURL": "https://open.spotify.com/album/1yqICFWBL4l7fJkrFWvfWL"
     },
     {
       "number": 19,
       "title": "und der Teufelsberg",
       "releaseYear": 1980,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-19-und-der-teufelsberg/386142435"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-19-und-der-teufelsberg/386142435",
+      "spotifyURL": "https://open.spotify.com/album/3JqJ2zIt3UzKug7onmbmAo"
     },
     {
       "number": 20,
       "title": "und die flammende Spur",
-      "releaseYear": 1980
+      "releaseYear": 1980,
+      "spotifyURL": "https://open.spotify.com/album/5ilbdbGu5eQRUIsbslyiLe"
     },
     {
       "number": 21,
       "title": "und der tanzende Teufel",
-      "releaseYear": 1980
+      "releaseYear": 1980,
+      "spotifyURL": "https://open.spotify.com/album/2koZEkq7vQnHjMP73gVXCo"
     },
     {
       "number": 22,
       "title": "und der verschwundene Schatz",
       "releaseYear": 1981,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-22-und-der-verschwundene-schatz/386131430"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-22-und-der-verschwundene-schatz/386131430",
+      "spotifyURL": "https://open.spotify.com/album/7i50aK2wKvszWNnay4DtxP"
     },
     {
       "number": 23,
       "title": "und das Aztekenschwert",
-      "releaseYear": 1981
+      "releaseYear": 1981,
+      "spotifyURL": "https://open.spotify.com/album/67qFOAxbhNRHEIeOjQ9Zkp"
     },
     {
       "number": 24,
       "title": "und die silberne Spinne",
-      "releaseYear": 1981
+      "releaseYear": 1981,
+      "spotifyURL": "https://open.spotify.com/album/211IEWHi59nUsHx8li8G9r"
     },
     {
       "number": 25,
       "title": "und die singende Schlange",
-      "releaseYear": 1981
+      "releaseYear": 1981,
+      "spotifyURL": "https://open.spotify.com/album/6RXr8BmKNSK9Zk11k0I7Dl"
     },
     {
       "number": 26,
       "title": "und die Silbermine",
-      "releaseYear": 1981
+      "releaseYear": 1981,
+      "spotifyURL": "https://open.spotify.com/album/2NSreywe8UbWo7BJVY3Spk"
     },
     {
       "number": 27,
       "title": "und der magische Kreis",
-      "releaseYear": 1981
+      "releaseYear": 1981,
+      "spotifyURL": "https://open.spotify.com/album/2AisAUu4deLpNi6g6qlTLC"
     },
     {
       "number": 28,
       "title": "und der Doppelgänger",
       "releaseYear": 1982,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-28-und-der-doppelg%C3%A4nger/386147748"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-28-und-der-doppelg%C3%A4nger/386147748",
+      "spotifyURL": "https://open.spotify.com/album/7Dbd2rya9glmBLVxclcU4d"
     },
     {
       "number": 29,
       "title": "Die Originalmusik",
-      "releaseYear": 1982
+      "releaseYear": 1982,
+      "spotifyURL": "https://open.spotify.com/album/5JHijjtr65MjdNOnNvD3Ec"
     },
     {
       "number": 30,
       "title": "und das Riff der Haie",
       "releaseYear": 1982,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-30-und-das-riff-der-haie/386132004"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-30-und-das-riff-der-haie/386132004",
+      "spotifyURL": "https://open.spotify.com/album/0zV9pnaXLuogDr6prsvb4M"
     },
     {
       "number": 31,
       "title": "und das Narbengesicht",
       "releaseYear": 1983,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-31-und-das-narbengesicht/386139698"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-31-und-das-narbengesicht/386139698",
+      "spotifyURL": "https://open.spotify.com/album/0tPetsUWuZIC0E85x6eVN5"
     },
     {
       "number": 32,
       "title": "und der Ameisenmensch",
       "releaseYear": 1983,
-      "appleMusicURL": "https://music.apple.com/de/album/32-3er-box-folgen-94-96/930842642"
+      "appleMusicURL": "https://music.apple.com/de/album/32-3er-box-folgen-94-96/930842642",
+      "spotifyURL": "https://open.spotify.com/album/7K3VEzD1rm0dgUGBi1i5PW"
     },
     {
       "number": 33,
       "title": "und die bedrohte Ranch",
-      "releaseYear": 1983
+      "releaseYear": 1983,
+      "spotifyURL": "https://open.spotify.com/album/1imKVIfJIM0vKNymevqKjP"
     },
     {
       "number": 34,
       "title": "und der rote Pirat",
       "releaseYear": 1984,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-34-und-der-rote-pirat/386146406"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-34-und-der-rote-pirat/386146406",
+      "spotifyURL": "https://open.spotify.com/album/2L18qTB1EfS4FuBk2M6QwV"
     },
     {
       "number": 35,
       "title": "und der Höhlenmensch",
       "releaseYear": 1984,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-35-und-der-h%C3%B6hlenmensch/386132056"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-35-und-der-h%C3%B6hlenmensch/386132056",
+      "spotifyURL": "https://open.spotify.com/album/2REEfC6tVMiYv1eKMlGiOX"
     },
     {
       "number": 36,
       "title": "und der Super-Wal",
-      "releaseYear": 1985
+      "releaseYear": 1985,
+      "spotifyURL": "https://open.spotify.com/album/4R24oyyqxGkczNpqWGCXBZ"
     },
     {
       "number": 37,
       "title": "und der heimliche Hehler",
-      "releaseYear": 1985
+      "releaseYear": 1985,
+      "spotifyURL": "https://open.spotify.com/album/6R4gnRHXKgw2cxneWgTiEL"
     },
     {
       "number": 38,
       "title": "und der unsichtbare Gegner",
-      "releaseYear": 1986
+      "releaseYear": 1986,
+      "spotifyURL": "https://open.spotify.com/album/6d3Pavm0enVICdOvBEqxYA"
     },
     {
       "number": 39,
       "title": "und die Perlenvögel",
-      "releaseYear": 1986
+      "releaseYear": 1986,
+      "spotifyURL": "https://open.spotify.com/album/0AKPkUh4ElyZNipc0lZoiR"
     },
     {
       "number": 40,
       "title": "und der Automarder",
-      "releaseYear": 1986
+      "releaseYear": 1986,
+      "spotifyURL": "https://open.spotify.com/album/2IIw1KESZrJQBFdZQAWcKY"
     },
     {
       "number": 41,
       "title": "und das Volk der Winde",
-      "releaseYear": 1987
+      "releaseYear": 1987,
+      "spotifyURL": "https://open.spotify.com/album/5KUXX8H2LNsuik46M5XLx0"
     },
     {
       "number": 42,
       "title": "und der weinende Sarg",
-      "releaseYear": 1987
+      "releaseYear": 1987,
+      "spotifyURL": "https://open.spotify.com/album/24bba3w45LGGm7ps3qonkc"
     },
     {
       "number": 43,
       "title": "und der höllische Werwolf",
-      "releaseYear": 1988
+      "releaseYear": 1988,
+      "spotifyURL": "https://open.spotify.com/album/48QVzskevXtA0KpJjXzvb1"
     },
     {
       "number": 44,
       "title": "und der gestohlene Preis",
-      "releaseYear": 1988
+      "releaseYear": 1988,
+      "spotifyURL": "https://open.spotify.com/album/6JNNLdq9ELeKENK3RmxLWQ"
     },
     {
       "number": 45,
       "title": "und das Gold der Wikinger",
-      "releaseYear": 1989
+      "releaseYear": 1989,
+      "spotifyURL": "https://open.spotify.com/album/39mWWzaUZp0AXyN9Vnp4od"
     },
     {
       "number": 46,
       "title": "und der schrullige Millionär",
-      "releaseYear": 1989
+      "releaseYear": 1989,
+      "spotifyURL": "https://open.spotify.com/album/6YX4i7aMCYmn20zvAFM3lG"
     },
     {
       "number": 47,
       "title": "und der giftige Gockel",
-      "releaseYear": 1989
+      "releaseYear": 1989,
+      "spotifyURL": "https://open.spotify.com/album/3iWNsrEs9D0FFlKFfscdvL"
     },
     {
       "number": 48,
       "title": "und die gefährlichen Fässer",
       "releaseYear": 1990,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-48-und-die-gef%C3%A4hrlichen-f%C3%A4sser/386146029"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-48-und-die-gef%C3%A4hrlichen-f%C3%A4sser/386146029",
+      "spotifyURL": "https://open.spotify.com/album/5IRxm1lo35PttzU8YLslZy"
     },
     {
       "number": 49,
       "title": "und die Comic-Diebe",
-      "releaseYear": 1990
+      "releaseYear": 1990,
+      "spotifyURL": "https://open.spotify.com/album/7t2SteAH5OnLLC1ghTAmka"
     },
     {
       "number": 50,
       "title": "und der verschwundene Filmstar",
-      "releaseYear": 1991
+      "releaseYear": 1991,
+      "spotifyURL": "https://open.spotify.com/album/6DKfjDIB1BSYRGAi2YJYm3"
     },
     {
       "number": 51,
       "title": "und der riskante Ritt",
-      "releaseYear": 1991
+      "releaseYear": 1991,
+      "spotifyURL": "https://open.spotify.com/album/71kiy6INV3LzsCddpTZoHf"
     },
     {
       "number": 52,
       "title": "und die Musikpiraten",
-      "releaseYear": 1991
+      "releaseYear": 1991,
+      "spotifyURL": "https://open.spotify.com/album/3pXJh2A9gYzNt22rEIE5q7"
     },
     {
       "number": 53,
       "title": "und die Automafia",
-      "releaseYear": 1991
+      "releaseYear": 1991,
+      "spotifyURL": "https://open.spotify.com/album/0F9ebKwTd5RNZZOu49lWuF"
     },
     {
       "number": 54,
       "title": "Gefahr im Verzug",
-      "releaseYear": 1992
+      "releaseYear": 1992,
+      "spotifyURL": "https://open.spotify.com/album/1Fg15cBLFliy6Kr60QqRan"
     },
     {
       "number": 55,
       "title": "Gekaufte Spieler",
       "releaseYear": 1992,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-55-57-3er-box-vol-19/298752371"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-55-57-3er-box-vol-19/298752371",
+      "spotifyURL": "https://open.spotify.com/album/4oH2GUWlSSsSgVkxyPVHX1"
     },
     {
       "number": 56,
       "title": "Angriff der Computer-Viren",
-      "releaseYear": 1992
+      "releaseYear": 1992,
+      "spotifyURL": "https://open.spotify.com/album/3fotka2Hbq0N7V9KKWIDdw"
     },
     {
       "number": 57,
       "title": "Tatort Zirkus",
-      "releaseYear": 1994
+      "releaseYear": 1994,
+      "spotifyURL": "https://open.spotify.com/album/5W6dRiaeSVE7zUBYHbepak"
     },
     {
       "number": 58,
       "title": "und der verrückte Maler",
-      "releaseYear": 1994
+      "releaseYear": 1994,
+      "spotifyURL": "https://open.spotify.com/album/6DWykdlgf60Mq02hPAGYVD"
     },
     {
       "number": 59,
       "title": "Giftiges Wasser",
-      "releaseYear": 1994
+      "releaseYear": 1994,
+      "spotifyURL": "https://open.spotify.com/album/2qcA1EqAoUsqxXqIivY6Zc"
     },
     {
       "number": 60,
       "title": "Dopingmixer",
       "releaseYear": 1994,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-60-dopingmixer/386129397"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-60-dopingmixer/386129397",
+      "spotifyURL": "https://open.spotify.com/album/7cBoiWgh1bTMZmCwJE0eMu"
     },
     {
       "number": 61,
       "title": "und die Rache des Tigers",
-      "releaseYear": 1995
+      "releaseYear": 1995,
+      "spotifyURL": "https://open.spotify.com/album/26M4ktHp3isOX6XJazAxPn"
     },
     {
       "number": 62,
       "title": "Spuk im Hotel",
-      "releaseYear": 1995
+      "releaseYear": 1995,
+      "spotifyURL": "https://open.spotify.com/album/0biXUv1uGUaVsPcw8nAZCY"
     },
     {
       "number": 63,
       "title": "Fußball-Gangster",
-      "releaseYear": 1995
+      "releaseYear": 1995,
+      "spotifyURL": "https://open.spotify.com/album/5GPTZKrD7eaCp9p6VOBuIN"
     },
     {
       "number": 64,
       "title": "Geisterstadt",
-      "releaseYear": 1995
+      "releaseYear": 1995,
+      "spotifyURL": "https://open.spotify.com/album/0tmMvsGyWRzVckCYgkvve3"
     },
     {
       "number": 65,
       "title": "Diamantenschmuggel",
-      "releaseYear": 1995
+      "releaseYear": 1995,
+      "spotifyURL": "https://open.spotify.com/album/62z7yW4RKhhuAp0RklmNvc"
     },
     {
       "number": 66,
       "title": "und die Schattenmänner",
-      "releaseYear": 1995
+      "releaseYear": 1995,
+      "spotifyURL": "https://open.spotify.com/album/6qj4LD0zotutkIgEg9OvDj"
     },
     {
       "number": 67,
       "title": "Geheimnis der Särge",
-      "releaseYear": 1995
+      "releaseYear": 1995,
+      "spotifyURL": "https://open.spotify.com/album/7Hjk98j1FSrHV5IHWmeeFh"
     },
     {
       "number": 68,
       "title": "Schatz im Bergsee",
-      "releaseYear": 1996
+      "releaseYear": 1996,
+      "spotifyURL": "https://open.spotify.com/album/21pUsEhxssm6fvumGFmi35"
     },
     {
       "number": 69,
       "title": "Späte Rache",
-      "releaseYear": 1996
+      "releaseYear": 1996,
+      "spotifyURL": "https://open.spotify.com/album/2erJcBofKBO6GFMqDPppsU"
     },
     {
       "number": 70,
       "title": "Schüsse aus dem Dunkel",
-      "releaseYear": 1996
+      "releaseYear": 1996,
+      "spotifyURL": "https://open.spotify.com/album/4mlQEwk6I0XuksZCYTtatz"
     },
     {
       "number": 71,
       "title": "Die verschwundene Seglerin",
       "releaseYear": 1996,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-71-die-verschwundene-seglerin/386126675"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-71-die-verschwundene-seglerin/386126675",
+      "spotifyURL": "https://open.spotify.com/album/6EEN6onzbHIOxnwUkGfKhv"
     },
     {
       "number": 72,
       "title": "Dreckiger Deal",
-      "releaseYear": 1996
+      "releaseYear": 1996,
+      "spotifyURL": "https://open.spotify.com/album/2GQjkF0ceIse6jVZkUuAQc"
     },
     {
       "number": 73,
       "title": "Poltergeist",
       "releaseYear": 1997,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-73-poltergeist/386131396"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-73-poltergeist/386131396",
+      "spotifyURL": "https://open.spotify.com/album/1K8kXLhNnHSdPvtUwf74DE"
     },
     {
       "number": 74,
       "title": "und das brennende Schwert",
       "releaseYear": 1997,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-74-und-das-brennende-schwert/386129231"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-74-und-das-brennende-schwert/386129231",
+      "spotifyURL": "https://open.spotify.com/album/69VLqtWA1bpguYRCFRAxQl"
     },
     {
       "number": 75,
       "title": "Die Spur des Raben",
-      "releaseYear": 1997
+      "releaseYear": 1997,
+      "spotifyURL": "https://open.spotify.com/album/2IqfdlQamN3vCWN3CKLEVI"
     },
     {
       "number": 76,
       "title": "Stimmen aus dem Nichts",
       "releaseYear": 1997,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-76-stimmen-aus-dem-nichts/386131484"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-76-stimmen-aus-dem-nichts/386131484",
+      "spotifyURL": "https://open.spotify.com/album/6RDPGc2budsdTw1lj8f2O5"
     },
     {
       "number": 77,
       "title": "Pistenteufel",
       "releaseYear": 1997,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-77-pistenteufel/386128930"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-77-pistenteufel/386128930",
+      "spotifyURL": "https://open.spotify.com/album/3CMN8Y4kjoG4sFwlOEpfsV"
     },
     {
       "number": 78,
       "title": "Das leere Grab",
       "releaseYear": 1998,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-78-das-leere-grab/386127830"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-78-das-leere-grab/386127830",
+      "spotifyURL": "https://open.spotify.com/album/6t7Y1H4dUM0d4JycenVskN"
     },
     {
       "number": 79,
       "title": "Im Bann des Voodoo",
-      "releaseYear": 1998
+      "releaseYear": 1998,
+      "spotifyURL": "https://open.spotify.com/album/1rDYlXZy6vN4wqqQ6buqOr"
     },
     {
       "number": 80,
       "title": "Geheimakte Ufo",
-      "releaseYear": 1998
+      "releaseYear": 1998,
+      "spotifyURL": "https://open.spotify.com/album/4izXuApLzBWtWHrFqgcrxL"
     },
     {
       "number": 81,
       "title": "Verdeckte Fouls",
-      "releaseYear": 1998
+      "releaseYear": 1998,
+      "spotifyURL": "https://open.spotify.com/album/2s5u6hCaMpTIvZtBRvQzha"
     },
     {
       "number": 82,
       "title": "Die Karten des Bösen",
-      "releaseYear": 1998
+      "releaseYear": 1998,
+      "spotifyURL": "https://open.spotify.com/album/7iysTnwaaFrPPWAuUyyi0c"
     },
     {
       "number": 83,
       "title": "Meuterei auf hoher See",
-      "releaseYear": 1999
+      "releaseYear": 1999,
+      "spotifyURL": "https://open.spotify.com/album/3yofHdHiOLtVZlxWCZ4XBB"
     },
     {
       "number": 84,
       "title": "Musik des Teufels",
       "releaseYear": 1999,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-84-musik-des-teufels/386128709"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-84-musik-des-teufels/386128709",
+      "spotifyURL": "https://open.spotify.com/album/3bhsXwKIDwVK5LTkDCICp0"
     },
     {
       "number": 85,
       "title": "Feuerturm",
-      "releaseYear": 1999
+      "releaseYear": 1999,
+      "spotifyURL": "https://open.spotify.com/album/2eeodcwD9HXpcA2rvoFkIq"
     },
     {
       "number": 86,
       "title": "Nacht in Angst",
       "releaseYear": 1999,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-86-nacht-in-angst/386125637"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-86-nacht-in-angst/386125637",
+      "spotifyURL": "https://open.spotify.com/album/4uF9MjchYgq5jjPi5x5YZy"
     },
     {
       "number": 87,
       "title": "Wolfsgesicht",
-      "releaseYear": 1999
+      "releaseYear": 1999,
+      "spotifyURL": "https://open.spotify.com/album/1KpWkUQaj5ECJsrb8SrPl4"
     },
     {
       "number": 88,
       "title": "Vampir im Internet",
       "releaseYear": 1999,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-88-vampir-im-internet/386126795"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-88-vampir-im-internet/386126795",
+      "spotifyURL": "https://open.spotify.com/album/3CZCwdMpj2jnjI43ZlnY5T"
     },
     {
       "number": 89,
       "title": "Tödliche Spur",
       "releaseYear": 2000,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-89-t%C3%B6dliche-spur/386123087"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-89-t%C3%B6dliche-spur/386123087",
+      "spotifyURL": "https://open.spotify.com/album/3TcIn19pVz5LXE8UleuLuX"
     },
     {
       "number": 90,
       "title": "Der Feuerteufel",
       "releaseYear": 2000,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-90-der-feuerteufel/386143848"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-90-der-feuerteufel/386143848",
+      "spotifyURL": "https://open.spotify.com/album/2dlgtHB8z7ZhSl1fsSb0Ic"
     },
     {
       "number": 91,
       "title": "Labyrinth der Götter",
       "releaseYear": 2000,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-91-labyrinth-der-g%C3%B6tter/386125815"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-91-labyrinth-der-g%C3%B6tter/386125815",
+      "spotifyURL": "https://open.spotify.com/album/0Jh7gzQaOscoFndb3raq2l"
     },
     {
       "number": 92,
       "title": "Todesflug",
-      "releaseYear": 2000
+      "releaseYear": 2000,
+      "spotifyURL": "https://open.spotify.com/album/7yMRFgR8FRyWwiLHzQQa2B"
     },
     {
       "number": 93,
       "title": "und das Geisterschiff",
-      "releaseYear": 2000
+      "releaseYear": 2000,
+      "spotifyURL": "https://open.spotify.com/album/7a9rwqPkVdU4FC2cWFudVO"
     },
     {
       "number": 94,
       "title": "Das schwarze Monster",
-      "releaseYear": 2000
+      "releaseYear": 2000,
+      "spotifyURL": "https://open.spotify.com/album/3UHj03eU7OnDuMVCTLbmcj"
     },
     {
       "number": 95,
       "title": "Botschaft von Geisterhand",
-      "releaseYear": 2001
+      "releaseYear": 2001,
+      "spotifyURL": "https://open.spotify.com/album/4KEZWleMTT8lDaQDLgozFc"
     },
     {
       "number": 96,
       "title": "und der rote Rächer",
       "releaseYear": 2001,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-96-und-der-rote-r%C3%A4cher/386135887"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-96-und-der-rote-r%C3%A4cher/386135887",
+      "spotifyURL": "https://open.spotify.com/album/5ub4r9Q0YVMrWuOEesu6dR"
     },
     {
       "number": 97,
       "title": "Insektenstachel",
-      "releaseYear": 2001
+      "releaseYear": 2001,
+      "spotifyURL": "https://open.spotify.com/album/2bfJa4PRKVb7as86HZv8Df"
     },
     {
       "number": 98,
       "title": "Tal des Schreckens",
-      "releaseYear": 2001
+      "releaseYear": 2001,
+      "spotifyURL": "https://open.spotify.com/album/4C4o7tHpT20QrdsvmI70uI"
     },
     {
       "number": 99,
       "title": "Rufmord",
-      "releaseYear": 2001
+      "releaseYear": 2001,
+      "spotifyURL": "https://open.spotify.com/album/3haGZZ8x7PyaGxiqcLmLf9"
     },
     {
       "number": 100,
       "title": "Toteninsel",
       "releaseYear": 2001,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-100-toteninsel/386144924"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-100-toteninsel/386144924",
+      "spotifyURL": "https://open.spotify.com/album/6zwBnyiy9Hy9TAser0DOuL"
     },
     {
       "number": 101,
       "title": "und das Hexenhandy",
       "releaseYear": 2001,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-101-und-das-hexen-handy/386145727"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-101-und-das-hexen-handy/386145727",
+      "spotifyURL": "https://open.spotify.com/album/1DZAe0qMw8Pq9EPoX6gETA"
     },
     {
       "number": 102,
       "title": "Doppelte Täuschung",
-      "releaseYear": 2002
+      "releaseYear": 2002,
+      "spotifyURL": "https://open.spotify.com/album/3NYWEuwAPt4PIJ4OeNxmzO"
     },
     {
       "number": 103,
       "title": "Das Erbe des Meisterdiebs",
       "releaseYear": 2002,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-103-das-erbe-des-meisterdiebes/386131249"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-103-das-erbe-des-meisterdiebes/386131249",
+      "spotifyURL": "https://open.spotify.com/album/4ADdmpObDUmBdvyJ9oNz5o"
     },
     {
       "number": 104,
       "title": "Gift per E-Mail",
-      "releaseYear": 2002
+      "releaseYear": 2002,
+      "spotifyURL": "https://open.spotify.com/album/6joRNVLN69v3eSnxM86BSM"
     },
     {
       "number": 105,
       "title": "und der Nebelberg",
       "releaseYear": 2002,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-105-der-nebelberg/386147743"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-105-der-nebelberg/386147743",
+      "spotifyURL": "https://open.spotify.com/album/6Mi4Smq7Fn8qNOg6Xnf0In"
     },
     {
       "number": 106,
       "title": "Der Mann ohne Kopf",
-      "releaseYear": 2002
+      "releaseYear": 2002,
+      "spotifyURL": "https://open.spotify.com/album/4eX1wH67TDcYPZ1ZsjtPb6"
     },
     {
       "number": 107,
       "title": "und der Schatz der Mönche",
-      "releaseYear": 2003
+      "releaseYear": 2003,
+      "spotifyURL": "https://open.spotify.com/album/3kBby5GJMI4U97XljKcPFD"
     },
     {
       "number": 108,
       "title": "Die sieben Tore",
       "releaseYear": 2003,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-108-die-sieben-tore/386133297"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-108-die-sieben-tore/386133297",
+      "spotifyURL": "https://open.spotify.com/album/3v4W4AFaI8uO7J88ojaSkS"
     },
     {
       "number": 109,
       "title": "Gefährliches Quiz",
       "releaseYear": 2003,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-109-gef%C3%A4hrliches-quiz/386130550"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-109-gef%C3%A4hrliches-quiz/386130550",
+      "spotifyURL": "https://open.spotify.com/album/4RZllDAKF3DeDz6jZJFXTa"
     },
     {
       "number": 110,
       "title": "Panik im Park",
       "releaseYear": 2003,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-110-panik-im-park/386145674"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-110-panik-im-park/386145674",
+      "spotifyURL": "https://open.spotify.com/album/1OBHPhBUih26oQTqxLvJTQ"
     },
     {
       "number": 111,
       "title": "Die Höhle des Grauens",
       "releaseYear": 2003,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-111-die-h%C3%B6hle-des-grauens/386130925"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-111-die-h%C3%B6hle-des-grauens/386130925",
+      "spotifyURL": "https://open.spotify.com/album/7b9OiVsktCZyldiAnjkVDx"
     },
     {
       "number": 112,
       "title": "Schlucht der Dämonen",
-      "releaseYear": 2003
+      "releaseYear": 2003,
+      "spotifyURL": "https://open.spotify.com/album/0WBhXS0uAYuL1sYb6vjYeS"
     },
     {
       "number": 113,
       "title": "Das Auge des Drachen",
       "releaseYear": 2003,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-113-das-auge-des-drachen/386140340"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-113-das-auge-des-drachen/386140340",
+      "spotifyURL": "https://open.spotify.com/album/3bFvjy9IyWd7GrzN2dr0Hi"
     },
     {
       "number": 114,
       "title": "Die Villa der Toten",
       "releaseYear": 2004,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-114-die-villa-der-toten/386134592"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-114-die-villa-der-toten/386134592",
+      "spotifyURL": "https://open.spotify.com/album/5L2KCw21QT3JKg1KKuqSeF"
     },
     {
       "number": 115,
       "title": "Auf tödlichem Kurs",
-      "releaseYear": 2004
+      "releaseYear": 2004,
+      "spotifyURL": "https://open.spotify.com/album/5Hafee7JOUqNVqtsrCtrTZ"
     },
     {
       "number": 116,
       "title": "Codename: Cobra",
-      "releaseYear": 2004
+      "releaseYear": 2004,
+      "spotifyURL": "https://open.spotify.com/album/3piMnopGsrEAKd1EZxsU3i"
     },
     {
       "number": 117,
       "title": "Der finstere Rivale",
-      "releaseYear": 2004
+      "releaseYear": 2004,
+      "spotifyURL": "https://open.spotify.com/album/3rxr4SLE2EG0EAlpSeI99o"
     },
     {
       "number": 118,
       "title": "Das düstere Vermächtnis",
-      "releaseYear": 2004
+      "releaseYear": 2004,
+      "spotifyURL": "https://open.spotify.com/album/1GKXpMQRKEyZI8pL62VUIP"
     },
     {
       "number": 119,
       "title": "Der geheime Schlüssel",
-      "releaseYear": 2004
+      "releaseYear": 2004,
+      "spotifyURL": "https://open.spotify.com/album/7rPDg8NlFJ1a2HMTQvVaB2"
     },
     {
       "number": 120,
       "title": "Der schwarze Skorpion",
-      "releaseYear": 2005
+      "releaseYear": 2005,
+      "spotifyURL": "https://open.spotify.com/album/6fVTJQKJBku1yaOmZOnfwg"
     },
     {
       "number": 121,
       "title": "Spur ins Nichts",
       "releaseYear": 2008,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-121-spur-ins-nichts/386133542"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-121-spur-ins-nichts/386133542",
+      "spotifyURL": "https://open.spotify.com/album/6d21lwV9Imn3ObWUyV1UN2"
     },
     {
       "number": 122,
       "title": "und der Geisterzug",
       "releaseYear": 2008,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-122-und-der-geisterzug/386133692"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-122-und-der-geisterzug/386133692",
+      "spotifyURL": "https://open.spotify.com/album/68NWcgqeCQMZ3QcPJXBhzH"
     },
     {
       "number": 123,
       "title": "Fußballfieber",
-      "releaseYear": 2008
+      "releaseYear": 2008,
+      "spotifyURL": "https://open.spotify.com/album/3HgetGSMzg6bGM6b67YZcj"
     },
     {
       "number": 124,
       "title": "Geister-Canyon",
       "releaseYear": 2008,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-124-geister-canyon/386129774"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-124-geister-canyon/386129774",
+      "spotifyURL": "https://open.spotify.com/album/0LoesJ9VnJPrlvIDz4u4Xt"
     },
     {
       "number": 125,
       "title": "Feuermond",
       "releaseYear": 2008,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-125-feuermond/386137539"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-125-feuermond/386137539",
+      "spotifyURL": "https://open.spotify.com/album/0sIRyuExi7jBQmOpHyyY78"
     },
     {
       "number": 126,
       "title": "Schrecken aus dem Moor",
       "releaseYear": 2008,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-126-schrecken-aus-dem-moor/386138932"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-126-schrecken-aus-dem-moor/386138932",
+      "spotifyURL": "https://open.spotify.com/album/0AnyLaLPx339iGaxjqVfob"
     },
     {
       "number": 127,
       "title": "Schwarze Madonna",
       "releaseYear": 2009,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-127-schwarze-madonna/386147740"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-127-schwarze-madonna/386147740",
+      "spotifyURL": "https://open.spotify.com/album/0mp5HVWlYinEYa7Y4Q2vau"
     },
     {
       "number": 128,
       "title": "Schatten über Hollywood",
       "releaseYear": 2009,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-128-schatten-%C3%BCber-hollywood/386127401"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-128-schatten-%C3%BCber-hollywood/386127401",
+      "spotifyURL": "https://open.spotify.com/album/3XXYXmCEe185oHxigCRo97"
     },
     {
       "number": 129,
       "title": "SMS aus dem Grab",
       "releaseYear": 2009,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-129-sms-aus-dem-grab/386148171"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-129-sms-aus-dem-grab/386148171",
+      "spotifyURL": "https://open.spotify.com/album/1lD4RdnibVS7QhtZqCal9E"
     },
     {
       "number": 130,
       "title": "Der Fluch des Drachen",
       "releaseYear": 2009,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-130-der-fluch-des-drachen/314586531"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-130-der-fluch-des-drachen/314586531",
+      "spotifyURL": "https://open.spotify.com/album/5l5CFSjzSdhbflqmplcTFX"
     },
     {
       "number": 131,
       "title": "Haus des Schreckens",
       "releaseYear": 2009,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-131-haus-des-schreckens/320984099"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-131-haus-des-schreckens/320984099",
+      "spotifyURL": "https://open.spotify.com/album/4eorcDi9eRfsi7X0A91Z7u"
     },
     {
       "number": 132,
       "title": "Spuk im Netz",
       "releaseYear": 2009,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-132-spuk-im-netz/325299424"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-132-spuk-im-netz/325299424",
+      "spotifyURL": "https://open.spotify.com/album/23wcElHGWpunC23ggr4PcW"
     },
     {
       "number": 133,
       "title": "Fels der Dämonen",
       "releaseYear": 2009,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-133-fels-der-d%C3%A4monen/332330017"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-133-fels-der-d%C3%A4monen/332330017",
+      "spotifyURL": "https://open.spotify.com/album/1juMQy6yZVmk9Za6HeiicB"
     },
     {
       "number": 134,
       "title": "Der tote Mönch",
       "releaseYear": 2009,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-134-der-tote-m%C3%B6nch/332359499"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-134-der-tote-m%C3%B6nch/332359499",
+      "spotifyURL": "https://open.spotify.com/album/1Cta130Rwp5vH1ddfAChbU"
     },
     {
       "number": 135,
       "title": "Fluch des Piraten",
       "releaseYear": 2009,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-135-fluch-des-piraten/337524189"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-135-fluch-des-piraten/337524189",
+      "spotifyURL": "https://open.spotify.com/album/0TmWLedytkxVuP9b5Hqeqq"
     },
     {
       "number": 136,
       "title": "und das versunkene Dorf",
       "releaseYear": 2010,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-136-und-das-versunkene-dorf/349971530"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-136-und-das-versunkene-dorf/349971530",
+      "spotifyURL": "https://open.spotify.com/album/5HiWGQmaCRaxdaon49Iw9S"
     },
     {
       "number": 137,
       "title": "Pfad der Angst",
       "releaseYear": 2010,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-137-pfad-der-angst/356266941"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-137-pfad-der-angst/356266941",
+      "spotifyURL": "https://open.spotify.com/album/3m7fR2wOkytZHq9m4QeBkB"
     },
     {
       "number": 138,
       "title": "Die geheime Treppe",
       "releaseYear": 2010,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-138-die-geheime-treppe/377668999"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-138-die-geheime-treppe/377668999",
+      "spotifyURL": "https://open.spotify.com/album/79enDMGQWH7LQ5weNB96g7"
     },
     {
       "number": 139,
       "title": "Das Geheimnis der Diva",
       "releaseYear": 2010,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-139-das-geheimnis-der-diva/377349719"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-139-das-geheimnis-der-diva/377349719",
+      "spotifyURL": "https://open.spotify.com/album/6RJf8I60kNhnYxlnw7eTGv"
     },
     {
       "number": 140,
       "title": "Stadt der Vampire",
       "releaseYear": 2010,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-140-stadt-der-vampire/384380849"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-140-stadt-der-vampire/384380849",
+      "spotifyURL": "https://open.spotify.com/album/3HxAtK23R2gFkW000mdaFT"
     },
     {
       "number": 141,
       "title": "und die Fußball-Falle",
       "releaseYear": 2010,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-141-und-die-fu%C3%9Fball-falle/390423229"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-141-und-die-fu%C3%9Fball-falle/390423229",
+      "spotifyURL": "https://open.spotify.com/album/6gxj68DOHRSVlEM4xzwtRy"
     },
     {
       "number": 142,
       "title": "Tödliches Eis",
       "releaseYear": 2010,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-142-t%C3%B6dliches-eis/400848636"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-142-t%C3%B6dliches-eis/400848636",
+      "spotifyURL": "https://open.spotify.com/album/71moidSHTwJsc2N70axEce"
     },
     {
       "number": 143,
       "title": "und die Poker-Hölle",
       "releaseYear": 2010,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-143-und-die-poker-h%C3%B6lle/401114529"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-143-und-die-poker-h%C3%B6lle/401114529",
+      "spotifyURL": "https://open.spotify.com/album/4Y7Pxv7pzLmKVJowmBwOkd"
     },
     {
       "number": 144,
       "title": "Zwillinge der Finsternis",
       "releaseYear": 2011,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-144-zwillinge-der-finsternis/411915361"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-144-zwillinge-der-finsternis/411915361",
+      "spotifyURL": "https://open.spotify.com/album/2RxTF6MhAVOtudVNOyHTQz"
     },
     {
       "number": 145,
       "title": "und die Rache der Samurai",
       "releaseYear": 2011,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-145-und-die-rache-der-samurai/419323676"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-145-und-die-rache-der-samurai/419323676",
+      "spotifyURL": "https://open.spotify.com/album/6TjzBTmeDakBgh5NOGj1BC"
     },
     {
       "number": 146,
       "title": "Der Biss der Bestie",
       "releaseYear": 2011,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-146-der-biss-der-bestie/430851191"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-146-der-biss-der-bestie/430851191",
+      "spotifyURL": "https://open.spotify.com/album/3D9Jf4mdOBoeyrKpffYBvy"
     },
     {
       "number": 147,
       "title": "Grusel auf Campbell Castle",
       "releaseYear": 2011,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-147-grusel-auf-campbell-castle/439250178"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-147-grusel-auf-campbell-castle/439250178",
+      "spotifyURL": "https://open.spotify.com/album/35aU9bfmxPGdjiRA4JMuFd"
     },
     {
       "number": 148,
       "title": "und die feurige Flut",
       "releaseYear": 2011,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-148-und-die-feurige-flut/444958221"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-148-und-die-feurige-flut/444958221",
+      "spotifyURL": "https://open.spotify.com/album/2uOsf31oenHRd4DVxCSjn9"
     },
     {
       "number": 149,
       "title": "Der namenlose Gegner",
       "releaseYear": 2011,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-149-der-namenlose-gegner/465535830"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-149-der-namenlose-gegner/465535830",
+      "spotifyURL": "https://open.spotify.com/album/7K7dfMc3VwHOKtENI1BWTD"
     },
     {
       "number": 150,
       "title": "Geisterbucht",
       "releaseYear": 2011,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-150-geisterbucht/477099535"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-150-geisterbucht/477099535",
+      "spotifyURL": "https://open.spotify.com/album/6cPgVsZ6TPyVIP9BHP5ty5"
     },
     {
       "number": 151,
       "title": "Schwarze Sonne",
       "releaseYear": 2012,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-151-schwarze-sonne/493272459"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-151-schwarze-sonne/493272459",
+      "spotifyURL": "https://open.spotify.com/album/3u0OSCwiOblOhm4dKjwLN5"
     },
     {
       "number": 152,
       "title": "Skateboardfieber",
       "releaseYear": 2012,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-152-skateboardfieber/504283641"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-152-skateboardfieber/504283641",
+      "spotifyURL": "https://open.spotify.com/album/5iNeANVy4supl8HowB9V2h"
     },
     {
       "number": 153,
       "title": "und das Fußballphantom",
       "releaseYear": 2012,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-153-und-das-fu%C3%9Fballphantom/509500735"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-153-und-das-fu%C3%9Fballphantom/509500735",
+      "spotifyURL": "https://open.spotify.com/album/7nxSEeJiQwI34VwnWT83C9"
     },
     {
       "number": 154,
       "title": "Botschaft aus der Unterwelt",
       "releaseYear": 2012,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-154-botschaft-aus-der-unterwelt/521092030"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-154-botschaft-aus-der-unterwelt/521092030",
+      "spotifyURL": "https://open.spotify.com/album/3uggg8gNlh1kpBxLeOfFTV"
     },
     {
       "number": 155,
       "title": "und der Meister des Todes",
       "releaseYear": 2012,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-155-und-der-meister-des-todes/537965226"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-155-und-der-meister-des-todes/537965226",
+      "spotifyURL": "https://open.spotify.com/album/623V90QowsF4WSqV3cHGKf"
     },
     {
       "number": 156,
       "title": "Im Netz des Drachen",
       "releaseYear": 2012,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-156-im-netz-des-drachen/548240134"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-156-im-netz-des-drachen/548240134",
+      "spotifyURL": "https://open.spotify.com/album/78wUIvkGT2CdWW0ngeEy8V"
     },
     {
       "number": 157,
       "title": "Im Zeichen der Schlangen",
       "releaseYear": 2012,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-157-im-zeichen-der-schlangen/558586690"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-157-im-zeichen-der-schlangen/558586690",
+      "spotifyURL": "https://open.spotify.com/album/0pdXEEgKjfh4H0aZg4IOTS"
     },
     {
       "number": 158,
       "title": "und der Feuergeist",
       "releaseYear": 2012,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-158-und-der-feuergeist/569067274"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-158-und-der-feuergeist/569067274",
+      "spotifyURL": "https://open.spotify.com/album/3uFt95otJjaxH8o40tPtIS"
     },
     {
       "number": 159,
       "title": "Nacht der Tiger",
       "releaseYear": 2013,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-159-nacht-der-tiger/585194174"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-159-nacht-der-tiger/585194174",
+      "spotifyURL": "https://open.spotify.com/album/4rCAnDrNJ96srnBEoA0ISj"
     },
     {
       "number": 160,
       "title": "Geheimnisvolle Botschaften",
       "releaseYear": 2013,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-160-geheimnisvolle-botschaften/597499164"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-160-geheimnisvolle-botschaften/597499164",
+      "spotifyURL": "https://open.spotify.com/album/2F6VxgWbGCUpTU9ux6Dtbi"
     },
     {
       "number": 161,
       "title": "Die blutenden Bilder",
       "releaseYear": 2013,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-161-die-blutenden-bilder/620473088"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-161-die-blutenden-bilder/620473088",
+      "spotifyURL": "https://open.spotify.com/album/1GEzdjI5N25iuGjvypRscs"
     },
     {
       "number": 162,
       "title": "und der schreiende Nebel",
       "releaseYear": 2013,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-162-und-der-schreiende-nebel/657425205"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-162-und-der-schreiende-nebel/657425205",
+      "spotifyURL": "https://open.spotify.com/album/7beppYTqtHAEPKoXyodssF"
     },
     {
       "number": 163,
       "title": "und der verschollene Pilot",
       "releaseYear": 2013,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-163-und-der-verschollene-pilot/662100867"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-163-und-der-verschollene-pilot/662100867",
+      "spotifyURL": "https://open.spotify.com/album/4fv0pPN7ZjbUiejSTxTPZh"
     },
     {
       "number": 164,
       "title": "Fußball-Teufel",
       "releaseYear": 2013,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-164-fu%C3%9Fball-teufel/683107519"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-164-fu%C3%9Fball-teufel/683107519",
+      "spotifyURL": "https://open.spotify.com/album/3An657Q0wkVp4nIDg2zpcB"
     },
     {
       "number": 165,
       "title": "Im Schatten des Giganten",
       "releaseYear": 2013,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-165-im-schatten-der-giganten/715495323"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-165-im-schatten-der-giganten/715495323",
+      "spotifyURL": "https://open.spotify.com/album/4izJKxYT4fTwIZjoXNgkX7"
     },
     {
       "number": 166,
       "title": "und die brennende Stadt",
       "releaseYear": 2014,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-166-und-die-brennende-stadt/745153245"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-166-und-die-brennende-stadt/745153245",
+      "spotifyURL": "https://open.spotify.com/album/427kScPIeUSfoNKCNercMC"
     },
     {
       "number": 167,
       "title": "und das blaue Biest",
       "releaseYear": 2014,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-167-und-das-blaue-biest/783498547"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-167-und-das-blaue-biest/783498547",
+      "spotifyURL": "https://open.spotify.com/album/7kskBahbrQWCOiaXKuoPjE"
     },
     {
       "number": 168,
       "title": "GPS-Gangster",
       "releaseYear": 2014,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-168-gps-gangster/813535636"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-168-gps-gangster/813535636",
+      "spotifyURL": "https://open.spotify.com/album/77aawQqgLQZxPb9kwSg0JR"
     },
     {
       "number": 169,
       "title": "Die Spur des Spielers",
       "releaseYear": 2014,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-169-die-spur-des-spielers/850331257"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-169-die-spur-des-spielers/850331257",
+      "spotifyURL": "https://open.spotify.com/album/5PEHeYcUhz1Aq02ZB1pUgJ"
     },
     {
       "number": 170,
       "title": "Straße des Grauens",
       "releaseYear": 2014,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-170-stra%C3%9Fe-des-grauens/886542527"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-170-stra%C3%9Fe-des-grauens/886542527",
+      "spotifyURL": "https://open.spotify.com/album/62CKj2RCiWDDUtBWTn4KxQ"
     },
     {
       "number": 171,
       "title": "und das Phantom aus dem Meer",
       "releaseYear": 2014,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-171-und-das-phantom-aus-dem-meer/904998189"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-171-und-das-phantom-aus-dem-meer/904998189",
+      "spotifyURL": "https://open.spotify.com/album/6YbaUGc6ZeR1YnDFGQJV8F"
     },
     {
       "number": 172,
       "title": "und der Eisenmann",
       "releaseYear": 2014,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-172-und-der-eisenmann/918796142"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-172-und-der-eisenmann/918796142",
+      "spotifyURL": "https://open.spotify.com/album/6Anfub4AoVHg9bhJ7js0L0"
     },
     {
       "number": 173,
       "title": "Dämon der Rache",
       "releaseYear": 2015,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-173-d%C3%A4mon-der-rache/937857115"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-173-d%C3%A4mon-der-rache/937857115",
+      "spotifyURL": "https://open.spotify.com/album/2ALDCHCHdawewN1sduWVQQ"
     },
     {
       "number": 174,
       "title": "und das Tuch der Toten",
       "releaseYear": 2015,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-174-und-das-tuch-der-toten/958893377"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-174-und-das-tuch-der-toten/958893377",
+      "spotifyURL": "https://open.spotify.com/album/5RoL0jdWMoJ8KRFVOeFYtX"
     },
     {
       "number": 175,
       "title": "Schattenwelt",
       "releaseYear": 2015,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-175-schattenwelt/970070437"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-175-schattenwelt/970070437",
+      "spotifyURL": "https://open.spotify.com/album/4uggmrJ3Xpm1e2tcz6laze"
     },
     {
       "number": 176,
       "title": "und der gestohlene Sieg",
       "releaseYear": 2015,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-176-und-der-gestohlene-sieg/991060366"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-176-und-der-gestohlene-sieg/991060366",
+      "spotifyURL": "https://open.spotify.com/album/4qbxSVpr3NxRjdIVC411ue"
     },
     {
       "number": 177,
       "title": "Der Geist des Goldgräbers",
       "releaseYear": 2015,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-177-der-geist-des-goldgr%C3%A4bers/1022316459"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-177-der-geist-des-goldgr%C3%A4bers/1022316459",
+      "spotifyURL": "https://open.spotify.com/album/0w6Khy7kpqTXrEDITf0rZ0"
     },
     {
       "number": 178,
       "title": "Der gefiederte Schrecken",
       "releaseYear": 2015,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-178-der-gefiederte-schrecken/1045066710"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-178-der-gefiederte-schrecken/1045066710",
+      "spotifyURL": "https://open.spotify.com/album/3w5glP0mzKfTanzXpAjN27"
     },
     {
       "number": 179,
       "title": "Die Rache des Untoten",
       "releaseYear": 2016,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-179-die-rache-des-untoten/1059349158"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-179-die-rache-des-untoten/1059349158",
+      "spotifyURL": "https://open.spotify.com/album/4IZ7Lsm5le7HJPtaGLCrjO"
     },
     {
       "number": 180,
       "title": "und die flüsternden Puppen",
       "releaseYear": 2016,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-180-und-die-fl%C3%BCsternden-puppen/1069891043"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-180-und-die-fl%C3%BCsternden-puppen/1069891043",
+      "spotifyURL": "https://open.spotify.com/album/6tioH9PNiZbmUT54MsiX5k"
     },
     {
       "number": 181,
       "title": "Das Kabinett des Zauberers",
       "releaseYear": 2016,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-181-das-kabinett-des-zauberers/1090389720"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-181-das-kabinett-des-zauberers/1090389720",
+      "spotifyURL": "https://open.spotify.com/album/18xyskqkEGnVfVFhznkFIK"
     },
     {
       "number": 182,
       "title": "Im Haus des Henkers",
       "releaseYear": 2016,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-182-im-haus-des-henkers/1103668262"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-182-im-haus-des-henkers/1103668262",
+      "spotifyURL": "https://open.spotify.com/album/4zCPToY7AoTqvOKf4HRqAN"
     },
     {
       "number": 183,
       "title": "und der letzte Song",
       "releaseYear": 2016,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-183-und-der-letzte-song/1129296764"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-183-und-der-letzte-song/1129296764",
+      "spotifyURL": "https://open.spotify.com/album/1qhlRmclvYWkrYkLnFxFZN"
     },
     {
       "number": 184,
       "title": "und der Hexengarten",
       "releaseYear": 2017,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-184-und-der-hexengarten/1148875278"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-184-und-der-hexengarten/1148875278",
+      "spotifyURL": "https://open.spotify.com/album/5B7w9vkfh979tEyzwkLk9k"
     },
     {
       "number": 185,
       "title": "und der Mann ohne Augen",
       "releaseYear": 2017,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-185-und-der-mann-ohne-augen/1170495441"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-185-und-der-mann-ohne-augen/1170495441",
+      "spotifyURL": "https://open.spotify.com/album/7eHh5PAxQBt5KBWzd3a10G"
     },
     {
       "number": 186,
       "title": "Insel des Vergessens",
       "releaseYear": 2017,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-186-insel-des-vergessens/1193182800"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-186-insel-des-vergessens/1193182800",
+      "spotifyURL": "https://open.spotify.com/album/5kevid18ttcAPK1vk0kLtc"
     },
     {
       "number": 187,
       "title": "und das silberne Amulett",
       "releaseYear": 2017,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-187-und-das-silberne-amulett-ep/1207841692"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-187-und-das-silberne-amulett-ep/1207841692",
+      "spotifyURL": "https://open.spotify.com/album/6uj8JeIgluMibSu8Divkbh"
     },
     {
       "number": 188,
       "title": "Signale aus dem Jenseits",
       "releaseYear": 2017,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-188-signale-aus-dem-jenseits/1232538739"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-188-signale-aus-dem-jenseits/1232538739",
+      "spotifyURL": "https://open.spotify.com/album/22soWryC08ctyMNb6NrMGD"
     },
     {
       "number": 189,
       "title": "und der unsichtbare Passagier",
       "releaseYear": 2017,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-189-und-der-unsichtbare-passagier/1257755420"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-189-und-der-unsichtbare-passagier/1257755420",
+      "spotifyURL": "https://open.spotify.com/album/02MXdFaVMz0qQJjmivjI8g"
     },
     {
       "number": 190,
       "title": "und die Kammer der Rätsel",
       "releaseYear": 2017,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-190-und-die-kammer-der-r%C3%A4tsel/1281901592"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-190-und-die-kammer-der-r%C3%A4tsel/1281901592",
+      "spotifyURL": "https://open.spotify.com/album/100ZHoBX994GlckxjoGpma"
     },
     {
       "number": 191,
       "title": "Verbrechen im Nichts",
       "releaseYear": 2018,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-191-verbrechen-im-nichts/1318180298"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-191-verbrechen-im-nichts/1318180298",
+      "spotifyURL": "https://open.spotify.com/album/2ICtKWqLqMBTzi7UeByhKd"
     },
     {
       "number": 192,
       "title": "Im Bann des Drachen",
       "releaseYear": 2018,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-192-im-bann-des-drachen/1334240036"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-192-im-bann-des-drachen/1334240036",
+      "spotifyURL": "https://open.spotify.com/album/1qag2AiFcxXU1UaIgrDFff"
     },
     {
       "number": 193,
       "title": "Schrecken aus der Tiefe",
       "releaseYear": 2018,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-193-schrecken-aus-der-tiefe/1349195535"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-193-schrecken-aus-der-tiefe/1349195535",
+      "spotifyURL": "https://open.spotify.com/album/4m6VlVOWfrUVhWWrueMo7p"
     },
     {
       "number": 194,
       "title": "und die Zeitreisende",
       "releaseYear": 2018,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-194-und-die-zeitreisende/1373158406"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-194-und-die-zeitreisende/1373158406",
+      "spotifyURL": "https://open.spotify.com/album/2oKngJQA5TdxF5QcP3uZEf"
     },
     {
       "number": 195,
       "title": "Im Reich der Ungeheuer",
       "releaseYear": 2018,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-195-im-reich-der-ungeheuer/1406276279"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-195-im-reich-der-ungeheuer/1406276279",
+      "spotifyURL": "https://open.spotify.com/album/3pbXIzVk7CA5VM2ltxu9TN"
     },
     {
       "number": 196,
       "title": "Geheimnis des Bauchredners",
       "releaseYear": 2018,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-196-geheimnis-des-bauchredners/1436964654"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-196-geheimnis-des-bauchredners/1436964654",
+      "spotifyURL": "https://open.spotify.com/album/39a7bHWZyWPxwukCHPrTly"
     },
     {
       "number": 197,
       "title": "Im Auge des Sturms",
       "releaseYear": 2019,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-197-im-auge-des-sturms/1441756521"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-197-im-auge-des-sturms/1441756521",
+      "spotifyURL": "https://open.spotify.com/album/0GRoTtX1wI16M7GSnnN96R"
     },
     {
       "number": 198,
       "title": "Die Legende der Gaukler",
       "releaseYear": 2019,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-198-die-legende-der-gaukler/1448991271"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-198-die-legende-der-gaukler/1448991271",
+      "spotifyURL": "https://open.spotify.com/album/4piiNuehCc4VjN8NBIcnRt"
     },
     {
       "number": 199,
       "title": "und der grüne Kobold",
       "releaseYear": 2019,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-199-und-der-gr%C3%BCne-kobold/1453695882"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-199-und-der-gr%C3%BCne-kobold/1453695882",
+      "spotifyURL": "https://open.spotify.com/album/7bTKP2hU0LRks1bXN1R7ko"
     },
     {
       "number": 200,
       "title": "Feuriges Auge",
       "releaseYear": 2019,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-200-feuriges-auge/1462398864"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-200-feuriges-auge/1462398864",
+      "spotifyURL": "https://open.spotify.com/album/09Ckx1JLgPsQHHGuSIt2j3"
     },
     {
       "number": 201,
       "title": "Höhenangst",
       "releaseYear": 2019,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-201-h%C3%B6henangst/1470374382"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-201-h%C3%B6henangst/1470374382",
+      "spotifyURL": "https://open.spotify.com/album/4FxNfDSXqAg8N1D8NBtvZ5"
     },
     {
       "number": 202,
       "title": "Das weiße Grab",
       "releaseYear": 2019,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-202-das-wei%C3%9Fe-grab/1479540077"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-202-das-wei%C3%9Fe-grab/1479540077",
+      "spotifyURL": "https://open.spotify.com/album/4Exxckn0GwbhnGl6N4um2N"
     },
     {
       "number": 203,
       "title": "Tauchgang ins Ungewisse",
       "releaseYear": 2020,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-203-tauchgang-ins-ungewisse/1488585423"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-203-tauchgang-ins-ungewisse/1488585423",
+      "spotifyURL": "https://open.spotify.com/album/79Drf49yNdGLBzzHMGGmBz"
     },
     {
       "number": 204,
       "title": "Der dunkle Wächter",
       "releaseYear": 2020,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-204-der-dunkle-w%C3%A4chter/1494861137"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-204-der-dunkle-w%C3%A4chter/1494861137",
+      "spotifyURL": "https://open.spotify.com/album/1yMMjH3tDN9GyXiADzTkL9"
     },
     {
       "number": 205,
       "title": "Das rätselhafte Erbe",
       "releaseYear": 2020,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-205-das-r%C3%A4tselhafte-erbe/1501321342"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-205-das-r%C3%A4tselhafte-erbe/1501321342",
+      "spotifyURL": "https://open.spotify.com/album/2Sw9FBHOoT6fBhYxHsRFxq"
     },
     {
       "number": 206,
       "title": "und der Mottenmann",
       "releaseYear": 2020,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-206-und-der-mottenmann/1508160053"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-206-und-der-mottenmann/1508160053",
+      "spotifyURL": "https://open.spotify.com/album/7khAMIQlYBmW7mI9cphDhJ"
     },
     {
       "number": 207,
       "title": "Die falschen Detektive",
       "releaseYear": 2020,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-207-die-falschen-detektive/1520380006"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-207-die-falschen-detektive/1520380006",
+      "spotifyURL": "https://open.spotify.com/album/6BxvBG51szGmlg5x3F1rHj"
     },
     {
       "number": 208,
       "title": "Kelch des Schicksals",
       "releaseYear": 2021,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-208-kelch-des-schicksals/1529406670"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-208-kelch-des-schicksals/1529406670",
+      "spotifyURL": "https://open.spotify.com/album/6WgRUQY49NRG6JT6dJ4xEq"
     },
     {
       "number": 209,
       "title": "Kreaturen der Nacht",
       "releaseYear": 2021,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-209-kreaturen-der-nacht/1543186727"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-209-kreaturen-der-nacht/1543186727",
+      "spotifyURL": "https://open.spotify.com/album/0q4FbI22wSMrzgWh5vgHi9"
     },
     {
       "number": 210,
       "title": "und die schweigende Grotte",
       "releaseYear": 2021,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-210-und-die-schweigende-grotte/1555455044"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-210-und-die-schweigende-grotte/1555455044",
+      "spotifyURL": "https://open.spotify.com/album/3ieWqOL150wJOcft7iZHKZ"
     },
     {
       "number": 211,
       "title": "und der Jadekönig",
       "releaseYear": 2021,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-211-und-der-jadek%C3%B6nig/1569609366"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-211-und-der-jadek%C3%B6nig/1569609366",
+      "spotifyURL": "https://open.spotify.com/album/7pZotNNAYOkeHNvJRKzYRk"
     },
     {
       "number": 212,
       "title": "und der weiße Leopard",
       "releaseYear": 2021,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-212-und-der-wei%C3%9Fe-leopard/1575573696"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-212-und-der-wei%C3%9Fe-leopard/1575573696",
+      "spotifyURL": "https://open.spotify.com/album/2zHMeFNQQxKOmUgmppOjIM"
     },
     {
       "number": 213,
       "title": "Der Fluch der Medusa",
       "releaseYear": 2021,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-213-der-fluch-der-medusa/1585776843"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-213-der-fluch-der-medusa/1585776843",
+      "spotifyURL": "https://open.spotify.com/album/4BZfSV9maCil4l4yftT74F"
     },
     {
       "number": 214,
       "title": "und der Geisterbunker",
       "releaseYear": 2022,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-214-und-der-geisterbunker/1593847687"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-214-und-der-geisterbunker/1593847687",
+      "spotifyURL": "https://open.spotify.com/album/1cJ3fNx6K47p4eDFqhnvsA"
     },
     {
       "number": 215,
       "title": "und die verlorene Zeit",
       "releaseYear": 2022,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-215-und-die-verlorene-zeit/1606130509"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-215-und-die-verlorene-zeit/1606130509",
+      "spotifyURL": "https://open.spotify.com/album/76pYNMMVZTiuNy3IoXcavU"
     },
     {
       "number": 216,
       "title": "Die Schwingen des Unheils",
       "releaseYear": 2022,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-216-die-schwingen-des-unheils/1612467355"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-216-die-schwingen-des-unheils/1612467355",
+      "spotifyURL": "https://open.spotify.com/album/2BkEUZY7Da7bqlUjmMA2Cq"
     },
     {
       "number": 217,
       "title": "und der Kristallschädel",
-      "releaseYear": 2022
+      "releaseYear": 2022,
+      "spotifyURL": "https://open.spotify.com/album/1WlRnNunbHpnRTTVkxMRnd"
     },
     {
       "number": 218,
       "title": "Im Netz der Lügen",
-      "releaseYear": 2022
+      "releaseYear": 2022,
+      "spotifyURL": "https://open.spotify.com/album/2WwOKZLpFWrvw3O9CISod1"
     },
     {
       "number": 219,
       "title": "und die Teufelsklippe",
-      "releaseYear": 2022
+      "releaseYear": 2022,
+      "spotifyURL": "https://open.spotify.com/album/6ewdyVIW2LurJhYGU0UBAa"
     },
     {
       "number": 220,
       "title": "Im Wald der Gefahren",
-      "releaseYear": 2023
+      "releaseYear": 2023,
+      "spotifyURL": "https://open.spotify.com/album/01i4iyB40EU7Qgd6EgKoZt"
     },
     {
       "number": 221,
       "title": "Manuskript des Satans",
-      "releaseYear": 2023
+      "releaseYear": 2023,
+      "spotifyURL": "https://open.spotify.com/album/1KpVSqapKAUAtAepWWxPWs"
     },
     {
       "number": 222,
       "title": "und die Gesetzlosen",
-      "releaseYear": 2023
+      "releaseYear": 2023,
+      "spotifyURL": "https://open.spotify.com/album/3o2Gwvg8lqLNRnlV1v1s5K"
     },
     {
       "number": 223,
       "title": "und der Knochenmann",
-      "releaseYear": 2023
+      "releaseYear": 2023,
+      "spotifyURL": "https://open.spotify.com/album/451jKBwuSNrNgLlqEAZfra"
     },
     {
       "number": 224,
       "title": "Die Yacht des Verrats",
-      "releaseYear": 2023
+      "releaseYear": 2023,
+      "spotifyURL": "https://open.spotify.com/album/7JhdaReI98XYFrzb3jJPFa"
     },
     {
       "number": 225,
       "title": "und der Puppenmacher",
-      "releaseYear": 2024
+      "releaseYear": 2024,
+      "spotifyURL": "https://open.spotify.com/album/0FuC7q4bJG41g1naKBx4ot"
     },
     {
       "number": 226,
       "title": "Die Spur der Toten",
-      "releaseYear": 2024
+      "releaseYear": 2024,
+      "spotifyURL": "https://open.spotify.com/album/3Sv5tE8PcAlGY6Ys2ISQXF"
     },
     {
       "number": 227,
       "title": "Melodie der Rache",
-      "releaseYear": 2024
+      "releaseYear": 2024,
+      "spotifyURL": "https://open.spotify.com/album/2CMXywsh8wVXXCmr2bLTZ6"
     },
     {
       "number": 228,
       "title": "Der Ruf der Krähen",
       "releaseYear": 2024,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-228-der-ruf-der-kr%C3%A4hen/1757389491"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-228-der-ruf-der-kr%C3%A4hen/1757389491",
+      "spotifyURL": "https://open.spotify.com/album/6sNAlohza1ZTWVMGhFTGJW"
     },
     {
       "number": 229,
       "title": "Drehbuch der Täuschung",
       "releaseYear": 2024,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-229-drehbuch-der-t%C3%A4uschung/1753904987"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-229-drehbuch-der-t%C3%A4uschung/1753904987",
+      "spotifyURL": "https://open.spotify.com/album/6SMOmIWODrO1gND2YPpjHf"
     },
     {
       "number": 230,
       "title": "Der Tag der Toten",
       "releaseYear": 2024,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-230-der-tag-der-toten/1764904056"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-230-der-tag-der-toten/1764904056",
+      "spotifyURL": "https://open.spotify.com/album/154I9rUwPuFHj6snU4amYg"
     },
     {
       "number": 231,
       "title": "und der Dreiäugige Schakal",
       "releaseYear": 2025,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-231-und-der-drei%C3%A4ugige-schakal/1777986506"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-231-und-der-drei%C3%A4ugige-schakal/1777986506",
+      "spotifyURL": "https://open.spotify.com/album/6isiJbL3hh7e60KigIgKuY"
     },
     {
       "number": 232,
       "title": "Die Stadt aus Gold",
       "releaseYear": 2025,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-232-die-stadt-aus-gold/1794782655"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-232-die-stadt-aus-gold/1794782655",
+      "spotifyURL": "https://open.spotify.com/album/1Qnn3AAN3Nquv7GlNk41YQ"
     },
     {
       "number": 233,
       "title": "Die Nacht der Gewitter",
       "releaseYear": 2025,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-233-die-nacht-der-gewitter/1807053258"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-233-die-nacht-der-gewitter/1807053258",
+      "spotifyURL": "https://open.spotify.com/album/0qZ0R61AqoD2i8GnzUk91C"
     },
     {
       "number": 234,
       "title": "und der lebende Tresor",
       "releaseYear": 2025,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-234-und-der-lebende-tresor/1817631978"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-234-und-der-lebende-tresor/1817631978",
+      "spotifyURL": "https://open.spotify.com/album/4sQsFeHojdbFPB07vSg3Rd"
     },
     {
       "number": 235,
       "title": "und das Fantasmofon",
       "releaseYear": 2025,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-235-und-das-fantasmofon/1829447719"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-235-und-das-fantasmofon/1829447719",
+      "spotifyURL": "https://open.spotify.com/album/031exGT0P6IWBYY6faqoLV"
     },
     {
       "number": 236,
       "title": "Im Bann des Barrakudas",
       "releaseYear": 2025,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-236-im-bann-des-barrakudas/1849190704"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-236-im-bann-des-barrakudas/1849190704",
+      "spotifyURL": "https://open.spotify.com/album/5yCEzMfmMnSG97SXDFGjR8"
     },
     {
       "number": 237,
       "title": "und der rote Büffel",
       "releaseYear": 2026,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-237-und-der-rote-b%C3%BCffel/1868936291"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-237-und-der-rote-b%C3%BCffel/1868936291",
+      "spotifyURL": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
     },
     {
       "number": 238,
       "title": "Falsche Schuld",
       "releaseYear": 2026,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-238-falsche-schuld/1874900327"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-238-falsche-schuld/1874900327",
+      "spotifyURL": "https://open.spotify.com/album/00Pxqrupz6xjkI0vd4Otxb"
     },
     {
       "number": 239,
