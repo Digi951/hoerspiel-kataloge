@@ -31,6 +31,18 @@
       "name": "TKKG",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/tkkg.json"
+    },
+    {
+      "id": "bibi-und-tina",
+      "name": "Bibi und Tina",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/bibi_und_tina.json"
+    },
+    {
+      "id": "die-schule-der-magischen-tiere",
+      "name": "Die Schule der magischen Tiere",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/die_schule_der_magischen_tiere.json"
     }
   ]
 }
