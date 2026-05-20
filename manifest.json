@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-15",
+  "updatedAt": "2026-05-21",
   "catalogs": [
     {
       "id": "die-drei-fragezeichen",
@@ -43,6 +43,18 @@
       "name": "Die Schule der magischen Tiere",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/die_schule_der_magischen_tiere.json"
+    },
+    {
+      "id": "benjamin-bluemchen",
+      "name": "Benjamin Blümchen",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/benjamin_bluemchen.json"
+    },
+    {
+      "id": "fuenf-freunde",
+      "name": "Fünf Freunde",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/fuenf_freunde.json"
     }
   ]
 }
