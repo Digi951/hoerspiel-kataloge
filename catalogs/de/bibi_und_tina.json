@@ -1,7 +1,7 @@
 {
   "collectionName": "Bibi und Tina",
   "version": 2,
-  "lastUpdated": "2026-05-19",
+  "lastUpdated": "2026-05-22",
   "entryCount": 124,
   "entries": [
     {
@@ -9,867 +9,991 @@
       "title": "Das Fohlen",
       "releaseYear": 1991,
       "appleMusicURL": "https://music.apple.com/de/album/folge-1-das-fohlen/1148121905",
-      "spotifyURL": "https://open.spotify.com/album/1Wstoinsm4CGJ4ybpWg8iH"
+      "spotifyURL": "https://open.spotify.com/album/1Wstoinsm4CGJ4ybpWg8iH",
+      "deezerURL": "https://www.deezer.com/album/14001990"
     },
     {
       "number": 2,
       "title": "Amadeus ist krank",
       "releaseYear": 1991,
       "appleMusicURL": "https://music.apple.com/de/album/folge-2-amadeus-ist-krank/1148120385",
-      "spotifyURL": "https://open.spotify.com/album/57nolXNzaxSbmcQ25xUado"
+      "spotifyURL": "https://open.spotify.com/album/57nolXNzaxSbmcQ25xUado",
+      "deezerURL": "https://www.deezer.com/album/14001882"
     },
     {
       "number": 3,
       "title": "Papi lernt reiten",
       "releaseYear": 1991,
       "appleMusicURL": "https://music.apple.com/de/album/folge-3-papi-lernt-reiten/1148118904",
-      "spotifyURL": "https://open.spotify.com/album/3bDEQvhX2MSbBqPkaqru0V"
+      "spotifyURL": "https://open.spotify.com/album/3bDEQvhX2MSbBqPkaqru0V",
+      "deezerURL": "https://www.deezer.com/album/14001986"
     },
     {
       "number": 4,
       "title": "Das Zirkuspony",
       "releaseYear": 1991,
       "appleMusicURL": "https://music.apple.com/de/album/folge-4-das-zirkuspony/1148117685",
-      "spotifyURL": "https://open.spotify.com/album/79nsej9FgyWUyOZq1oPN4m"
+      "spotifyURL": "https://open.spotify.com/album/79nsej9FgyWUyOZq1oPN4m",
+      "deezerURL": "https://www.deezer.com/album/14001956"
     },
     {
       "number": 5,
       "title": "Das Heiderennen",
       "releaseYear": 1991,
       "appleMusicURL": "https://music.apple.com/de/album/folge-5-das-heiderennen/1148115275",
-      "spotifyURL": "https://open.spotify.com/album/21Vw0oLYsqJVGlibJ08mRE"
+      "spotifyURL": "https://open.spotify.com/album/21Vw0oLYsqJVGlibJ08mRE",
+      "deezerURL": "https://www.deezer.com/album/14002208"
     },
     {
       "number": 6,
       "title": "Der Abschied",
       "releaseYear": 1991,
       "appleMusicURL": "https://music.apple.com/de/album/folge-6-der-abschied/626045003",
-      "spotifyURL": "https://open.spotify.com/album/6vV899ZRJ0jjUQarLxmN5c"
+      "spotifyURL": "https://open.spotify.com/album/6vV899ZRJ0jjUQarLxmN5c",
+      "deezerURL": "https://www.deezer.com/album/14001992"
     },
     {
       "number": 7,
       "title": "Tina in Gefahr",
       "releaseYear": 1992,
       "appleMusicURL": "https://music.apple.com/de/album/folge-7-tina-in-gefahr/1069153188",
-      "spotifyURL": "https://open.spotify.com/album/2vbYvneXJywc5OkLI8wetM"
+      "spotifyURL": "https://open.spotify.com/album/2vbYvneXJywc5OkLI8wetM",
+      "deezerURL": "https://www.deezer.com/album/14001886"
     },
     {
       "number": 8,
       "title": "Der Hufschmied",
       "releaseYear": 1992,
       "appleMusicURL": "https://music.apple.com/de/album/folge-8-der-hufschmied/1069090317",
-      "spotifyURL": "https://open.spotify.com/album/5Bz6XpGyRS9GemLPcOwXDi"
+      "spotifyURL": "https://open.spotify.com/album/5Bz6XpGyRS9GemLPcOwXDi",
+      "deezerURL": "https://www.deezer.com/album/14002204"
     },
     {
       "number": 9,
       "title": "Der fliegende Sattel",
       "releaseYear": 1992,
       "appleMusicURL": "https://music.apple.com/de/album/folge-9-der-fliegende-sattel/1148119415",
-      "spotifyURL": "https://open.spotify.com/album/0L5MmDBXzFRIHAOdyaXezC"
+      "spotifyURL": "https://open.spotify.com/album/0L5MmDBXzFRIHAOdyaXezC",
+      "deezerURL": "https://www.deezer.com/album/14001982"
     },
     {
       "number": 10,
       "title": "Das Zeltlager",
       "releaseYear": 1992,
       "appleMusicURL": "https://music.apple.com/de/album/folge-10-das-zeltlager/1038147867",
-      "spotifyURL": "https://open.spotify.com/album/5eYX9lMHWfqEcoEvH9YDjl"
+      "spotifyURL": "https://open.spotify.com/album/5eYX9lMHWfqEcoEvH9YDjl",
+      "deezerURL": "https://www.deezer.com/album/14001964"
     },
     {
       "number": 11,
       "title": "Papis Pony",
       "releaseYear": 1992,
       "appleMusicURL": "https://music.apple.com/de/album/folge-11-papis-pony/1148121614",
-      "spotifyURL": "https://open.spotify.com/album/6zrScXKdxKnbYaMfUAGjkY"
+      "spotifyURL": "https://open.spotify.com/album/6zrScXKdxKnbYaMfUAGjkY",
+      "deezerURL": "https://www.deezer.com/album/14001984"
     },
     {
       "number": 12,
       "title": "Der Liebesbrief",
       "releaseYear": 1992,
       "appleMusicURL": "https://music.apple.com/de/album/folge-12-der-liebesbrief/1148118472",
-      "spotifyURL": "https://open.spotify.com/album/5WnCWi848PREhyjp4YgElm"
+      "spotifyURL": "https://open.spotify.com/album/5WnCWi848PREhyjp4YgElm",
+      "deezerURL": "https://www.deezer.com/album/14001980"
     },
     {
       "number": 13,
       "title": "Die Wildpferde, Teil 1",
       "releaseYear": 1992,
       "appleMusicURL": "https://music.apple.com/de/album/folge-13-die-wildpferde-teil-1/1148117985",
-      "spotifyURL": "https://open.spotify.com/album/3pTG9Mn7fOhXaOfJS60pM9"
+      "spotifyURL": "https://open.spotify.com/album/3pTG9Mn7fOhXaOfJS60pM9",
+      "deezerURL": "https://www.deezer.com/album/14002206"
     },
     {
       "number": 14,
       "title": "Die Wildpferde, Teil 2",
       "releaseYear": 1992,
       "appleMusicURL": "https://music.apple.com/de/album/folge-14-die-wildpferde-teil-2/1069224667",
-      "spotifyURL": "https://open.spotify.com/album/7pSSDV5ARJ1onmL0ybqIjO"
+      "spotifyURL": "https://open.spotify.com/album/7pSSDV5ARJ1onmL0ybqIjO",
+      "deezerURL": "https://www.deezer.com/album/14001968"
     },
     {
       "number": 15,
       "title": "Der rote Hahn",
       "releaseYear": 1993,
       "appleMusicURL": "https://music.apple.com/de/album/folge-15-der-rote-hahn/1148120729",
-      "spotifyURL": "https://open.spotify.com/album/6v7IRwkIZZyFNf3UPnZmc1"
+      "spotifyURL": "https://open.spotify.com/album/6v7IRwkIZZyFNf3UPnZmc1",
+      "deezerURL": "https://www.deezer.com/album/14001898"
     },
     {
       "number": 16,
       "title": "Alle lieben Knuddel",
       "releaseYear": 1993,
       "appleMusicURL": "https://music.apple.com/de/album/folge-16-alle-lieben-knuddel/625013931",
-      "spotifyURL": "https://open.spotify.com/album/5VGQ2KYxiFZCm0OoLKRbkI"
+      "spotifyURL": "https://open.spotify.com/album/5VGQ2KYxiFZCm0OoLKRbkI",
+      "deezerURL": "https://www.deezer.com/album/14001896"
     },
     {
       "number": 17,
       "title": "Das Herbst-Turnier",
       "releaseYear": 1993,
       "appleMusicURL": "https://music.apple.com/de/album/folge-17-das-herbst-turnier/1069131770",
-      "spotifyURL": "https://open.spotify.com/album/2IxQS7lBzstYAB4L4ohHo4"
+      "spotifyURL": "https://open.spotify.com/album/2IxQS7lBzstYAB4L4ohHo4",
+      "deezerURL": "https://www.deezer.com/album/14001974"
     },
     {
       "number": 18,
       "title": "Die Lipizzaner",
       "releaseYear": 1994,
       "appleMusicURL": "https://music.apple.com/de/album/folge-18-die-lipizzaner/1148119964",
-      "spotifyURL": "https://open.spotify.com/album/0f1AEBpk1HPkZZGawMUJeN"
+      "spotifyURL": "https://open.spotify.com/album/0f1AEBpk1HPkZZGawMUJeN",
+      "deezerURL": "https://www.deezer.com/album/14001988"
     },
     {
       "number": 19,
       "title": "Der große Bruder",
       "releaseYear": 1994,
       "appleMusicURL": "https://music.apple.com/de/album/folge-19-der-gro%C3%9Fe-bruder/1148113618",
-      "spotifyURL": "https://open.spotify.com/album/4yrAUBhyeRtddpaiX0KR3W"
+      "spotifyURL": "https://open.spotify.com/album/4yrAUBhyeRtddpaiX0KR3W",
+      "deezerURL": "https://www.deezer.com/album/14002192"
     },
     {
       "number": 20,
       "title": "Mami siegt",
       "releaseYear": 1994,
       "appleMusicURL": "https://music.apple.com/de/album/folge-20-mami-siegt/1148111277",
-      "spotifyURL": "https://open.spotify.com/album/6UCjZtbPE37iBKBXP6M8jS"
+      "spotifyURL": "https://open.spotify.com/album/6UCjZtbPE37iBKBXP6M8jS",
+      "deezerURL": "https://www.deezer.com/album/14002178"
     },
     {
       "number": 21,
       "title": "Felix reißt aus",
       "releaseYear": 1994,
       "appleMusicURL": "https://music.apple.com/de/album/folge-21-felix-rei%C3%9Ft-aus/1038226558",
-      "spotifyURL": "https://open.spotify.com/album/3JeDzxze3W2wDeddZ2uuCX"
+      "spotifyURL": "https://open.spotify.com/album/3JeDzxze3W2wDeddZ2uuCX",
+      "deezerURL": "https://www.deezer.com/album/14002202"
     },
     {
       "number": 22,
       "title": "Mikosch kehrt zurück",
       "releaseYear": 1995,
       "appleMusicURL": "https://music.apple.com/de/album/folge-22-mikosch-kehrt-zur%C3%BCck/1069156543",
-      "spotifyURL": "https://open.spotify.com/album/4tZO4wsAyAKqgBdqdTr8Xv"
+      "spotifyURL": "https://open.spotify.com/album/4tZO4wsAyAKqgBdqdTr8Xv",
+      "deezerURL": "https://www.deezer.com/album/386789667"
     },
     {
       "number": 23,
       "title": "Ein Pferd für Tante Paula",
       "releaseYear": 1995,
       "appleMusicURL": "https://music.apple.com/de/album/folge-23-ein-pferd-f%C3%BCr-tante-paula/1069152610",
-      "spotifyURL": "https://open.spotify.com/album/6pBey0BrJHhHvCwMlYWFH1"
+      "spotifyURL": "https://open.spotify.com/album/6pBey0BrJHhHvCwMlYWFH1",
+      "deezerURL": "https://www.deezer.com/album/14002194"
     },
     {
       "number": 24,
       "title": "Der Millionär",
       "releaseYear": 1995,
       "appleMusicURL": "https://music.apple.com/de/album/folge-24-der-million%C3%A4r/1148113028",
-      "spotifyURL": "https://open.spotify.com/album/33ReNePkNl82TXTqci21RQ"
+      "spotifyURL": "https://open.spotify.com/album/33ReNePkNl82TXTqci21RQ",
+      "deezerURL": "https://www.deezer.com/album/14002186"
     },
     {
       "number": 25,
       "title": "Das Weihnachtsfest",
       "releaseYear": 1995,
       "appleMusicURL": "https://music.apple.com/de/album/folge-25-das-weihnachtsfest/1148105758",
-      "spotifyURL": "https://open.spotify.com/album/2nluWK5OuZZBykDPfTOg4Q"
+      "spotifyURL": "https://open.spotify.com/album/2nluWK5OuZZBykDPfTOg4Q",
+      "deezerURL": "https://www.deezer.com/album/14002136"
     },
     {
       "number": 26,
       "title": "Die Osterferien",
       "releaseYear": 1996,
       "appleMusicURL": "https://music.apple.com/de/album/folge-26-die-osterferien/1038139303",
-      "spotifyURL": "https://open.spotify.com/album/61oI6uEajbLOQU3RW80ENm"
+      "spotifyURL": "https://open.spotify.com/album/61oI6uEajbLOQU3RW80ENm",
+      "deezerURL": "https://www.deezer.com/album/14002160"
     },
     {
       "number": 27,
       "title": "Der Pferdegeburtstag",
       "releaseYear": 1996,
       "appleMusicURL": "https://music.apple.com/de/album/folge-27-der-pferdegeburtstag/1069155932",
-      "spotifyURL": "https://open.spotify.com/album/23TsxIKroq4GugoU0FuQIX"
+      "spotifyURL": "https://open.spotify.com/album/23TsxIKroq4GugoU0FuQIX",
+      "deezerURL": "https://www.deezer.com/album/14002172"
     },
     {
       "number": 28,
       "title": "Die wilde Meute",
       "releaseYear": 1997,
       "appleMusicURL": "https://music.apple.com/de/album/folge-28-die-wilde-meute/1069214824",
-      "spotifyURL": "https://open.spotify.com/album/3Iz68yiPmqqT8xWSECgM2F"
+      "spotifyURL": "https://open.spotify.com/album/3Iz68yiPmqqT8xWSECgM2F",
+      "deezerURL": "https://www.deezer.com/album/14002196"
     },
     {
       "number": 29,
       "title": "Das sprechende Pferd",
       "releaseYear": 1997,
       "appleMusicURL": "https://music.apple.com/de/album/folge-29-das-sprechende-pferd/1069236089",
-      "spotifyURL": "https://open.spotify.com/album/6T2YcOnd4tl1UUrKl5TKMs"
+      "spotifyURL": "https://open.spotify.com/album/6T2YcOnd4tl1UUrKl5TKMs",
+      "deezerURL": "https://www.deezer.com/album/14002188"
     },
     {
       "number": 30,
       "title": "Eine Freundin für Felix",
       "releaseYear": 1997,
       "appleMusicURL": "https://music.apple.com/de/album/folge-30-eine-freundin-f%C3%BCr-felix/1038175501",
-      "spotifyURL": "https://open.spotify.com/album/6NHKCnNmsV2gTnVk850sGs"
+      "spotifyURL": "https://open.spotify.com/album/6NHKCnNmsV2gTnVk850sGs",
+      "deezerURL": "https://www.deezer.com/album/14002198"
     },
     {
       "number": 31,
       "title": "Die Tierärztin",
       "releaseYear": 1997,
       "appleMusicURL": "https://music.apple.com/de/album/folge-31-die-tier%C3%A4rztin/1069092479",
-      "spotifyURL": "https://open.spotify.com/album/18JGPxzuEsTQMelKup2mYx"
+      "spotifyURL": "https://open.spotify.com/album/18JGPxzuEsTQMelKup2mYx",
+      "deezerURL": "https://www.deezer.com/album/14002138"
     },
     {
       "number": 32,
       "title": "Das Schmusepony",
       "releaseYear": 1998,
       "appleMusicURL": "https://music.apple.com/de/album/folge-32-das-schmusepony/1069126559",
-      "spotifyURL": "https://open.spotify.com/album/3DV7KjWocxVsuM2QU2jRH0"
+      "spotifyURL": "https://open.spotify.com/album/3DV7KjWocxVsuM2QU2jRH0",
+      "deezerURL": "https://www.deezer.com/album/14002118"
     },
     {
       "number": 33,
       "title": "Alex und das Internat",
       "releaseYear": 1998,
       "appleMusicURL": "https://music.apple.com/de/album/folge-33-alex-und-das-internat/1069165784",
-      "spotifyURL": "https://open.spotify.com/album/1oYnihs1XC6LR88smCCriV"
+      "spotifyURL": "https://open.spotify.com/album/1oYnihs1XC6LR88smCCriV",
+      "deezerURL": "https://www.deezer.com/album/14002126"
     },
     {
       "number": 34,
       "title": "Das Gespensterpferd",
       "releaseYear": 1998,
       "appleMusicURL": "https://music.apple.com/de/album/folge-34-das-gespensterpferd/1069222228",
-      "spotifyURL": "https://open.spotify.com/album/0h9wGHkxCGk2uqZePF5CUj"
+      "spotifyURL": "https://open.spotify.com/album/0h9wGHkxCGk2uqZePF5CUj",
+      "deezerURL": "https://www.deezer.com/album/14002190"
     },
     {
       "number": 35,
       "title": "Die falsche Freundin",
       "releaseYear": 1998,
       "appleMusicURL": "https://music.apple.com/de/album/folge-35-die-falsche-freundin/1069228233",
-      "spotifyURL": "https://open.spotify.com/album/0ikt1Cgk6edUa1ePDrIwHK"
+      "spotifyURL": "https://open.spotify.com/album/0ikt1Cgk6edUa1ePDrIwHK",
+      "deezerURL": "https://www.deezer.com/album/14002166"
     },
     {
       "number": 36,
       "title": "Das Pferd in der Schule",
       "releaseYear": 1999,
       "appleMusicURL": "https://music.apple.com/de/album/folge-36-das-pferd-in-der-schule/1069118843",
-      "spotifyURL": "https://open.spotify.com/album/2g51xmwn2TtGg5czNrfdH6"
+      "spotifyURL": "https://open.spotify.com/album/2g51xmwn2TtGg5czNrfdH6",
+      "deezerURL": "https://www.deezer.com/album/14002112"
     },
     {
       "number": 37,
       "title": "Der Pferdetausch",
       "releaseYear": 1999,
       "appleMusicURL": "https://music.apple.com/de/album/folge-37-der-pferdetausch/1148116040",
-      "spotifyURL": "https://open.spotify.com/album/0ylYzxF4qopH2tM9gVGAFh"
+      "spotifyURL": "https://open.spotify.com/album/0ylYzxF4qopH2tM9gVGAFh",
+      "deezerURL": "https://www.deezer.com/album/14002200"
     },
     {
       "number": 38,
       "title": "Der Glücksbringer",
       "releaseYear": 2000,
       "appleMusicURL": "https://music.apple.com/de/album/folge-38-der-gl%C3%BCcksbringer/1148108841",
-      "spotifyURL": "https://open.spotify.com/album/2zRbXfVydAckSDov1RuOu3"
+      "spotifyURL": "https://open.spotify.com/album/2zRbXfVydAckSDov1RuOu3",
+      "deezerURL": "https://www.deezer.com/album/14002182"
     },
     {
       "number": 39,
       "title": "Das Findel-Fohlen",
       "releaseYear": 2000,
       "appleMusicURL": "https://music.apple.com/de/album/folge-39-das-findel-fohlen/1069224346",
-      "spotifyURL": "https://open.spotify.com/album/3PY4QxbfAQoCMGK3gz8UrU"
+      "spotifyURL": "https://open.spotify.com/album/3PY4QxbfAQoCMGK3gz8UrU",
+      "deezerURL": "https://www.deezer.com/album/14002098"
     },
     {
       "number": 40,
       "title": "Gefahr für Falkenstein",
       "releaseYear": 2000,
       "appleMusicURL": "https://music.apple.com/de/album/folge-40-gefahr-f%C3%BCr-falkenstein/1069222484",
-      "spotifyURL": "https://open.spotify.com/album/1OxuSoPVS9lpGOOVgXXBmX"
+      "spotifyURL": "https://open.spotify.com/album/1OxuSoPVS9lpGOOVgXXBmX",
+      "deezerURL": "https://www.deezer.com/album/14002130"
     },
     {
       "number": 41,
       "title": "Der Pferdefasching",
       "releaseYear": 2001,
       "appleMusicURL": "https://music.apple.com/de/album/folge-41-der-pferdefasching/1148094247",
-      "spotifyURL": "https://open.spotify.com/album/07Uez20oCH14edIciu3sQA"
+      "spotifyURL": "https://open.spotify.com/album/07Uez20oCH14edIciu3sQA",
+      "deezerURL": "https://www.deezer.com/album/14001874"
     },
     {
       "number": 42,
       "title": "Die Superponys",
       "releaseYear": 2001,
       "appleMusicURL": "https://music.apple.com/de/album/folge-42-die-superponys/1069160024",
-      "spotifyURL": "https://open.spotify.com/album/0QVO07UXJQY6DdzuBvTYR7"
+      "spotifyURL": "https://open.spotify.com/album/0QVO07UXJQY6DdzuBvTYR7",
+      "deezerURL": "https://www.deezer.com/album/14002106"
     },
     {
       "number": 43,
       "title": "Konkurrenz für Alex",
       "releaseYear": 2001,
       "appleMusicURL": "https://music.apple.com/de/album/folge-43-konkurrenz-f%C3%BCr-alex/1069127878",
-      "spotifyURL": "https://open.spotify.com/album/7KtfhSaD2siSjKUo30ziz7"
+      "spotifyURL": "https://open.spotify.com/album/7KtfhSaD2siSjKUo30ziz7",
+      "deezerURL": "https://www.deezer.com/album/14002154"
     },
     {
       "number": 44,
       "title": "Der Verehrer",
       "releaseYear": 2002,
       "appleMusicURL": "https://music.apple.com/de/album/folge-44-der-verehrer/1069208315",
-      "spotifyURL": "https://open.spotify.com/album/0l6s5ukYtrt6a8JCouBBHe"
+      "spotifyURL": "https://open.spotify.com/album/0l6s5ukYtrt6a8JCouBBHe",
+      "deezerURL": "https://www.deezer.com/album/14002086"
     },
     {
       "number": 45,
       "title": "Der Pferdedieb",
       "releaseYear": 2002,
       "appleMusicURL": "https://music.apple.com/de/album/folge-45-der-pferdedieb/1069148492",
-      "spotifyURL": "https://open.spotify.com/album/2vW0CBnminLguWJYcbJ7f6"
+      "spotifyURL": "https://open.spotify.com/album/2vW0CBnminLguWJYcbJ7f6",
+      "deezerURL": "https://www.deezer.com/album/14002080"
     },
     {
       "number": 46,
       "title": "Das Liebeskraut",
       "releaseYear": 2002,
       "appleMusicURL": "https://music.apple.com/de/album/folge-46-das-liebeskraut/1069238671",
-      "spotifyURL": "https://open.spotify.com/album/0N0zspDuJngYyopW9xgSjV"
+      "spotifyURL": "https://open.spotify.com/album/0N0zspDuJngYyopW9xgSjV",
+      "deezerURL": "https://www.deezer.com/album/14002072"
     },
     {
       "number": 47,
       "title": "Die Schnitzeljagd-Falle",
       "releaseYear": 2003,
       "appleMusicURL": "https://music.apple.com/de/album/folge-47-die-schnitzeljagd-falle/1069139844",
-      "spotifyURL": "https://open.spotify.com/album/02RXW50yxBC1vH3mXRM8hE"
+      "spotifyURL": "https://open.spotify.com/album/02RXW50yxBC1vH3mXRM8hE",
+      "deezerURL": "https://www.deezer.com/album/14002084"
     },
     {
       "number": 48,
       "title": "Ein ungebetener Gast",
       "releaseYear": 2003,
       "appleMusicURL": "https://music.apple.com/de/album/folge-48-ein-ungebetener-gast/1069167262",
-      "spotifyURL": "https://open.spotify.com/album/3bbndVgjI0xtR4ahJfUJ2K"
+      "spotifyURL": "https://open.spotify.com/album/3bbndVgjI0xtR4ahJfUJ2K",
+      "deezerURL": "https://www.deezer.com/album/14002132"
     },
     {
       "number": 49,
       "title": "Die Pferdeprinzessin",
       "releaseYear": 2004,
       "appleMusicURL": "https://music.apple.com/de/album/folge-49-die-pferdeprinzessin/1069220206",
-      "spotifyURL": "https://open.spotify.com/album/13HzygSjtrD67Qtf7goxbf"
+      "spotifyURL": "https://open.spotify.com/album/13HzygSjtrD67Qtf7goxbf",
+      "deezerURL": "https://www.deezer.com/album/14001880"
     },
     {
       "number": 50,
       "title": "Das Kürbisfest",
       "releaseYear": 2004,
       "appleMusicURL": "https://music.apple.com/de/album/folge-50-das-k%C3%BCrbisfest/1069225919",
-      "spotifyURL": "https://open.spotify.com/album/7z0dP0LzoN3HnuvLCLyWOv"
+      "spotifyURL": "https://open.spotify.com/album/7z0dP0LzoN3HnuvLCLyWOv",
+      "deezerURL": "https://www.deezer.com/album/14001876"
     },
     {
       "number": 51,
       "title": "Besuch aus Spanien",
       "releaseYear": 2005,
       "appleMusicURL": "https://music.apple.com/de/album/folge-51-besuch-aus-spanien/1123762821",
-      "spotifyURL": "https://open.spotify.com/album/7njfnSNsPL6qi0Ih6NBA7s"
+      "spotifyURL": "https://open.spotify.com/album/7njfnSNsPL6qi0Ih6NBA7s",
+      "deezerURL": "https://www.deezer.com/album/14002144"
     },
     {
       "number": 52,
       "title": "Freddy in der Klemme",
       "releaseYear": 2005,
       "appleMusicURL": "https://music.apple.com/de/album/folge-52-freddy-in-der-klemme/1069092927",
-      "spotifyURL": "https://open.spotify.com/album/4xDNgPactkeSja2irHu1y4"
+      "spotifyURL": "https://open.spotify.com/album/4xDNgPactkeSja2irHu1y4",
+      "deezerURL": "https://www.deezer.com/album/14031462"
     },
     {
       "number": 53,
       "title": "Der verhexte Wanderritt",
       "releaseYear": 2007,
       "appleMusicURL": "https://music.apple.com/de/album/bibi-und-tina-folge-53-der-verhexte-wanderritt/220152694",
-      "spotifyURL": "https://open.spotify.com/album/3Eqeo5ozXIwoaJzisEt0PZ"
+      "spotifyURL": "https://open.spotify.com/album/3Eqeo5ozXIwoaJzisEt0PZ",
+      "deezerURL": "https://www.deezer.com/album/14001884"
     },
     {
       "number": 54,
       "title": "Das Amulett der Gräfin",
       "releaseYear": 2007,
       "appleMusicURL": "https://music.apple.com/de/album/bibi-und-tina-folge-54-das-amulett-der-gr%C3%A4fin/251090242",
-      "spotifyURL": "https://open.spotify.com/album/79kdMrM9ltKsiOx5QdYnSx"
+      "spotifyURL": "https://open.spotify.com/album/79kdMrM9ltKsiOx5QdYnSx",
+      "deezerURL": "https://www.deezer.com/album/14002094"
     },
     {
       "number": 55,
       "title": "Der verschwundene Pokal",
       "releaseYear": 2007,
       "appleMusicURL": "https://music.apple.com/de/album/bibi-und-tina-folge-55-der-verschwundene-pokal/327046600",
-      "spotifyURL": "https://open.spotify.com/album/4pfui9N1lQqBG4xD6mKGDC"
+      "spotifyURL": "https://open.spotify.com/album/4pfui9N1lQqBG4xD6mKGDC",
+      "deezerURL": "https://www.deezer.com/album/14001954"
     },
     {
       "number": 56,
       "title": "Die Überraschungsparty",
       "releaseYear": 2007,
       "appleMusicURL": "https://music.apple.com/de/album/folge-56-die-%C3%BCberraschungsparty/1148113923",
-      "spotifyURL": "https://open.spotify.com/album/7kxUUiGDTYGrVX0Az7nquS"
+      "spotifyURL": "https://open.spotify.com/album/7kxUUiGDTYGrVX0Az7nquS",
+      "deezerURL": "https://www.deezer.com/album/14002082"
     },
     {
       "number": 57,
       "title": "Das große Teamspringen",
       "releaseYear": 2007,
       "appleMusicURL": "https://music.apple.com/de/album/folge-57-das-gro%C3%9Fe-teamspringen/1148093386",
-      "spotifyURL": "https://open.spotify.com/album/41plLdSqo7ifcMQusTqNjA"
+      "spotifyURL": "https://open.spotify.com/album/41plLdSqo7ifcMQusTqNjA",
+      "deezerURL": "https://www.deezer.com/album/14001894"
     },
     {
       "number": 58,
       "title": "Die rätselhafte Schatzsuche",
       "releaseYear": 2008,
       "appleMusicURL": "https://music.apple.com/de/album/folge-58-die-r%C3%A4tselhafte-schatzsuche/1038135830",
-      "spotifyURL": "https://open.spotify.com/album/7fHM6twCaHeyTxTLiFzrDV"
+      "spotifyURL": "https://open.spotify.com/album/7fHM6twCaHeyTxTLiFzrDV",
+      "deezerURL": "https://www.deezer.com/album/14002028"
     },
     {
       "number": 59,
       "title": "Das kleine Rehkitz",
       "releaseYear": 2008,
       "appleMusicURL": "https://music.apple.com/de/album/folge-59-das-kleine-rehkitz/1069129624",
-      "spotifyURL": "https://open.spotify.com/album/4o1MTuAQ6PLD3ekwvno09S"
+      "spotifyURL": "https://open.spotify.com/album/4o1MTuAQ6PLD3ekwvno09S",
+      "deezerURL": "https://www.deezer.com/album/14002054"
     },
     {
       "number": 60,
       "title": "Wölfe in der Puszta",
       "releaseYear": 2008,
       "appleMusicURL": "https://music.apple.com/de/album/folge-60-w%C3%B6lfe-in-der-puszta/1148102549",
-      "spotifyURL": "https://open.spotify.com/album/7r3emJK2XXknShQyWKcK96"
+      "spotifyURL": "https://open.spotify.com/album/7r3emJK2XXknShQyWKcK96",
+      "deezerURL": "https://www.deezer.com/album/14001888"
     },
     {
       "number": 61,
       "title": "Retten die Biber",
       "releaseYear": 2009,
       "appleMusicURL": "https://music.apple.com/de/album/folge-61-bibi-und-tina-retten-die-biber/1069211707",
-      "spotifyURL": "https://open.spotify.com/album/6y7Vqz70RQZlGMXULG5mBK"
+      "spotifyURL": "https://open.spotify.com/album/6y7Vqz70RQZlGMXULG5mBK",
+      "deezerURL": "https://www.deezer.com/album/14002050"
     },
     {
       "number": 62,
       "title": "Holgers Versprechen",
       "releaseYear": 2009,
       "appleMusicURL": "https://music.apple.com/de/album/folge-62-holgers-versprechen/1359812591",
-      "spotifyURL": "https://open.spotify.com/album/6iwtQ9gjqkqfxJdkNDgblg"
+      "spotifyURL": "https://open.spotify.com/album/6iwtQ9gjqkqfxJdkNDgblg",
+      "deezerURL": "https://www.deezer.com/album/14002034"
     },
     {
       "number": 63,
       "title": "Die Waschbären sind los",
       "releaseYear": 2009,
       "appleMusicURL": "https://music.apple.com/de/album/folge-63-die-waschb%C3%A4ren-sind-los/1355058181",
-      "spotifyURL": "https://open.spotify.com/album/6oKOIG3zwP4JpvP48kzQpy"
+      "spotifyURL": "https://open.spotify.com/album/6oKOIG3zwP4JpvP48kzQpy",
+      "deezerURL": "https://www.deezer.com/album/14002020"
     },
     {
       "number": 64,
       "title": "Hilfe für die Tierpension",
       "releaseYear": 2010,
       "appleMusicURL": "https://music.apple.com/de/album/folge-64-hilfe-f%C3%BCr-die-tierpension/1355056616",
-      "spotifyURL": "https://open.spotify.com/album/4TQySSH6brQcwlR2g0ulid"
+      "spotifyURL": "https://open.spotify.com/album/4TQySSH6brQcwlR2g0ulid",
+      "deezerURL": "https://www.deezer.com/album/14001996"
     },
     {
       "number": 65,
       "title": "Abschied von Amadeus",
       "releaseYear": 2010,
       "appleMusicURL": "https://music.apple.com/de/album/folge-65-abschied-von-amadeus/1149441321",
-      "spotifyURL": "https://open.spotify.com/album/14CgjXaF68RoFIuxjWgFQZ"
+      "spotifyURL": "https://open.spotify.com/album/14CgjXaF68RoFIuxjWgFQZ",
+      "deezerURL": "https://www.deezer.com/album/14001952"
     },
     {
       "number": 66,
       "title": "Allein im Schloss",
       "releaseYear": 2010,
       "appleMusicURL": "https://music.apple.com/de/album/folge-66-allein-im-schloss/1149443744",
-      "spotifyURL": "https://open.spotify.com/album/7MmGDWg8mBqZmxgQfAFaGx"
+      "spotifyURL": "https://open.spotify.com/album/7MmGDWg8mBqZmxgQfAFaGx",
+      "deezerURL": "https://www.deezer.com/album/14002018"
     },
     {
       "number": 67,
       "title": "Das Tierarztpraktikum",
       "releaseYear": 2011,
       "appleMusicURL": "https://music.apple.com/de/album/folge-67-bibi-und-tina-das-tierarztpraktikum/1006689529",
-      "spotifyURL": "https://open.spotify.com/album/2U3tr7tB5kvIobxriuwY4K"
+      "spotifyURL": "https://open.spotify.com/album/2U3tr7tB5kvIobxriuwY4K",
+      "deezerURL": "https://www.deezer.com/album/44463231"
     },
     {
       "number": 68,
       "title": "Die Urlaubsüberraschung",
       "releaseYear": 2011,
       "appleMusicURL": "https://music.apple.com/de/album/folge-68-die-urlaubs%C3%BCberraschung/446679880",
-      "spotifyURL": "https://open.spotify.com/album/2Xj7eMbRzBIBgtqmpTRgai"
+      "spotifyURL": "https://open.spotify.com/album/2Xj7eMbRzBIBgtqmpTRgai",
+      "deezerURL": "https://www.deezer.com/album/14001966"
     },
     {
       "number": 69,
       "title": "Ausritt mit Folgen",
       "releaseYear": 2011,
       "appleMusicURL": "https://music.apple.com/de/album/folge-69-ausritt-mit-folgen/468018381",
-      "spotifyURL": "https://open.spotify.com/album/1KF1Iwp8eqVtMVcovyUPKU"
+      "spotifyURL": "https://open.spotify.com/album/1KF1Iwp8eqVtMVcovyUPKU",
+      "deezerURL": "https://www.deezer.com/album/14001972"
     },
     {
       "number": 70,
       "title": "Das Ritterturnier",
       "releaseYear": 2012,
       "appleMusicURL": "https://music.apple.com/de/album/folge-70-das-ritterturnier/488115210",
-      "spotifyURL": "https://open.spotify.com/album/6b2ivtQlkdEZ6okJlYqntO"
+      "spotifyURL": "https://open.spotify.com/album/6b2ivtQlkdEZ6okJlYqntO",
+      "deezerURL": "https://www.deezer.com/album/14001958"
     },
     {
       "number": 71,
       "title": "Falsches Spiel mit Alex",
       "releaseYear": 2012,
       "appleMusicURL": "https://music.apple.com/de/album/folge-71-falsches-spiel-mit-alex/539589699",
-      "spotifyURL": "https://open.spotify.com/album/56YjDur9pXnzIgnhlWgqW2"
+      "spotifyURL": "https://open.spotify.com/album/56YjDur9pXnzIgnhlWgqW2",
+      "deezerURL": "https://www.deezer.com/album/14002006"
     },
     {
       "number": 72,
       "title": "Der geheimnisvolle Falke",
       "releaseYear": 2012,
       "appleMusicURL": "https://music.apple.com/de/album/folge-72-der-geheimnisvolle-falke/567027720",
-      "spotifyURL": "https://open.spotify.com/album/7egxkeZyMucfEKctBiAK2U"
+      "spotifyURL": "https://open.spotify.com/album/7egxkeZyMucfEKctBiAK2U",
+      "deezerURL": "https://www.deezer.com/album/14002024"
     },
     {
       "number": 73,
       "title": "Verloren im Schnee",
       "releaseYear": 2013,
       "appleMusicURL": "https://music.apple.com/de/album/folge-73-verloren-im-schnee-inkl-bonus-track/586304988",
-      "spotifyURL": "https://open.spotify.com/album/7zf8imS3lffEdo6R42pQyv"
+      "spotifyURL": "https://open.spotify.com/album/7zf8imS3lffEdo6R42pQyv",
+      "deezerURL": "https://www.deezer.com/album/14001994"
     },
     {
       "number": 74,
       "title": "Spuk im Wald",
       "releaseYear": 2013,
       "appleMusicURL": "https://music.apple.com/de/album/folge-74-spuk-im-wald/1149452718",
-      "spotifyURL": "https://open.spotify.com/album/0hJ3FhFzOFJhJF9qeX1TEK"
+      "spotifyURL": "https://open.spotify.com/album/0hJ3FhFzOFJhJF9qeX1TEK",
+      "deezerURL": "https://www.deezer.com/album/14002030"
     },
     {
       "number": 75,
       "title": "Wo ist Felix",
       "releaseYear": 2013,
       "appleMusicURL": "https://music.apple.com/de/album/folge-75-wo-ist-felix-inkl-bonustrack/716752030",
-      "spotifyURL": "https://open.spotify.com/album/7eUwxkCrTYX7q9pXYTEqJB"
+      "spotifyURL": "https://open.spotify.com/album/7eUwxkCrTYX7q9pXYTEqJB",
+      "deezerURL": "https://www.deezer.com/album/14002004"
     },
     {
       "number": 76,
       "title": "Die Voltigier-Show",
       "releaseYear": 2014,
       "appleMusicURL": "https://music.apple.com/de/album/folge-76-die-voltigier-show/780602875",
-      "spotifyURL": "https://open.spotify.com/album/45dOZ8312a7NnlgJJsymXA"
+      "spotifyURL": "https://open.spotify.com/album/45dOZ8312a7NnlgJJsymXA",
+      "deezerURL": "https://www.deezer.com/album/14001978"
     },
     {
       "number": 77,
       "title": "Das kleine Hufeisen",
       "releaseYear": 2014,
       "appleMusicURL": "https://music.apple.com/de/album/folge-77-das-kleine-hufeisen/894012453",
-      "spotifyURL": "https://open.spotify.com/album/3RglA97ZtNqv8bUzazdXj6"
+      "spotifyURL": "https://open.spotify.com/album/3RglA97ZtNqv8bUzazdXj6",
+      "deezerURL": "https://www.deezer.com/album/14002012"
     },
     {
       "number": 78,
       "title": "Das Gestüt in England",
       "releaseYear": 2014,
       "appleMusicURL": "https://music.apple.com/de/album/folge-78-das-gest%C3%BCt-in-england/923654570",
-      "spotifyURL": "https://open.spotify.com/album/0l2yMvgqySd4CKXg6wJzEk"
+      "spotifyURL": "https://open.spotify.com/album/0l2yMvgqySd4CKXg6wJzEk",
+      "deezerURL": "https://www.deezer.com/album/14002016"
     },
     {
       "number": 79,
       "title": "Rennpferd in Not",
       "releaseYear": 2015,
       "appleMusicURL": "https://music.apple.com/de/album/folge-79-rennpferd-in-not/960639694",
-      "spotifyURL": "https://open.spotify.com/album/5VlikiLzsMYzOV6xasL2vb"
+      "spotifyURL": "https://open.spotify.com/album/5VlikiLzsMYzOV6xasL2vb",
+      "deezerURL": "https://www.deezer.com/album/14002010"
     },
     {
       "number": 80,
       "title": "Der Waldbrand",
       "releaseYear": 2015,
       "appleMusicURL": "https://music.apple.com/de/album/folge-80-der-waldbrand/1149444493",
-      "spotifyURL": "https://open.spotify.com/album/1es77ykh54uGjsw4x28jpL"
+      "spotifyURL": "https://open.spotify.com/album/1es77ykh54uGjsw4x28jpL",
+      "deezerURL": "https://www.deezer.com/album/14002000"
     },
     {
       "number": 81,
       "title": "Der Pferde-Treck",
       "releaseYear": 2015,
       "appleMusicURL": "https://music.apple.com/de/album/folge-81-der-pferde-treck/1149443675",
-      "spotifyURL": "https://open.spotify.com/album/7dy2QpTUYDZKWbOObkFAjk"
+      "spotifyURL": "https://open.spotify.com/album/7dy2QpTUYDZKWbOObkFAjk",
+      "deezerURL": "https://www.deezer.com/album/14002002"
     },
     {
       "number": 82,
       "title": "Die Reiterspiele",
       "releaseYear": 2016,
       "appleMusicURL": "https://music.apple.com/de/album/folge-82-die-reiterspiele/1088863463",
-      "spotifyURL": "https://open.spotify.com/album/1RMKJQLmZqoZduvB4T2M7l"
+      "spotifyURL": "https://open.spotify.com/album/1RMKJQLmZqoZduvB4T2M7l",
+      "deezerURL": "https://www.deezer.com/album/14002008"
     },
     {
       "number": 83,
       "title": "Freddy verliebt sich",
       "releaseYear": 2016,
       "appleMusicURL": "https://music.apple.com/de/album/folge-83-freddy-verliebt-sich/1171889114",
-      "spotifyURL": "https://open.spotify.com/album/6u7mLxgAMQth1wLf3mwnil"
+      "spotifyURL": "https://open.spotify.com/album/6u7mLxgAMQth1wLf3mwnil",
+      "deezerURL": "https://www.deezer.com/album/14530520"
     },
     {
       "number": 84,
       "title": "Der Weihnachtsmarkt",
       "releaseYear": 2016,
       "appleMusicURL": "https://music.apple.com/de/album/folge-84-der-weihnachtsmarkt/1200542252",
-      "spotifyURL": "https://open.spotify.com/album/3GeZ0WBoN8yUrgQuR70jN7"
+      "spotifyURL": "https://open.spotify.com/album/3GeZ0WBoN8yUrgQuR70jN7",
+      "deezerURL": "https://www.deezer.com/album/15327049"
     },
     {
       "number": 85,
       "title": "Das Geheimnis der Alten Mühle",
       "releaseYear": 2017,
       "appleMusicURL": "https://music.apple.com/de/album/folge-85-das-geheimnis-der-alten-m%C3%BChle/1200542075",
-      "spotifyURL": "https://open.spotify.com/album/69Ku8m3rCjG0shgu6KaYUz"
+      "spotifyURL": "https://open.spotify.com/album/69Ku8m3rCjG0shgu6KaYUz",
+      "deezerURL": "https://www.deezer.com/album/44456631"
     },
     {
       "number": 86,
       "title": "Das Filmteam",
       "releaseYear": 2017,
       "appleMusicURL": "https://music.apple.com/de/album/folge-86-das-filmteam/1200505816",
-      "spotifyURL": "https://open.spotify.com/album/0BajiiFeEZv9eEx07Hw2C0"
+      "spotifyURL": "https://open.spotify.com/album/0BajiiFeEZv9eEx07Hw2C0",
+      "deezerURL": "https://www.deezer.com/album/43821861"
     },
     {
       "number": 87,
       "title": "Das große Unwetter",
       "releaseYear": 2017,
       "appleMusicURL": "https://music.apple.com/de/album/folge-87-das-gro%C3%9Fe-unwetter/1254485116",
-      "spotifyURL": "https://open.spotify.com/album/6JvQHhP638FrhhNrfvc5m0"
+      "spotifyURL": "https://open.spotify.com/album/6JvQHhP638FrhhNrfvc5m0",
+      "deezerURL": "https://www.deezer.com/album/50436752"
     },
     {
       "number": 88,
       "title": "Ein schlimmer Verdacht",
       "releaseYear": 2018,
       "appleMusicURL": "https://music.apple.com/de/album/folge-88-ein-schlimmer-verdacht/1309657963",
-      "spotifyURL": "https://open.spotify.com/album/721jCM2jOWLTF90qAXsm4j"
+      "spotifyURL": "https://open.spotify.com/album/721jCM2jOWLTF90qAXsm4j",
+      "deezerURL": "https://www.deezer.com/album/55654052"
     },
     {
       "number": 89,
       "title": "Wildgänse Alarm",
       "releaseYear": 2018,
       "appleMusicURL": "https://music.apple.com/de/album/folge-89-wildg%C3%A4nse-alarm/1340400734",
-      "spotifyURL": "https://open.spotify.com/album/4fuUzEkHyXlkdgba5YKwMP"
+      "spotifyURL": "https://open.spotify.com/album/4fuUzEkHyXlkdgba5YKwMP",
+      "deezerURL": "https://www.deezer.com/album/64778342"
     },
     {
       "number": 90,
       "title": "Der neue Reiterhof",
       "releaseYear": 2018,
       "appleMusicURL": "https://music.apple.com/de/album/folge-90-der-neue-reiterhof/1394091688",
-      "spotifyURL": "https://open.spotify.com/album/6dUE7mRlGLJriQtHxM7LZN"
+      "spotifyURL": "https://open.spotify.com/album/6dUE7mRlGLJriQtHxM7LZN",
+      "deezerURL": "https://www.deezer.com/album/73449662"
     },
     {
       "number": 91,
       "title": "Der Freundschaftstag",
       "releaseYear": 2018,
       "appleMusicURL": "https://music.apple.com/de/album/folge-91-der-freundschaftstag/1435799060",
-      "spotifyURL": "https://open.spotify.com/album/71hARpiHNjR1UhnKdzTuKU"
+      "spotifyURL": "https://open.spotify.com/album/71hARpiHNjR1UhnKdzTuKU",
+      "deezerURL": "https://www.deezer.com/album/80052672"
     },
     {
       "number": 92,
       "title": "Mission Alex",
       "releaseYear": 2019,
       "appleMusicURL": "https://music.apple.com/de/album/folge-92-mission-alex/1450376875",
-      "spotifyURL": "https://open.spotify.com/album/0gBwfz0Li2PAs6RtcC34Sf"
+      "spotifyURL": "https://open.spotify.com/album/0gBwfz0Li2PAs6RtcC34Sf",
+      "deezerURL": "https://www.deezer.com/album/86465272"
     },
     {
       "number": 93,
       "title": "Das wilde Fohlen",
       "releaseYear": 2019,
       "appleMusicURL": "https://music.apple.com/de/album/folge-93-das-wilde-fohlen/1452617633",
-      "spotifyURL": "https://open.spotify.com/album/3TNwLmVlMD5FH9lfreRTop"
+      "spotifyURL": "https://open.spotify.com/album/3TNwLmVlMD5FH9lfreRTop",
+      "deezerURL": "https://www.deezer.com/album/94544012"
     },
     {
       "number": 94,
       "title": "Graf für einen Tag",
       "releaseYear": 2019,
       "appleMusicURL": "https://music.apple.com/de/album/folge-94-graf-f%C3%BCr-einen-tag/1476832638",
-      "spotifyURL": "https://open.spotify.com/album/3eFdA2IbkslfgcTAIR4HvR"
+      "spotifyURL": "https://open.spotify.com/album/3eFdA2IbkslfgcTAIR4HvR",
+      "deezerURL": "https://www.deezer.com/album/111472092"
     },
     {
       "number": 95,
       "title": "Vollmond über Falkenstein",
       "releaseYear": 2019,
       "appleMusicURL": "https://music.apple.com/de/album/folge-95-vollmond-%C3%BCber-falkenstein/1483797323",
-      "spotifyURL": "https://open.spotify.com/album/6CjvjtftFwRBvtUgs76cBa"
+      "spotifyURL": "https://open.spotify.com/album/6CjvjtftFwRBvtUgs76cBa",
+      "deezerURL": "https://www.deezer.com/album/117741152"
     },
     {
       "number": 96,
       "title": "Reiten verboten!",
       "releaseYear": 2020,
       "appleMusicURL": "https://music.apple.com/de/album/folge-96-reiten-verboten/1491490507",
-      "spotifyURL": "https://open.spotify.com/album/2TmWoi2y2up56MkHRAvOf5"
+      "spotifyURL": "https://open.spotify.com/album/2TmWoi2y2up56MkHRAvOf5",
+      "deezerURL": "https://www.deezer.com/album/127775382"
     },
     {
       "number": 97,
       "title": "Die junge Schäferin",
       "releaseYear": 2020,
       "appleMusicURL": "https://music.apple.com/de/album/folge-97-die-junge-sch%C3%A4ferin/1500600840",
-      "spotifyURL": "https://open.spotify.com/album/62CE0aYSuYhTvQdXfYsUHo"
+      "spotifyURL": "https://open.spotify.com/album/62CE0aYSuYhTvQdXfYsUHo",
+      "deezerURL": "https://www.deezer.com/album/136707252"
     },
     {
       "number": 98,
       "title": "Ein Fall für Dr. Eichhorn",
       "releaseYear": 2020,
       "appleMusicURL": "https://music.apple.com/de/album/folge-98-ein-fall-f%C3%BCr-dr-eichhorn/1529907928",
-      "spotifyURL": "https://open.spotify.com/album/4YVzJURFAew027JVKeFSeZ"
+      "spotifyURL": "https://open.spotify.com/album/4YVzJURFAew027JVKeFSeZ",
+      "deezerURL": "https://www.deezer.com/album/173454182"
     },
     {
       "number": 99,
       "title": "Die Holzdiebe",
       "releaseYear": 2020,
       "appleMusicURL": "https://music.apple.com/de/album/folge-99-die-holzdiebe/1536955181",
-      "spotifyURL": "https://open.spotify.com/album/0kBWk62RrZ58YhCx320vtk"
+      "spotifyURL": "https://open.spotify.com/album/0kBWk62RrZ58YhCx320vtk",
+      "deezerURL": "https://www.deezer.com/album/183743042"
     },
     {
       "number": 100,
       "title": "Das Waisenfohlen",
       "releaseYear": 2021,
       "appleMusicURL": "https://music.apple.com/de/album/folge-100-das-waisenfohlen-extra-lange-folge/1538603381",
-      "spotifyURL": "https://open.spotify.com/album/4rInUMkov8kOrilzu5nTY3"
+      "spotifyURL": "https://open.spotify.com/album/4rInUMkov8kOrilzu5nTY3",
+      "deezerURL": "https://www.deezer.com/album/201065872"
     },
     {
       "number": 101,
       "title": "Ärger mit dem Grafen",
       "releaseYear": 2021,
       "appleMusicURL": "https://music.apple.com/de/album/folge-101-%C3%A4rger-mit-dem-grafen/1554340498",
-      "spotifyURL": "https://open.spotify.com/album/7o2yMBFo3Kis2tfSeZD0rH"
+      "spotifyURL": "https://open.spotify.com/album/7o2yMBFo3Kis2tfSeZD0rH",
+      "deezerURL": "https://www.deezer.com/album/208793212"
     },
     {
       "number": 102,
       "title": "Eine besondere Freundschaft",
       "releaseYear": 2021,
       "appleMusicURL": "https://music.apple.com/de/album/folge-102-eine-besondere-freundschaft/1581612928",
-      "spotifyURL": "https://open.spotify.com/album/0XfCKe1sBByUpHdDb5ZNkR"
+      "spotifyURL": "https://open.spotify.com/album/0XfCKe1sBByUpHdDb5ZNkR",
+      "deezerURL": "https://www.deezer.com/album/252358982"
     },
     {
       "number": 103,
       "title": "Die Schlossrenovierung",
       "releaseYear": 2021,
       "appleMusicURL": "https://music.apple.com/de/album/folge-103-die-schlossrenovierung/1587025830",
-      "spotifyURL": "https://open.spotify.com/album/4AabKAlId6VRQkZqdWDFYn"
+      "spotifyURL": "https://open.spotify.com/album/4AabKAlId6VRQkZqdWDFYn",
+      "deezerURL": "https://www.deezer.com/album/260709482"
     },
     {
       "number": 104,
       "title": "Das Pflegepferd",
       "releaseYear": 2022,
       "appleMusicURL": "https://music.apple.com/de/album/folge-104-das-pflegepferd/1605752595",
-      "spotifyURL": "https://open.spotify.com/album/0ECtH4m6CxepjvNgPJDpGK"
+      "spotifyURL": "https://open.spotify.com/album/0ECtH4m6CxepjvNgPJDpGK",
+      "deezerURL": "https://www.deezer.com/album/288336632"
     },
     {
       "number": 105,
       "title": "Das blinde Mädchen",
       "releaseYear": 2022,
       "appleMusicURL": "https://music.apple.com/de/album/folge-105-das-blinde-m%C3%A4dchen/1617809921",
-      "spotifyURL": "https://open.spotify.com/album/383rx34bgcdY9mqZ8Y2UZy"
+      "spotifyURL": "https://open.spotify.com/album/383rx34bgcdY9mqZ8Y2UZy",
+      "deezerURL": "https://www.deezer.com/album/308475847"
     },
     {
       "number": 106,
       "title": "Hilfe für den Wald",
       "releaseYear": 2022,
       "appleMusicURL": "https://music.apple.com/de/album/folge-106-hilfe-f%C3%BCr-den-wald/1636675523",
-      "spotifyURL": "https://open.spotify.com/album/0LYaMu7HAciEnRyGU9t1Xv"
+      "spotifyURL": "https://open.spotify.com/album/0LYaMu7HAciEnRyGU9t1Xv",
+      "deezerURL": "https://www.deezer.com/album/339650137"
     },
     {
       "number": 107,
       "title": "Club der geheimen Reiter",
       "releaseYear": 2022,
       "appleMusicURL": "https://music.apple.com/de/album/folge-107-club-der-geheimen-reiter/1640111776",
-      "spotifyURL": "https://open.spotify.com/album/76KD1nCJUd0p3tm6cAgPnJ"
+      "spotifyURL": "https://open.spotify.com/album/76KD1nCJUd0p3tm6cAgPnJ",
+      "deezerURL": "https://www.deezer.com/album/347151777"
     },
     {
       "number": 108,
       "title": "Die verlorene Freundschaft",
       "releaseYear": 2023,
       "appleMusicURL": "https://music.apple.com/de/album/folge-108-die-verlorene-freundschaft/1659831971",
-      "spotifyURL": "https://open.spotify.com/album/5znPHCSn7NaraHYo5czJKC"
+      "spotifyURL": "https://open.spotify.com/album/5znPHCSn7NaraHYo5czJKC",
+      "deezerURL": "https://www.deezer.com/album/397166097"
     },
     {
       "number": 109,
       "title": "Die Heu-Krise",
       "releaseYear": 2023,
       "appleMusicURL": "https://music.apple.com/de/album/folge-109-die-heu-krise/1677784415",
-      "spotifyURL": "https://open.spotify.com/album/6tSL0jFdIqnhS8ICAFDpb9"
+      "spotifyURL": "https://open.spotify.com/album/6tSL0jFdIqnhS8ICAFDpb9",
+      "deezerURL": "https://www.deezer.com/album/418688517"
     },
     {
       "number": 110,
       "title": "Wirbel um Mikosch",
       "releaseYear": 2023,
       "appleMusicURL": "https://music.apple.com/de/album/folge-110-wirbel-um-mikosch/1691297572",
-      "spotifyURL": "https://open.spotify.com/album/2gwMqqJvoNWGKxlkfdpIm3"
+      "spotifyURL": "https://open.spotify.com/album/2gwMqqJvoNWGKxlkfdpIm3",
+      "deezerURL": "https://www.deezer.com/album/450171175"
     },
     {
       "number": 111,
       "title": "Pst, Waldtiere!",
       "releaseYear": 2023,
       "appleMusicURL": "https://music.apple.com/de/album/folge-111-pst-waldtiere/1707850204",
-      "spotifyURL": "https://open.spotify.com/album/2jTYXrpqS5ueXl6FEYxHLP"
+      "spotifyURL": "https://open.spotify.com/album/2jTYXrpqS5ueXl6FEYxHLP",
+      "deezerURL": "https://www.deezer.com/album/489251615"
     },
     {
       "number": 112,
       "title": "Geheimnis hinter dem Wasserfall",
       "releaseYear": 2024,
       "appleMusicURL": "https://music.apple.com/de/album/folge-112-geheimnis-hinter-dem-wasserfall/1726214631",
-      "spotifyURL": "https://open.spotify.com/album/5nI7VB3GwcEvwAhkcv7dAB"
+      "spotifyURL": "https://open.spotify.com/album/5nI7VB3GwcEvwAhkcv7dAB",
+      "deezerURL": "https://www.deezer.com/album/536171882"
     },
     {
       "number": 113,
       "title": "Der rätselhafte Fund",
       "releaseYear": 2024,
       "appleMusicURL": "https://music.apple.com/de/album/folge-113-der-r%C3%A4tselhafte-fund/1729567271",
-      "spotifyURL": "https://open.spotify.com/album/0o15vdVe6wkcSW618EvFwU"
+      "spotifyURL": "https://open.spotify.com/album/0o15vdVe6wkcSW618EvFwU",
+      "deezerURL": "https://www.deezer.com/album/544928112"
     },
     {
       "number": 114,
       "title": "Überraschung auf vier Pfoten",
       "releaseYear": 2024,
       "appleMusicURL": "https://music.apple.com/de/album/folge-114-%C3%BCberraschung-auf-vier-pfoten/1749096401",
-      "spotifyURL": "https://open.spotify.com/album/4S7phLqKTdzOSsiRIv9Fel"
+      "spotifyURL": "https://open.spotify.com/album/4S7phLqKTdzOSsiRIv9Fel",
+      "deezerURL": "https://www.deezer.com/album/594079342"
     },
     {
       "number": 115,
       "title": "Das unbekannte Pferd",
       "releaseYear": 2024,
       "appleMusicURL": "https://music.apple.com/de/album/folge-115-das-unbekannte-pferd/1756728751",
-      "spotifyURL": "https://open.spotify.com/album/28fdGuKwFG2bZ0GF1Z2gD4"
+      "spotifyURL": "https://open.spotify.com/album/28fdGuKwFG2bZ0GF1Z2gD4",
+      "deezerURL": "https://www.deezer.com/album/614224222"
     },
     {
       "number": 116,
       "title": "Das Grusellabyrinth",
       "releaseYear": 2024,
       "appleMusicURL": "https://music.apple.com/de/album/folge-116-das-grusellabyrinth/1770239951",
-      "spotifyURL": "https://open.spotify.com/album/4uDyHHEU3arHXxisJxaHC3"
+      "spotifyURL": "https://open.spotify.com/album/4uDyHHEU3arHXxisJxaHC3",
+      "deezerURL": "https://www.deezer.com/album/647455081"
     },
     {
       "number": 117,
       "title": "Die Westernreitferien",
       "releaseYear": 2025,
       "appleMusicURL": "https://music.apple.com/de/album/folge-117-die-westernreitferien/1781382384",
-      "spotifyURL": "https://open.spotify.com/album/23VR1tjp3mDDQnWWFNw8MD"
+      "spotifyURL": "https://open.spotify.com/album/23VR1tjp3mDDQnWWFNw8MD",
+      "deezerURL": "https://www.deezer.com/album/674244781"
     },
     {
       "number": 118,
       "title": "Der Kanuausflug",
       "releaseYear": 2025,
       "appleMusicURL": "https://music.apple.com/de/album/folge-118-der-kanuausflug/1793679892",
-      "spotifyURL": "https://open.spotify.com/album/0vGHt4BFAMuatJl7pyNgFf"
+      "spotifyURL": "https://open.spotify.com/album/0vGHt4BFAMuatJl7pyNgFf",
+      "deezerURL": "https://www.deezer.com/album/705748301"
     },
     {
       "number": 119,
       "title": "Die Fohlenfreundschaft",
       "releaseYear": 2025,
       "appleMusicURL": "https://music.apple.com/de/album/folge-119-die-fohlenfreundschaft/1815274628",
-      "spotifyURL": "https://open.spotify.com/album/28DI3KDxqneh0msAtf9fUx"
+      "spotifyURL": "https://open.spotify.com/album/28DI3KDxqneh0msAtf9fUx",
+      "deezerURL": "https://www.deezer.com/album/759288521"
     },
     {
       "number": 120,
       "title": "Hilfe für Gut Herzensglück",
       "releaseYear": 2025,
       "appleMusicURL": "https://music.apple.com/de/album/folge-120-hilfe-f%C3%BCr-gut-herzensgl%C3%BCck/1827427995",
-      "spotifyURL": "https://open.spotify.com/album/1TcB1OzZXXVUC1buuuOaYy"
+      "spotifyURL": "https://open.spotify.com/album/1TcB1OzZXXVUC1buuuOaYy",
+      "deezerURL": "https://www.deezer.com/album/790105111"
     },
     {
       "number": 121,
       "title": "Stürmische Weihnachten",
       "releaseYear": 2025,
       "appleMusicURL": "https://music.apple.com/de/album/folge-121-st%C3%BCrmische-weihnachten/1842173362",
-      "spotifyURL": "https://open.spotify.com/album/4tLSVQvjNfUmEsGWqzLgcQ"
+      "spotifyURL": "https://open.spotify.com/album/4tLSVQvjNfUmEsGWqzLgcQ",
+      "deezerURL": "https://www.deezer.com/album/827610751"
     },
     {
       "number": 122,
       "title": "Holger in Love",
       "releaseYear": 2026,
       "appleMusicURL": "https://music.apple.com/de/album/folge-122-holger-in-love/1853006193",
-      "spotifyURL": "https://open.spotify.com/album/7gL6vfKtGmPEb8g4IIxnDK"
+      "spotifyURL": "https://open.spotify.com/album/7gL6vfKtGmPEb8g4IIxnDK",
+      "deezerURL": "https://www.deezer.com/album/856293352"
     },
     {
       "number": 123,
       "title": "Schnitzeljagd bei Nacht",
       "releaseYear": 2026,
       "appleMusicURL": "https://music.apple.com/de/album/folge-123-schnitzeljagd-bei-nacht/1867785693",
-      "spotifyURL": "https://open.spotify.com/album/0Re2UkMNcOdyLi0LUZXpep"
+      "spotifyURL": "https://open.spotify.com/album/0Re2UkMNcOdyLi0LUZXpep",
+      "deezerURL": "https://www.deezer.com/album/894293492"
     },
     {
       "number": 124,
       "title": "Pferde, Strand und Meer",
       "releaseYear": 2026,
-      "appleMusicURL": "https://music.apple.com/de/album/folge-124-pferde-strand-und-meer/1886730484"
+      "appleMusicURL": "https://music.apple.com/de/album/folge-124-pferde-strand-und-meer/1886730484",
+      "deezerURL": "https://www.deezer.com/album/944185531"
     }
   ]
 }
