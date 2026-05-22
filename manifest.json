@@ -61,6 +61,12 @@
       "name": "Die Playmos",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/die_playmos.json"
+    },
+    {
+      "id": "die-schule-der-magischen-tiere-endlich-ferien",
+      "name": "Die Schule der magischen Tiere - Endlich Ferien",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/die_schule_der_magischen_tiere_endlich_ferien.json"
     }
   ]
 }
