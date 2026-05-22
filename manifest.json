@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-21",
+  "updatedAt": "2026-05-22",
   "catalogs": [
     {
       "id": "die-drei-fragezeichen",
@@ -55,6 +55,12 @@
       "name": "Fünf Freunde",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/fuenf_freunde.json"
+    },
+    {
+      "id": "die-playmos",
+      "name": "Die Playmos",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/die_playmos.json"
     }
   ]
 }
