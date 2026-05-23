@@ -10,7 +10,8 @@
       "releaseYear": 2019,
       "appleMusicURL": "https://music.apple.com/de/album/endlich-ferien-1-rabbat-und-ida/1686139756",
       "spotifyURL": "https://open.spotify.com/album/3R5QGeXiLeYbk9uD4zg12C",
-      "deezerURL": "https://www.deezer.com/album/218525112"
+      "deezerURL": "https://www.deezer.com/album/218525112",
+      "audibleURL": "https://www.audible.de/pd/B07YZGRNN6"
     },
     {
       "number": 2,
@@ -18,7 +19,8 @@
       "releaseYear": 2019,
       "appleMusicURL": "https://music.apple.com/de/album/endlich-ferien-2-silas-und-rick/1686142581",
       "spotifyURL": "https://open.spotify.com/album/0BzBRxJmHOEMAxIb7HPnaV",
-      "deezerURL": "https://www.deezer.com/album/218490452"
+      "deezerURL": "https://www.deezer.com/album/218490452",
+      "audibleURL": "https://www.audible.de/pd/B085KW7KT2"
     },
     {
       "number": 3,
@@ -26,7 +28,8 @@
       "releaseYear": 2019,
       "appleMusicURL": "https://music.apple.com/de/album/endlich-ferien-3-henry-und-leander/1686140413",
       "spotifyURL": "https://open.spotify.com/album/0G0b3Kc6qzItvpk7TglhZD",
-      "deezerURL": "https://www.deezer.com/album/218483182"
+      "deezerURL": "https://www.deezer.com/album/218483182",
+      "audibleURL": "https://www.audible.de/pd/B07WG9671Z"
     },
     {
       "number": 4,
@@ -34,7 +37,8 @@
       "releaseYear": 2020,
       "appleMusicURL": "https://music.apple.com/de/album/endlich-ferien-4-helene-und-karajan/1686242747",
       "spotifyURL": "https://open.spotify.com/album/3o1rRndcuuKj3OdeS0bxeU",
-      "deezerURL": "https://www.deezer.com/album/218501762"
+      "deezerURL": "https://www.deezer.com/album/218501762",
+      "audibleURL": "https://www.audible.de/pd/B08HJPNX4N"
     },
     {
       "number": 5,
@@ -42,7 +46,8 @@
       "releaseYear": 2020,
       "appleMusicURL": "https://music.apple.com/de/album/endlich-ferien-5-benni-und-henrietta/1686261888",
       "spotifyURL": "https://open.spotify.com/album/6vPp5wHskGPP5uVMvuvXoA",
-      "deezerURL": "https://www.deezer.com/album/218541032"
+      "deezerURL": "https://www.deezer.com/album/218541032",
+      "audibleURL": "https://www.audible.de/pd/B08HHDBZ71"
     },
     {
       "number": 6,
@@ -50,7 +55,8 @@
       "releaseYear": 2021,
       "appleMusicURL": "https://music.apple.com/de/album/endlich-ferien-6-hatice-und-mette-maja/1686281064",
       "spotifyURL": "https://open.spotify.com/album/3b5wd28RfW3CwslIUBt2Q9",
-      "deezerURL": "https://www.deezer.com/album/350667177"
+      "deezerURL": "https://www.deezer.com/album/350667177",
+      "audibleURL": "https://www.audible.de/pd/3844926976"
     },
     {
       "number": 7,
@@ -58,7 +64,8 @@
       "releaseYear": 2022,
       "appleMusicURL": "https://music.apple.com/de/album/endlich-ferien-7-max-und-muriel/1686207054",
       "spotifyURL": "https://open.spotify.com/album/3C2NQOAQTkmx0CqjF8spI3",
-      "deezerURL": "https://www.deezer.com/album/312300767"
+      "deezerURL": "https://www.deezer.com/album/312300767",
+      "audibleURL": "https://www.audible.de/pd/B09YR7J372"
     },
     {
       "number": 8,
@@ -66,7 +73,8 @@
       "releaseYear": 2023,
       "appleMusicURL": "https://music.apple.com/de/album/endlich-ferien-8-franka-cooper/1689357610",
       "spotifyURL": "https://open.spotify.com/album/0KzItGmx8zWKwE5GIRPtEp",
-      "deezerURL": "https://www.deezer.com/album/414986397"
+      "deezerURL": "https://www.deezer.com/album/414986397",
+      "audibleURL": "https://www.audible.de/pd/B0BY83YZYP"
     },
     {
       "number": 9,
@@ -74,7 +82,8 @@
       "releaseYear": 2024,
       "appleMusicURL": "https://music.apple.com/de/album/endlich-ferien-09-elisa-und-silber/1761360366",
       "spotifyURL": "https://open.spotify.com/album/3Q8v6eUrInqM28X8wq2KMV",
-      "deezerURL": "https://www.deezer.com/album/574107281"
+      "deezerURL": "https://www.deezer.com/album/574107281",
+      "audibleURL": "https://www.audible.de/pd/B0D264QWRC"
     }
   ]
 }
