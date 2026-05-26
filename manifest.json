@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-22",
+  "updatedAt": "2026-05-26",
   "catalogs": [
     {
       "id": "die-drei-fragezeichen",
@@ -67,6 +67,12 @@
       "name": "Die Schule der magischen Tiere - Endlich Ferien",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/die_schule_der_magischen_tiere_endlich_ferien.json"
+    }
+    {
+      "id": "famous-five",
+      "name": "Famous Five",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/famous_five.json"
     }
   ]
 }
