@@ -1,0 +1,62 @@
+{
+  "collectionName": "The Hitchhiker's Guide to the Galaxy – BBC Radio 4",
+  "version": 1,
+  "lastUpdated": "2026-05-26",
+  "entryCount": 6,
+  "entries": [
+    {
+      "number": 1,
+      "title": "Primary Phase",
+      "releaseYear": 1978,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-hitchhikers-guide-to-the-galaxy-primary-phase/id1439946901",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": "https://www.audible.co.uk/pd/B004EVMD9M"
+    },
+    {
+      "number": 2,
+      "title": "Secondary Phase",
+      "releaseYear": 1980,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-hitchhikers-guide-to-the-galaxy-secondary-phase/id1448483312",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": "https://www.audible.co.uk/pd/B004EVNUMQ"
+    },
+    {
+      "number": 3,
+      "title": "Tertiary Phase",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-hitchhikers-guide-to-the-galaxy-tertiary-phase/id1448484466",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": "https://www.audible.co.uk/pd/B004EM0RN0"
+    },
+    {
+      "number": 4,
+      "title": "Quandary Phase",
+      "releaseYear": 2005,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-hitchhikers-guide-to-the-galaxy-quandary-phase/id1448483746",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": "https://www.audible.co.uk/pd/B004F3IOQA"
+    },
+    {
+      "number": 5,
+      "title": "Quintessential Phase",
+      "releaseYear": 2005,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-hitchhikers-guide-to-the-galaxy-quintessential-phase/id1448483744",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": "https://www.audible.co.uk/pd/B004F3KU12"
+    },
+    {
+      "number": 6,
+      "title": "Hexagonal Phase",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-hitchhikers-guide-to-the-galaxy-hexagonal-phase/id1446027267",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": "https://www.audible.co.uk/pd/B078H5V677"
+    }
+  ]
+}

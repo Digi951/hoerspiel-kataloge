@@ -79,6 +79,12 @@
       "name": "Sherlock Holmes – BBC Radio 4",
       "language": "en",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/sherlock_holmes.json"
+    },
+    {
+      "id": "hitchhikers-guide-bbc",
+      "name": "The Hitchhiker's Guide to the Galaxy – BBC Radio 4",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/hitchhikers_guide.json"
     }
   ]
 }
