@@ -67,6 +67,48 @@
       "name": "Die Schule der magischen Tiere - Endlich Ferien",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/die_schule_der_magischen_tiere_endlich_ferien.json"
+    },
+    {
+      "id": "famous-five",
+      "name": "Famous Five",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/famous_five.json"
+    },
+    {
+      "id": "sherlock-holmes-bbc",
+      "name": "Sherlock Holmes",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/sherlock_holmes.json"
+    },
+    {
+      "id": "hitchhikers-guide-bbc",
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/hitchhikers_guide.json"
+    },
+    {
+      "id": "narnia-bbc",
+      "name": "The Chronicles of Narnia",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/narnia.json"
+    },
+    {
+      "id": "secret-seven",
+      "name": "Secret Seven",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/secret_seven.json"
+    },
+    {
+      "id": "cabin-pressure",
+      "name": "Cabin Pressure",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/cabin_pressure.json"
+    },
+    {
+      "id": "paddington-bear",
+      "name": "Paddington Bear",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/paddington_bear.json"
     }
   ]
 }
