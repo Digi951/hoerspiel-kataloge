@@ -1,0 +1,71 @@
+{
+  "collectionName": "The Chronicles of Narnia – BBC Radio 4",
+  "version": 1,
+  "lastUpdated": "2026-05-26",
+  "entryCount": 7,
+  "entries": [
+    {
+      "number": 1,
+      "title": "The Lion, the Witch and the Wardrobe",
+      "releaseYear": 1950,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/id1439955755",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
+    },
+    {
+      "number": 2,
+      "title": "Prince Caspian",
+      "releaseYear": 1951,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-chronicles-of-narnia-prince-caspian/id1467165385",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
+    },
+    {
+      "number": 3,
+      "title": "The Voyage of the Dawn Treader",
+      "releaseYear": 1952,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader/id1466979897",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
+    },
+    {
+      "number": 4,
+      "title": "The Silver Chair",
+      "releaseYear": 1953,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-chronicles-of-narnia-the-silver-chair/id1467165923",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
+    },
+    {
+      "number": 5,
+      "title": "The Horse and His Boy",
+      "releaseYear": 1954,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-chronicles-of-narnia-the-horse-and-his-boy/id1466967670",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
+    },
+    {
+      "number": 6,
+      "title": "The Magician's Nephew",
+      "releaseYear": 1955,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-chronicles-of-narnia-the-magicians-nephew/id1439949656",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
+    },
+    {
+      "number": 7,
+      "title": "The Last Battle",
+      "releaseYear": 1956,
+      "appleMusicURL": "https://books.apple.com/gb/audiobook/the-chronicles-of-narnia-the-last-battle/id1495023825",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
+    }
+  ]
+}
