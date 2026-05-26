@@ -73,6 +73,12 @@
       "name": "Famous Five",
       "language": "en",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/famous_five.json"
+    },
+    {
+      "id": "sherlock-holmes-bbc",
+      "name": "Sherlock Holmes – BBC Radio 4",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/sherlock_holmes.json"
     }
   ]
 }
