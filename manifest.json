@@ -97,6 +97,12 @@
       "name": "Secret Seven",
       "language": "en",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/secret_seven.json"
+    },
+    {
+      "id": "cabin-pressure",
+      "name": "Cabin Pressure",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/cabin_pressure.json"
     }
   ]
 }
