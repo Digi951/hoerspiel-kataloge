@@ -103,6 +103,12 @@
       "name": "Cabin Pressure",
       "language": "en",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/cabin_pressure.json"
+    },
+    {
+      "id": "paddington-bear",
+      "name": "Paddington Bear",
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/paddington_bear.json"
     }
   ]
 }
