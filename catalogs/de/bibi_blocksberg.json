@@ -1,8 +1,8 @@
 {
   "collectionName": "Bibi Blocksberg",
-  "version": 3,
-  "lastUpdated": "2026-05-22",
-  "entryCount": 163,
+  "version": 4,
+  "lastUpdated": "2026-06-03",
+  "entryCount": 166,
   "entries": [
     {
       "number": 1,
@@ -1454,6 +1454,46 @@
       "spotifyURL": "https://open.spotify.com/album/4ila1LZyOCnou7g8VGMtFK",
       "deezerURL": "https://www.deezer.com/album/907037762",
       "audibleURL": "https://www.audible.de/pd/B0GLHQQBKG"
+    },
+      {
+      "kind": "special",
+      "slug": "hoerspiel-zum-1-kinofilm",
+      "title": "Hörspiel zum 1. Kinofilm",
+      "releaseYear": 2002,
+      "number": 1,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/1LueDXY6cF4HllLN8HfeqW",
+      "appleMusicURL": "",
+      "deezerURL": ""
+    },
+    {
+      "kind": "special",
+      "slug": "hoerspiel-zum-2-kinofilm-und-das-geheimnis-der-blauen-eulen-2004",
+      "title": "Hörspiel zum 2. Kinofilm: und das Geheimnis der blauen Eulen",
+      "releaseYear": 2004,
+      "number": 2,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/5MuK38H2p9v1O7mnVUMRTP",
+      "appleMusicURL": "https://music.apple.com/de/album/1228748853",
+      "deezerURL": "https://www.deezer.com/album/40406181"
+    },
+    {
+      "kind": "special",
+      "slug": "hexen-hexen-ueberall-das-neue-musical-mit-allen-liedern-2015",
+      "title": "Hexen hexen überall - Das neue Musical (mit allen Liedern)",
+      "releaseYear": 2015,
+      "number": 3,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/68lwoAhse4HLTgNLzkSPAZ",
+      "appleMusicURL": "https://music.apple.com/de/album/1041011653",
+      "deezerURL": "https://www.deezer.com/album/11291132"
+    },
+    {
+      "kind": "special",
+      "slug": "das-grosse-hexentreffen-das-original-hoerspiel-zum-kinofilm-2025",
+      "title": "Das große Hexentreffen (Das Original-Hörspiel zum Kinofilm)",
+      "releaseYear": 2025,
+      "number": 4,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/1BsPIjY5OGVilHg51ZURXI",
+      "appleMusicURL": "https://music.apple.com/de/album/1851429423",
+      "deezerURL": "https://www.deezer.com/album/852285742"
     }
   ]
 }

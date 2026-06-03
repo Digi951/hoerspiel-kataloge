@@ -1,8 +1,8 @@
 {
   "collectionName": "TKKG",
-  "version": 2,
-  "lastUpdated": "2026-05-22",
-  "entryCount": 240,
+  "version": 3,
+  "lastUpdated": "2026-06-03",
+  "entryCount": 249,
   "entries": [
     {
       "number": 1,
@@ -1965,6 +1965,93 @@
       "spotifyURL": "https://open.spotify.com/album/2o4MkaBd9xVDtUYIk9YKcq",
       "deezerURL": "https://www.deezer.com/album/928600521",
       "audibleURL": "https://www.audible.de/pd/B0GSZKWPYD"
+    },
+    {
+      "kind": "special",
+      "slug": "das-geheimnis-um-tkkg-neuaufnahme-1995",
+      "title": "Das Geheimnis um TKKG (Neuaufnahme)",
+      "releaseYear": 1995,
+      "number": 1,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/6yQhG36kGFjmCWNIq05qsR",
+      "appleMusicURL": "https://music.apple.com/de/album/1450498987"
+    },
+    {
+      "kind": "special",
+      "slug": "ein-fast-perfektes-weihnachtsmenue-2018",
+      "title": "Ein fast perfektes Weihnachtsmenü",
+      "releaseYear": 2018,
+      "number": 2,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/3im4BSgNZoZUZMrBVnqPT0",
+      "appleMusicURL": "https://music.apple.com/de/album/1434672470"
+    },
+    {
+      "kind": "special",
+      "slug": "jede-legende-hat-ihren-anfang-hoerspiel-zum-kinofilm-2019-2019",
+      "title": "Jede Legende hat ihren Anfang (Hörspiel zum Kinofilm 2019)",
+      "releaseYear": 2019,
+      "number": 3,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/5f9cgdn1nSYN0EdsPztwQn",
+      "appleMusicURL": "https://music.apple.com/de/album/1463157148",
+      "deezerURL": "https://www.deezer.com/album/97666392",
+      "audibleURL": "https://www.audible.de/pd/B0B1QRX8TX"
+    },
+    {
+      "kind": "special",
+      "slug": "morgen-kommt-das-weihnachtsgrauen-adventskalender-2020",
+      "title": "Morgen kommt das Weihnachtsgrauen (Adventskalender)",
+      "releaseYear": 2020,
+      "number": 4,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/6QOwlbBlHs6Cxs8aB6kgGL",
+      "appleMusicURL": "https://music.apple.com/de/album/1559714078",
+      "deezerURL": "https://www.deezer.com/album/216946642"
+    },
+    {
+      "kind": "special",
+      "slug": "schreckliche-weihnacht-ueberall-adventskalender-2021",
+      "title": "Schreckliche Weihnacht überall (Adventskalender)",
+      "releaseYear": 2021,
+      "number": 5,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/70yAbYpe9FH4XgwDk0rmeE",
+      "appleMusicURL": "https://music.apple.com/de/album/1590344047",
+      "deezerURL": "https://www.deezer.com/album/265626652"
+    },
+    {
+      "kind": "special",
+      "slug": "adventskalender-der-widerliche-weihnachtswichtel-2022",
+      "title": "Adventskalender - Der widerliche Weihnachtswichtel",
+      "releaseYear": 2022,
+      "number": 6,
+      "appleMusicURL": "https://music.apple.com/de/album/1685193736",
+      "deezerURL": "https://www.deezer.com/album/434832197"
+    },
+    {
+      "kind": "special",
+      "slug": "auch-gauner-feiern-weihnachten-adventskalender-2023",
+      "title": "Auch Gauner feiern Weihnachten (Adventskalender)",
+      "releaseYear": 2023,
+      "number": 7,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/4J6f92iCMn6Vt537vnYIJJ",
+      "appleMusicURL": "https://music.apple.com/de/album/1751888366",
+      "deezerURL": "https://www.deezer.com/album/601018402"
+    },
+    {
+      "kind": "special",
+      "slug": "schatten-aus-der-unterwelt-das-hoerspiel-zur-live-tour-2025",
+      "title": "Schatten aus der Unterwelt (Das Hörspiel zur Live-Tour)",
+      "releaseYear": 2025,
+      "number": 8,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/1SXqQrvciRaQpkhoHjSKro",
+      "appleMusicURL": "https://music.apple.com/de/album/1794142382"
+    },
+    {
+      "kind": "special",
+      "slug": "die-weihnachtsgeiseln-adventskalender-2025",
+      "title": "Die Weihnachtsgeiseln (Adventskalender)",
+      "releaseYear": 2025,
+      "number": 9,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/0ya2o75ZmbcCCKTngDFS0O",
+      "appleMusicURL": "https://music.apple.com/de/album/1841358699",
+      "deezerURL": "https://www.deezer.com/album/825397641"
     }
   ]
 }

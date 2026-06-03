@@ -1,8 +1,8 @@
 {
   "collectionName": "Die drei ???",
-  "version": 5,
-  "lastUpdated": "2026-05-25",
-  "entryCount": 240,
+  "version": 6,
+  "lastUpdated": "2026-06-03",
+  "entryCount": 256,
   "entries": [
     {
       "number": 1,
@@ -2160,6 +2160,178 @@
       "releaseYear": 2026,
       "deezerURL": "",
       "audibleURL": "https://www.audible.de/pd/B0B1QLC97F"
+    },
+    {
+      "kind": "special",
+      "slug": "und-der-dreitag-2010",
+      "title": "und der dreiTag",
+      "releaseYear": 2010,
+      "number": 1,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/3JJeehFIJTxhrltC6e44VT",
+      "appleMusicURL": "https://music.apple.com/de/album/1092548111",
+      "deezerURL": "https://www.deezer.com/album/12761802",
+      "audibleURL": "https://www.audible.de/pd/B0B1QLZCXJ"
+    },
+    {
+      "kind": "special",
+      "slug": "house-of-horrors-haus-der-angst-2011",
+      "title": "House of Horrors - Haus der Angst",
+      "releaseYear": 2011,
+      "number": 2,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/249qkyRcqMAoKJhXwrTYtE",
+      "appleMusicURL": "https://music.apple.com/de/album/452658930",
+      "deezerURL": "https://www.deezer.com/album/12761800",
+      "audibleURL": "https://www.audible.de/pd/B0B1QN1RNR"
+    },
+    {
+      "kind": "special",
+      "slug": "brainwash-gefangene-gedanken-2011",
+      "title": "Brainwash - Gefangene Gedanken",
+      "releaseYear": 2011,
+      "number": 3,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/5RBu5WK95Q6BtWfA4o3Vgs",
+      "appleMusicURL": "https://music.apple.com/de/album/1092529878",
+      "deezerURL": "https://www.deezer.com/album/12761808",
+      "audibleURL": "https://www.audible.de/pd/B0B1QNVPDT"
+    },
+    {
+      "kind": "special",
+      "slug": "das-grab-der-inka-mumie-2017",
+      "title": "Das Grab der Inka-Mumie",
+      "releaseYear": 2017,
+      "number": 4,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/7osWCNCcvGfqP31G7281iL",
+      "appleMusicURL": "https://music.apple.com/de/album/1219257238",
+      "deezerURL": "https://www.deezer.com/album/38907271",
+      "audibleURL": "https://www.audible.de/pd/B0B1QM7K7V"
+    },
+    {
+      "kind": "special",
+      "slug": "und-der-tornadojaeger-2017",
+      "title": "und der Tornadojäger",
+      "releaseYear": 2017,
+      "number": 5,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/7mH8vdj0TkiPO6fMHBCvYj",
+      "appleMusicURL": "https://music.apple.com/de/album/1235580462",
+      "deezerURL": "https://www.deezer.com/album/41409151",
+      "audibleURL": "https://www.audible.de/pd/B0B1QPBRP8"
+    },
+    {
+      "kind": "special",
+      "slug": "und-das-kalte-auge-2017",
+      "title": "und das kalte Auge",
+      "releaseYear": 2017,
+      "number": 6,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/3egVVb6Zt0LdS6agBMGsiJ",
+      "appleMusicURL": "https://music.apple.com/de/album/1263882229",
+      "deezerURL": "https://www.deezer.com/album/45275591",
+      "audibleURL": "https://www.audible.de/pd/B0B1QQ9RDW"
+    },
+    {
+      "kind": "special",
+      "slug": "und-das-versunkene-schiff-2019",
+      "title": "und das versunkene Schiff",
+      "releaseYear": 2019,
+      "number": 7,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/6UN8m07SmIzyDe63H0oljL",
+      "appleMusicURL": "https://music.apple.com/de/album/1480675865",
+      "deezerURL": "https://www.deezer.com/album/111783672",
+      "audibleURL": "https://www.audible.de/pd/B0B1QQ6SDY"
+    },
+    {
+      "kind": "special",
+      "slug": "und-der-dunkle-taipan-live-2019",
+      "title": "und der dunkle Taipan (LIVE)",
+      "releaseYear": 2019,
+      "number": 8,
+      "appleMusicURL": "https://music.apple.com/de/album/1480843451"
+    },
+    {
+      "kind": "special",
+      "slug": "und-der-dreiaeugige-totenkopf-2020",
+      "title": "und der dreiäugige Totenkopf",
+      "releaseYear": 2020,
+      "number": 9,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/76M62o1rdKEqTN1JIbGdGV",
+      "appleMusicURL": "https://music.apple.com/de/album/1492053303",
+      "deezerURL": "https://www.deezer.com/album/125947742",
+      "audibleURL": "https://www.audible.de/pd/B0B1QMKVJL"
+    },
+    {
+      "kind": "special",
+      "slug": "und-das-grab-der-maya-2020",
+      "title": "und das Grab der Maya",
+      "releaseYear": 2020,
+      "number": 10,
+      "appleMusicURL": "https://music.apple.com/de/album/1535920186",
+      "deezerURL": "https://www.deezer.com/album/179706512",
+      "audibleURL": "https://www.audible.de/pd/B0B1QRM4XG"
+    },
+    {
+      "kind": "special",
+      "slug": "und-das-grab-der-maya-kopfhoerer-hoerspiel-2020",
+      "title": "und das Grab der Maya (Kopfhörer-Hörspiel)",
+      "releaseYear": 2020,
+      "number": 11,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/3t9NGa2A9SGvipHoU5Bc6m",
+      "appleMusicURL": "https://music.apple.com/de/album/1535924407",
+      "deezerURL": "https://www.deezer.com/album/179712452",
+      "audibleURL": "https://www.audible.de/pd/B0B1QQZSLD"
+    },
+    {
+      "kind": "special",
+      "slug": "das-grab-der-inka-mumie-kopfhoerer-hoerspiel-2022",
+      "title": "Das Grab der Inka-Mumie (Kopfhörer-Hörspiel)",
+      "releaseYear": 2022,
+      "number": 12,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/6T5D7KpnftvfLaYPp94U4y",
+      "appleMusicURL": "https://music.apple.com/de/album/1610353941",
+      "deezerURL": "https://www.deezer.com/album/296172512",
+      "audibleURL": "https://www.audible.de/pd/B0B1QWQQBC"
+    },
+    {
+      "kind": "special",
+      "slug": "und-das-versunkene-schiff-kopfhoerer-hoerspiel-2022",
+      "title": "und das versunkene Schiff (Kopfhörer-Hörspiel)",
+      "releaseYear": 2022,
+      "number": 13,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/7FVn5TYEbQbWM6r8unRaCe",
+      "appleMusicURL": "https://music.apple.com/de/album/1610388882",
+      "deezerURL": "https://www.deezer.com/album/296175362",
+      "audibleURL": "https://www.audible.de/pd/B0B1QQB28R"
+    },
+    {
+      "kind": "special",
+      "slug": "und-der-dreiaeugige-totenkopf-kopfhoerer-hoerspiel-2022",
+      "title": "und der dreiäugige Totenkopf (Kopfhörer-Hörspiel)",
+      "releaseYear": 2022,
+      "number": 14,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/2uMs1XZBdGdZuXOY7draw4",
+      "appleMusicURL": "https://music.apple.com/de/album/1611039441",
+      "deezerURL": "https://www.deezer.com/album/297389892",
+      "audibleURL": "https://www.audible.de/pd/B0B1QQGWHS"
+    },
+    {
+      "kind": "special",
+      "slug": "das-dorf-der-teufel-2025",
+      "title": "Das Dorf der Teufel",
+      "releaseYear": 2025,
+      "number": 15,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/09pBOlMa7AxGh1JbdXmrgc",
+      "appleMusicURL": "https://music.apple.com/de/album/1837170319",
+      "deezerURL": "https://www.deezer.com/album/814801351",
+      "audibleURL": "https://www.audible.de/pd/B0FPR41WNX"
+    },
+    {
+      "kind": "special",
+      "slug": "erbe-des-drachen-das-original-hoerspiel-zum-kinofilm-2023",
+      "title": "Erbe des Drachen (Das Original-Hörspiel zum Kinofilm)",
+      "releaseYear": 2023,
+      "number": 16,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/67Ipucoa0blx27O3sV7yAi",
+      "appleMusicURL": "https://music.apple.com/de/album/1683339747",
+      "deezerURL": "https://www.deezer.com/album/431878197",
+      "audibleURL": "https://www.audible.de/pd/B0BSXSDVYP"
     }
   ]
 }

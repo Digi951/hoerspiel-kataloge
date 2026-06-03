@@ -1,8 +1,8 @@
 {
   "collectionName": "Bibi und Tina",
-  "version": 2,
-  "lastUpdated": "2026-05-22",
-  "entryCount": 124,
+  "version": 3,
+  "lastUpdated": "2026-06-03",
+  "entryCount": 130,
   "entries": [
     {
       "number": 1,
@@ -1118,6 +1118,67 @@
       "appleMusicURL": "https://music.apple.com/de/album/folge-124-pferde-strand-und-meer/1886730484",
       "deezerURL": "https://www.deezer.com/album/944185531",
       "audibleURL": "https://www.audible.de/pd/B0GV4P8NDR"
+    },
+    {
+      "kind": "special",
+      "slug": "das-original-hoerspiel-zum-kinofilm-2014",
+      "title": "Das Original-Hörspiel zum Kinofilm",
+      "releaseYear": 2014,
+      "number": 1,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/0vFYfQ9UHDvz4zTCKOpgcj",
+      "appleMusicURL": "https://music.apple.com/de/album/1038140389",
+      "deezerURL": "https://www.deezer.com/album/10807770",
+      "audibleURL": "https://www.audible.de/pd/B00IK01SN0"
+    },
+    {
+      "kind": "special",
+      "slug": "das-original-hoerspiel-zum-kinofilm-2-voll-verhext-2014",
+      "title": "Das Original-Hörspiel zum Kinofilm 2 - VOLL VERHEXT!",
+      "releaseYear": 2014,
+      "number": 2,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/5OSFsoLPncImonKock2PV6",
+      "appleMusicURL": "https://music.apple.com/de/album/1038094014",
+      "deezerURL": "https://www.deezer.com/album/10807956"
+    },
+    {
+      "kind": "special",
+      "slug": "hoerspiel-zum-3-kinofilm-maedchen-gegen-jungs-2016",
+      "title": "Hörspiel zum 3. Kinofilm - Mädchen gegen Jungs",
+      "releaseYear": 2016,
+      "number": 3,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/06S9djunj3rBIjT80otbup",
+      "appleMusicURL": "https://music.apple.com/de/album/1069544807",
+      "deezerURL": "https://www.deezer.com/album/12005622"
+    },
+    {
+      "kind": "special",
+      "slug": "hoerspiel-4-kinofilm-tohuwabohu-total-2017",
+      "title": "Hörspiel 4. Kinofilm: Tohuwabohu total",
+      "releaseYear": 2017,
+      "number": 4,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/5iqHly0XyqTCRQ3jxgpwyH",
+      "appleMusicURL": "https://music.apple.com/de/album/1201838457",
+      "deezerURL": "https://www.deezer.com/album/15452156"
+    },
+    {
+      "kind": "special",
+      "slug": "getrennt-auf-heisser-spur-hoerspiel-special-2021",
+      "title": "Getrennt auf heißer Spur! (Hörspiel-Special)",
+      "releaseYear": 2021,
+      "number": 5,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/08uZrNQB3wimWcwVIZCD15",
+      "appleMusicURL": "https://music.apple.com/de/album/1577225954"
+    },
+    {
+      "kind": "special",
+      "slug": "hoerspiel-5-kinofilm-einfach-anders-2022",
+      "title": "Hörspiel 5. Kinofilm: Einfach Anders",
+      "releaseYear": 2022,
+      "number": 6,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/6yhEqWx0bC8DQcj8bkgMYz",
+      "appleMusicURL": "https://music.apple.com/de/album/1627600476",
+      "deezerURL": "https://www.deezer.com/album/324044997",
+      "audibleURL": "https://www.audible.de/pd/B0BTJ37NX6"
     }
   ]
 }
