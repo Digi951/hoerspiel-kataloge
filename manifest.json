@@ -109,6 +109,12 @@
       "name": "Paddington Bear",
       "language": "en",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/en/paddington_bear.json"
+    },
+    {
+      "id": "irene-adler",
+      "name": "Irene Adler - Sonderermittlerin der Krone",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/irene_adler.json"
     }
   ]
 }
