@@ -1,8 +1,8 @@
 {
   "collectionName": "Die drei !!!",
   "version": 2,
-  "lastUpdated": "2026-05-22",
-  "entryCount": 97,
+  "lastUpdated": "2026-06-14",
+  "entryCount": 98,
   "entries": [
     {
       "number": 1,
@@ -876,6 +876,15 @@
       "spotifyURL": "https://open.spotify.com/album/4AG8yzIq0OFxAJB2UZNAWm",
       "deezerURL": "https://www.deezer.com/album/917419851",
       "audibleURL": "https://www.audible.de/pd/B0GRWFH1V7"
+    },
+    {
+      "number": 98,
+      "title": "Influencerin in Not",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/1893932283",
+      "spotifyURL": "https://open.spotify.com/intl-de/album/2FyN9E6Rf3UMAzlnxRywfV",
+      "deezerURL": "https://www.deezer.com/album/962882231",
+      "audibleURL": ""
     }
   ]
 }

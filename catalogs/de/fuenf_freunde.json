@@ -1,8 +1,8 @@
 {
   "collectionName": "Fünf Freunde",
   "version": 2,
-  "lastUpdated": "2026-05-22",
-  "entryCount": 170,
+  "lastUpdated": "2026-06-14",
+  "entryCount": 171,
   "entries": [
     {
       "number": 1,
@@ -1501,6 +1501,15 @@
       "appleMusicURL": "https://music.apple.com/de/album/folge-170-und-das-fl%C3%BCstern-aus-der-geisterwelt/1853835699",
       "deezerURL": "https://www.deezer.com/album/858957902",
       "audibleURL": "https://www.audible.de/pd/B0G4M5HD97"
+    },
+    {
+      "number": 171,
+      "title": "Und der doppelte Onkel",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/1872936338",
+      "spotifyURL": "https://open.spotify.com/intl-de/album/0T6eDA8yFm5bzJxT01PF09",
+      "deezerURL": "https://www.deezer.com/album/907558382",
+      "audibleURL": ""
     }
   ]
 }

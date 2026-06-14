@@ -1,8 +1,8 @@
 {
   "collectionName": "Bibi und Tina",
   "version": 3,
-  "lastUpdated": "2026-06-03",
-  "entryCount": 130,
+  "lastUpdated": "2026-06-14",
+  "entryCount": 131,
   "entries": [
     {
       "number": 1,
@@ -1118,6 +1118,15 @@
       "appleMusicURL": "https://music.apple.com/de/album/folge-124-pferde-strand-und-meer/1886730484",
       "deezerURL": "https://www.deezer.com/album/944185531",
       "audibleURL": "https://www.audible.de/pd/B0GV4P8NDR"
+    },
+    {
+      "number": 125,
+      "title": "Im ungarischen Wald",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/6772257590",
+      "spotifyURL": "https://open.spotify.com/prerelease/0dciJnQChYVXyLSmX7ZlLI",
+      "deezerURL": "https://www.deezer.com/album/989198491",
+      "audibleURL": ""
     },
     {
       "kind": "special",

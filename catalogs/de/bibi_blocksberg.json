@@ -1,8 +1,8 @@
 {
   "collectionName": "Bibi Blocksberg",
   "version": 4,
-  "lastUpdated": "2026-06-03",
-  "entryCount": 166,
+  "lastUpdated": "2026-06-14",
+  "entryCount": 169,
   "entries": [
     {
       "number": 1,
@@ -1455,7 +1455,25 @@
       "deezerURL": "https://www.deezer.com/album/907037762",
       "audibleURL": "https://www.audible.de/pd/B0GLHQQBKG"
     },
-      {
+    {
+      "number": 164,
+      "title": "Hexerei im Cluburlaub",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/1886730705",
+      "spotifyURL": "https://open.spotify.com/intl-de/album/2v399vbSTonNeHlB1xi41a",
+      "deezerURL": "https://www.deezer.com/album/944183651",
+      "audibleURL": "https://www.audible.de/pd/B0GVFCNSBL"
+    },
+    {
+      "number": 165,
+      "title": "Die doppelte Klassenfahrt",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/6772208931",
+      "spotifyURL": "",
+      "deezerURL": "https://www.deezer.com/album/989056101",
+      "audibleURL": ""
+    },
+    {
       "kind": "special",
       "slug": "hoerspiel-zum-1-kinofilm",
       "title": "Hörspiel zum 1. Kinofilm",
