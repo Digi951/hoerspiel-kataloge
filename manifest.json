@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-26",
+  "updatedAt": "2026-06-21",
   "catalogs": [
     {
       "id": "die-drei-fragezeichen",
@@ -115,6 +115,12 @@
       "name": "Irene Adler - Sonderermittlerin der Krone",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/irene_adler.json"
+    },
+    {
+      "id": "sherlock-holmes-sonderermittler-der-krone",
+      "name": "Sherlock Holmes - Sonderermittler der Krone",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/sherlock_holmes_sonderermittler_der_krone.json"
     }
   ]
 }
