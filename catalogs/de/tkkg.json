@@ -1,8 +1,8 @@
 {
   "collectionName": "TKKG",
   "version": 3,
-  "lastUpdated": "2026-06-03",
-  "entryCount": 249,
+  "lastUpdated": "2026-08-07",
+  "entryCount": 250,
   "entries": [
     {
       "number": 1,
@@ -1965,6 +1965,15 @@
       "spotifyURL": "https://open.spotify.com/album/2o4MkaBd9xVDtUYIk9YKcq",
       "deezerURL": "https://www.deezer.com/album/928600521",
       "audibleURL": "https://www.audible.de/pd/B0GSZKWPYD"
+    },
+    {
+      "number": 242,
+      "title": "Verbrechen live im Radio",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-242-verbrechen-live-im-radio/6768256832",
+      "spotifyURL": "https://open.spotify.com/album/3tZChRTvOtgsW5HEZ32ntC",
+      "deezerURL": "https://www.deezer.com/album/980262631",
+      "audibleURL": "https://www.audible.de/pd/B0H5JNHZ3L"
     },
     {
       "kind": "special",

@@ -121,6 +121,24 @@
       "name": "Sherlock Holmes - Sonderermittler der Krone",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/sherlock_holmes_sonderermittler_der_krone.json"
+    },
+    {
+      "id": "oscar-wilde-mycroft-holmes",
+      "name": "Oscar Wilde & Mycroft Holmes - Sonderermittler der Krone",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/oscar_wilde_mycroft_holmes.json"
+    },
+    {
+      "id": "john-sinclair-classics",
+      "name": "Geisterjäger John Sinclair - Classics",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/john_sinclair_classics.json"
+    },
+    {
+      "id": "john-sinclair-tonstudio-braun",
+      "name": "Geisterjäger John Sinclair (Tonstudio Braun)",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/john_sinclair_tonstudio_braun.json"
     }
   ]
 }

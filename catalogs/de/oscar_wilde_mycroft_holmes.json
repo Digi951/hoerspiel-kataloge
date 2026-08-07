@@ -1,0 +1,539 @@
+{
+  "collectionName": "Oscar Wilde & Mycroft Holmes - Sonderermittler der Krone",
+  "version": 1,
+  "lastUpdated": "2026-08-07",
+  "entryCount": 59,
+  "entries": [
+    {
+      "number": 1,
+      "title": "Zeitenwechsel",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/1456796360",
+      "spotifyURL": "https://open.spotify.com/album/5VR8fPXEKlAD3ZgYOILYVC",
+      "deezerURL": "https://www.deezer.com/album/90828762",
+      "audibleURL": "https://www.audible.de/pd/B01HS890AC"
+    },
+    {
+      "number": 2,
+      "title": "Finsteres Hochland",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/1456795998",
+      "spotifyURL": "https://open.spotify.com/album/4AqWCRT8sM0p9mrTFKPsfh",
+      "deezerURL": "https://www.deezer.com/album/90828832",
+      "audibleURL": "https://www.audible.de/pd/B01HS891S8"
+    },
+    {
+      "number": 3,
+      "title": "Das Geheimnis des Alchemisten",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/1456796807",
+      "spotifyURL": "https://open.spotify.com/album/2eT5BE4cjJlEYpVgtPr0lK",
+      "deezerURL": "https://www.deezer.com/album/90828742",
+      "audibleURL": "https://www.audible.de/pd/B01HS8GMBC"
+    },
+    {
+      "number": 4,
+      "title": "Tod der Königin",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/1456823268",
+      "spotifyURL": "https://open.spotify.com/album/2YE1r5aRafatEXAEtpMbiS",
+      "deezerURL": "https://www.deezer.com/album/90828752",
+      "audibleURL": "https://www.audible.de/pd/B01HS8QI8O"
+    },
+    {
+      "number": 5,
+      "title": "Kalter Fels",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/1456798606",
+      "spotifyURL": "https://open.spotify.com/album/1vXktlOpKZkPWTlkSiDdRW",
+      "deezerURL": "https://www.deezer.com/album/90828782",
+      "audibleURL": "https://www.audible.de/pd/B01LSZNG88"
+    },
+    {
+      "number": 6,
+      "title": "Hexenwald",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/1456799629",
+      "spotifyURL": "https://open.spotify.com/album/5CLsP9smGBd3sezVMn30a3",
+      "deezerURL": "https://www.deezer.com/album/90828792",
+      "audibleURL": "https://www.audible.de/pd/B01LSZWV9I"
+    },
+    {
+      "number": 7,
+      "title": "Ritual des Grauens",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/1456801452",
+      "spotifyURL": "https://open.spotify.com/album/0lqN6krw53kLAQMUtCX0sq",
+      "deezerURL": "https://www.deezer.com/album/90835812",
+      "audibleURL": "https://www.audible.de/pd/B01N4GWK6C"
+    },
+    {
+      "number": 8,
+      "title": "Der Röntgen-Zwischenfall",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/1456801816",
+      "spotifyURL": "https://open.spotify.com/album/0hH1GSlQeKLLSf3fgwOyRQ",
+      "deezerURL": "https://www.deezer.com/album/90835032",
+      "audibleURL": "https://www.audible.de/pd/B0765YQW9X"
+    },
+    {
+      "number": 9,
+      "title": "Das Erbe des Doktors",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/1456823564",
+      "spotifyURL": "https://open.spotify.com/album/0laPwakEs9prsMCZCmOD6P",
+      "deezerURL": "https://www.deezer.com/album/90835012",
+      "audibleURL": "https://www.audible.de/pd/B076619MY8"
+    },
+    {
+      "number": 10,
+      "title": "Eine Nacht am Brocken",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/1456827525",
+      "spotifyURL": "https://open.spotify.com/album/17gWvH2DY3aHYVGl9TsVTV",
+      "deezerURL": "https://www.deezer.com/album/90835042",
+      "audibleURL": "https://www.audible.de/pd/B0765ZC1VT"
+    },
+    {
+      "number": 11,
+      "title": "Die Namenlose aus der Seine",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/1456828952",
+      "spotifyURL": "https://open.spotify.com/album/71PBrkF4LGpxgZ9WFexRHH",
+      "deezerURL": "https://www.deezer.com/album/90835052",
+      "audibleURL": "https://www.audible.de/pd/B0765YXBX6"
+    },
+    {
+      "number": 12,
+      "title": "Der Geheimbund der Masken",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/1456833686",
+      "spotifyURL": "https://open.spotify.com/album/5ncPdBY5Fr5JRPHYZdttR5",
+      "deezerURL": "https://www.deezer.com/album/90835072",
+      "audibleURL": "https://www.audible.de/pd/B07H9VG86L"
+    },
+    {
+      "number": 13,
+      "title": "Die Auktion der Diebe",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/1456837660",
+      "spotifyURL": "https://open.spotify.com/album/6lSKU5z3CY83WHvlWZ9JjG",
+      "deezerURL": "https://www.deezer.com/album/90835342",
+      "audibleURL": "https://www.audible.de/pd/B07L34JXFN"
+    },
+    {
+      "number": 14,
+      "title": "Labyrinth der Angst",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/1456869318",
+      "spotifyURL": "https://open.spotify.com/album/6y5EUfgHXqar4BxL8qoZ5B",
+      "deezerURL": "https://www.deezer.com/album/90835062",
+      "audibleURL": "https://www.audible.de/pd/B07L368YFL"
+    },
+    {
+      "number": 15,
+      "title": "Goldrausch",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/1456878753",
+      "spotifyURL": "https://open.spotify.com/album/116FlTC4xTvvY6RRepNXAT",
+      "deezerURL": "https://www.deezer.com/album/90835912",
+      "audibleURL": "https://www.audible.de/pd/B07L4LG7L7"
+    },
+    {
+      "number": 16,
+      "title": "Der Austausch",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/1456882869",
+      "spotifyURL": "https://open.spotify.com/album/0K89r1Mim3wE4dhipJgsYA",
+      "deezerURL": "https://www.deezer.com/album/90835022",
+      "audibleURL": "https://www.audible.de/pd/B07G79779G"
+    },
+    {
+      "number": 17,
+      "title": "Der Maharadscha der Nacht",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/1456882832",
+      "spotifyURL": "https://open.spotify.com/album/7pv0hikGiG7ySWBoxqLgV6",
+      "deezerURL": "https://www.deezer.com/album/90842102",
+      "audibleURL": "https://www.audible.de/pd/B07H9V65JS"
+    },
+    {
+      "number": 18,
+      "title": "Feindberührung",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/1456885746",
+      "spotifyURL": "https://open.spotify.com/album/5OrbsKte6TB4EjWZudbaqx",
+      "deezerURL": "https://www.deezer.com/album/90842072",
+      "audibleURL": "https://www.audible.de/pd/B07KGFHVXK"
+    },
+    {
+      "number": 19,
+      "title": "Blutdurst",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/1456888211",
+      "spotifyURL": "https://open.spotify.com/album/5dbwTnUuRf4Pvoh2TCLTcu",
+      "deezerURL": "https://www.deezer.com/album/90842062",
+      "audibleURL": "https://www.audible.de/pd/B07MXK86VB"
+    },
+    {
+      "number": 20,
+      "title": "Blutzoll",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/1454802103",
+      "spotifyURL": "https://open.spotify.com/album/5UJGdXvxEJur5mFu0xtNXz",
+      "deezerURL": "https://www.deezer.com/album/89050822",
+      "audibleURL": "https://www.audible.de/pd/B07PRL79VZ"
+    },
+    {
+      "number": 21,
+      "title": "Boleskine House",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/1461421515",
+      "spotifyURL": "https://open.spotify.com/album/7dG070gylY8EdW5f0KqUht",
+      "deezerURL": "https://www.deezer.com/album/95774972",
+      "audibleURL": "https://www.audible.de/pd/B07QXSKWFD"
+    },
+    {
+      "number": 22,
+      "title": "Die vierte Macht",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/1471340580",
+      "spotifyURL": "https://open.spotify.com/album/1AhlojQwMtfLXJVV0b4EAi",
+      "deezerURL": "https://www.deezer.com/album/102415652",
+      "audibleURL": "https://www.audible.de/pd/B0CV7QZZP3"
+    },
+    {
+      "number": 23,
+      "title": "Das Medusa-Syndrom",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/1478648251",
+      "spotifyURL": "https://open.spotify.com/album/48N1xdIhc9pBTp4vGkzfBp",
+      "deezerURL": "https://www.deezer.com/album/109673192",
+      "audibleURL": "https://www.audible.de/pd/B07X5W6T2Y"
+    },
+    {
+      "number": 24,
+      "title": "Der Knochenhändler",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/1480362943",
+      "spotifyURL": "https://open.spotify.com/album/3O704WZtsTgSpiH0uwOuz9",
+      "deezerURL": "https://www.deezer.com/album/118020462",
+      "audibleURL": "https://www.audible.de/pd/B07X1YMGGD"
+    },
+    {
+      "number": 25,
+      "title": "Altes Blut",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/1493559093",
+      "spotifyURL": "https://open.spotify.com/album/5VclU75P1kVBVxf60iTzhH",
+      "deezerURL": "https://www.deezer.com/album/125318052",
+      "audibleURL": "https://www.audible.de/pd/B083J6RK42"
+    },
+    {
+      "number": 26,
+      "title": "Dunkle Fluten",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/1507179093",
+      "spotifyURL": "https://open.spotify.com/album/2qnsqHj9puqsIvQLK3UUuR",
+      "deezerURL": "https://www.deezer.com/album/140536862",
+      "audibleURL": "https://www.audible.de/pd/B0886JYV7P"
+    },
+    {
+      "number": 27,
+      "title": "Dreißig Silberlinge",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/1506291173",
+      "spotifyURL": "https://open.spotify.com/album/6RoMkYHoJBwEk6zzFVavVe",
+      "deezerURL": "https://www.deezer.com/album/140018962",
+      "audibleURL": "https://www.audible.de/pd/B089QT1574"
+    },
+    {
+      "number": 28,
+      "title": "Der längste Tag",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/1515733949",
+      "spotifyURL": "https://open.spotify.com/album/1GNqKUXufrjiWCBj42KVhh",
+      "deezerURL": "https://www.deezer.com/album/158732812",
+      "audibleURL": "https://www.audible.de/pd/B08GSRLVGL"
+    },
+    {
+      "number": 29,
+      "title": "Brennender Zorn",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/1529881895",
+      "spotifyURL": "https://open.spotify.com/album/4GPqqKIOuVlQoF2z83wnxv",
+      "deezerURL": "https://www.deezer.com/album/170516112",
+      "audibleURL": "https://www.audible.de/pd/B08LQSKZ3C"
+    },
+    {
+      "number": 30,
+      "title": "Die Stimme des Verräters",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/1535551663",
+      "spotifyURL": "https://open.spotify.com/album/1xze2tlILhXFOtMc5E7Ijy",
+      "deezerURL": "https://www.deezer.com/album/179381992",
+      "audibleURL": "https://www.audible.de/pd/B08P3NMTKJ"
+    },
+    {
+      "number": 31,
+      "title": "Die 13 Stufen",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/1547407240",
+      "spotifyURL": "https://open.spotify.com/album/2IzYIenp9ENeQFo2oWt2b3",
+      "deezerURL": "https://www.deezer.com/album/197693742",
+      "audibleURL": "https://www.audible.de/pd/B0CV7QNPQW"
+    },
+    {
+      "number": 32,
+      "title": "Im Reich des Feindes",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/1559083480",
+      "spotifyURL": "https://open.spotify.com/album/6opeD3CYmaWM9jqv5zsnP6",
+      "deezerURL": "https://www.deezer.com/album/216183782",
+      "audibleURL": "https://www.audible.de/pd/B096S6JVB7"
+    },
+    {
+      "number": 33,
+      "title": "Apocalypsis",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/1566861782",
+      "spotifyURL": "https://open.spotify.com/album/1h9M4KWq4E6Lbq8niCeLGR",
+      "deezerURL": "https://www.deezer.com/album/229635232",
+      "audibleURL": "https://www.audible.de/pd/B0963RG5R5"
+    },
+    {
+      "number": 34,
+      "title": "Asche und Rauch",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/1576678413",
+      "spotifyURL": "https://open.spotify.com/album/50A32DuJHZ9WIdjQLhPBBd",
+      "deezerURL": "https://www.deezer.com/album/244650902",
+      "audibleURL": "https://www.audible.de/pd/B09DT7KVT8"
+    },
+    {
+      "number": 35,
+      "title": "Zwielicht",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/1588383694",
+      "spotifyURL": "https://open.spotify.com/album/4vyCOr6fbffvABQCVQVlWe",
+      "deezerURL": "https://www.deezer.com/album/262724372",
+      "audibleURL": "https://www.audible.de/pd/B09NW5KFXS"
+    },
+    {
+      "number": 36,
+      "title": "Am Ende der Zeit",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/1594064524",
+      "spotifyURL": "https://open.spotify.com/album/41ktzArVvEc54mF20dv5sY",
+      "deezerURL": "https://www.deezer.com/album/271035282",
+      "audibleURL": "https://www.audible.de/pd/B09RPNXWF3"
+    },
+    {
+      "number": 37,
+      "title": "Das Herz der See",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/1613512976",
+      "spotifyURL": "https://open.spotify.com/album/0TI6BMWdIjCUYwuv11MEoO",
+      "deezerURL": "https://www.deezer.com/album/301491477",
+      "audibleURL": "https://www.audible.de/pd/B09YLNR7WL"
+    },
+    {
+      "number": 38,
+      "title": "Außer Kontrolle",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/1623127152",
+      "spotifyURL": "https://open.spotify.com/album/62bGfj768EYukMOzct967A",
+      "deezerURL": "https://www.deezer.com/album/317073327",
+      "audibleURL": "https://www.audible.de/pd/B0B3RB8CP9"
+    },
+    {
+      "number": 39,
+      "title": "Der Pfad der Toten",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/1631818178",
+      "spotifyURL": "https://open.spotify.com/album/2QvPp1e6pEhMHk3Ie4Z2Uz",
+      "deezerURL": "https://www.deezer.com/album/331230777",
+      "audibleURL": "https://www.audible.de/pd/B0B6VVFZY6"
+    },
+    {
+      "number": 40,
+      "title": "Lockruf des Untergangs",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/1642877153",
+      "spotifyURL": "https://open.spotify.com/album/3z40DaYOkWG9Pu0cLM7Ius",
+      "deezerURL": "https://www.deezer.com/album/352357397",
+      "audibleURL": "https://www.audible.de/pd/B0BG6BTJ4V"
+    },
+    {
+      "number": 41,
+      "title": "Auf Bewährung",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/1659996133",
+      "spotifyURL": "https://open.spotify.com/album/6XgU1aKyoMxGtsrvVm5mXQ",
+      "deezerURL": "https://www.deezer.com/album/371627337",
+      "audibleURL": "https://www.audible.de/pd/B0BNQGXHM8"
+    },
+    {
+      "number": 42,
+      "title": "Angst im East End",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/1675479072",
+      "spotifyURL": "https://open.spotify.com/album/5JC9M8A4fsZEQFuvgO6Apr",
+      "deezerURL": "https://www.deezer.com/album/413676977",
+      "audibleURL": "https://www.audible.de/pd/B0BXPGQTS9"
+    },
+    {
+      "number": 43,
+      "title": "Neue Wege",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/1686904237",
+      "spotifyURL": "https://open.spotify.com/album/2xGZ1bha4NsLMd18ThGHYt",
+      "deezerURL": "https://www.deezer.com/album/438908687",
+      "audibleURL": "https://www.audible.de/pd/B0C58YSZLK"
+    },
+    {
+      "number": 44,
+      "title": "Dunkler Einfluss",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/1694378228",
+      "spotifyURL": "https://open.spotify.com/album/58IDjvubsxyywI6nZinAqb",
+      "deezerURL": "https://www.deezer.com/album/457945495",
+      "audibleURL": "https://www.audible.de/pd/B0C9MTYSSC"
+    },
+    {
+      "number": 45,
+      "title": "Laune der Natur",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/1705727713",
+      "spotifyURL": "https://open.spotify.com/album/7ALi5URm21qdbOItytGaTm",
+      "deezerURL": "https://www.deezer.com/album/484415365",
+      "audibleURL": "https://www.audible.de/pd/B0CHFKGC2R"
+    },
+    {
+      "number": 46,
+      "title": "Zelle des Lebens",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/1715330389",
+      "spotifyURL": "https://open.spotify.com/album/5zORPRJejTUUCHzryL2lTr",
+      "deezerURL": "https://www.deezer.com/album/509928231",
+      "audibleURL": "https://www.audible.de/pd/B0CNXSNLL3"
+    },
+    {
+      "number": 47,
+      "title": "Ursprung des Seins",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/1721944246",
+      "spotifyURL": "https://open.spotify.com/album/4SsOIOcYpV3ugePTo6ZETs",
+      "deezerURL": "https://www.deezer.com/album/525314352",
+      "audibleURL": "https://www.audible.de/pd/B0CR45LKFW"
+    },
+    {
+      "number": 48,
+      "title": "Quelle des Leidens",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/1731837497",
+      "spotifyURL": "https://open.spotify.com/album/7f4RHhAfhvgns8YCZlpAQS",
+      "deezerURL": "https://www.deezer.com/album/556908772",
+      "audibleURL": "https://www.audible.de/pd/B0CWP45DYD"
+    },
+    {
+      "number": 49,
+      "title": "Albtraum",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/1746178930",
+      "spotifyURL": "https://open.spotify.com/album/5eR60TMBVzGfw4Sv3l7HG4",
+      "deezerURL": "https://www.deezer.com/album/586303632",
+      "audibleURL": "https://www.audible.de/pd/B0D47VRD9M"
+    },
+    {
+      "number": 50,
+      "title": "Bittere Erkenntnis",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/1763603389",
+      "spotifyURL": "https://open.spotify.com/album/7qPxbt96N4bTaOjOUgqnsQ",
+      "deezerURL": "https://www.deezer.com/album/631738691",
+      "audibleURL": "https://www.audible.de/pd/B0DKT6DT6J"
+    },
+    {
+      "number": 51,
+      "title": "Diadem der Macht",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/1791564197",
+      "spotifyURL": "https://open.spotify.com/album/6z90YMMSDhb8ZBrvC9fE0i",
+      "deezerURL": "https://www.deezer.com/album/700608561",
+      "audibleURL": "https://www.audible.de/pd/B0DTKP8ZT4"
+    },
+    {
+      "number": 52,
+      "title": "Kinder des Feuers",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/1799987954",
+      "spotifyURL": "https://open.spotify.com/album/3prbbwgyFYo2j3B0dPUg9i",
+      "deezerURL": "https://www.deezer.com/album/722471181",
+      "audibleURL": "https://www.audible.de/pd/B0F1TN726B"
+    },
+    {
+      "number": 53,
+      "title": "Gefährliche Versuchung",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/1820919393",
+      "spotifyURL": "https://open.spotify.com/album/6jOAxuJsa7ResDEB0gXgIM",
+      "deezerURL": "https://www.deezer.com/album/773385611",
+      "audibleURL": "https://www.audible.de/pd/B0FDQZV4SZ"
+    },
+    {
+      "number": 54,
+      "title": "Störungen",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/1831000849",
+      "spotifyURL": "https://open.spotify.com/album/582ugZrpr3TcA0XYwI0LSk",
+      "deezerURL": "https://www.deezer.com/album/799409411",
+      "audibleURL": "https://www.audible.de/pd/B0FMF4HKX6"
+    },
+    {
+      "number": 55,
+      "title": "Blumen des Verderbens",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/1841376491",
+      "spotifyURL": "https://open.spotify.com/album/1f3xWDiMYlbFsNA3kjblms",
+      "deezerURL": "https://www.deezer.com/album/825736041",
+      "audibleURL": "https://www.audible.de/pd/B0FXMXRFFZ"
+    },
+    {
+      "number": 56,
+      "title": "Tödliche Farben",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/1874147925",
+      "spotifyURL": "https://open.spotify.com/album/0vt8aoXJReBgZmbsS4XeTj",
+      "deezerURL": "https://www.deezer.com/album/910680021",
+      "audibleURL": "https://www.audible.de/pd/B0GPQ7LYDP"
+    },
+    {
+      "number": 57,
+      "title": "Zwietracht",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/1892079149",
+      "spotifyURL": "https://open.spotify.com/album/74Blf9NBzlfgQjqqgEj73t",
+      "deezerURL": "https://www.deezer.com/album/958091621",
+      "audibleURL": "https://www.audible.de/pd/B0H1XCDBYM"
+    },
+    {
+      "number": 58,
+      "title": "Alleingang",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/6773653338",
+      "spotifyURL": "https://open.spotify.com/album/3nFqwbMjNhX9jrWqVZmpmQ",
+      "deezerURL": "https://www.deezer.com/album/992266891",
+      "audibleURL": "https://www.audible.de/pd/B0H6QPDJG6"
+    },
+    {
+      "number": 59,
+      "title": "Die Spur der Echse",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/6783921221",
+      "spotifyURL": "",
+      "deezerURL": "https://www.deezer.com/album/1013588641",
+      "audibleURL": "https://www.audible.de/pd/B0HD1NB7YF"
+    }
+  ]
+}
