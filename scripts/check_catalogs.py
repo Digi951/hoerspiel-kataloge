@@ -43,28 +43,37 @@ HEADERS = {
 }
 
 ASIN_RE = re.compile(r"/pd/([A-Z0-9]+)")
-# Spotify-Albumtitel enthalten "Folge N: Titel" meist nicht am Stringanfang
+# Titel von Drittanbietern (Audible-Produkttitel, Spotify-Albumtitel) enthalten
+# "Folge N: Titel" oft nicht am Stringanfang, sondern eingebettet
 # (z.B. "Sonderermittler der Krone, Folge 1: Zeitenwechsel") - deshalb wird das
 # letzte "Folge N:"-Vorkommen gesucht statt ein Präfix zu ankern. Manche Kataloge
 # nutzen stattdessen "NNN/Titel" direkt am Anfang.
-SPOTIFY_FOLGE_RE = re.compile(r"folge\s+\d+\s*[:\-]?\s*", re.I)
-SPOTIFY_NUM_SLASH_RE = re.compile(r"^\s*\d+\s*/\s*")
+FOLGE_PREFIX_RE = re.compile(r"folge\s+\d+\s*[:\-]?\s*", re.I)
+NUM_SLASH_PREFIX_RE = re.compile(r"^\s*\d+\s*/\s*")
 TITLE_MISMATCH_THRESHOLD = 0.5  # unter diesem Ähnlichkeitswert gilt der Link als falsch verknüpft
 
 
-def _strip_spotify_prefix(spotify_title: str) -> str:
-    matches = list(SPOTIFY_FOLGE_RE.finditer(spotify_title))
+def _strip_series_prefix(linked_title: str) -> str:
+    matches = list(FOLGE_PREFIX_RE.finditer(linked_title))
     if matches:
-        return spotify_title[matches[-1].end():]
-    return SPOTIFY_NUM_SLASH_RE.sub("", spotify_title)
+        return linked_title[matches[-1].end():]
+    return NUM_SLASH_PREFIX_RE.sub("", linked_title)
 
 
 def _normalize_title(title: str) -> str:
-    return re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
+    title = title.lower().replace("ß", "ss")
+    return re.sub(r"[^a-z0-9]+", " ", title).strip()
 
 
 def _title_mismatch(expected_title: str, linked_title: str) -> bool:
-    ratio = difflib.SequenceMatcher(None, _normalize_title(expected_title), _normalize_title(linked_title)).ratio()
+    stripped = _strip_series_prefix(linked_title)
+    a, b = _normalize_title(expected_title), _normalize_title(stripped)
+    if not a or not b:
+        return True
+    if a in b or b in a:
+        # z.B. "Gefahr für Rom" vs. "Gefahr für Rom. Das Original Playmobil Hörspiel"
+        return False
+    ratio = difflib.SequenceMatcher(None, a, b).ratio()
     return ratio < TITLE_MISMATCH_THRESHOLD
 
 
@@ -110,8 +119,7 @@ def check_spotify_title(url: str, expected_title: str, timeout: int = 12) -> tup
     spotify_title = data.get("title")
     if not spotify_title:
         return None, None
-    stripped = _strip_spotify_prefix(spotify_title)
-    if _title_mismatch(expected_title, stripped):
+    if _title_mismatch(expected_title, spotify_title):
         return spotify_title, None
     return None, None
 
