@@ -1,7 +1,7 @@
 {
   "collectionName": "Geisterjäger John Sinclair (Tonstudio Braun)",
   "version": 1,
-  "lastUpdated": "2026-06-23",
+  "lastUpdated": "2026-08-07",
   "entryCount": 108,
   "entries": [
     {
@@ -19,51 +19,61 @@
     {
       "number": 3,
       "title": "Das Horror-Taxi von New York",
+      "releaseYear": 1983,
       "audibleURL": "https://www.audible.de/pd/B0182MBKWO"
     },
     {
       "number": 4,
       "title": "Der Pfähler (Teil 1 von 3)",
+      "releaseYear": 1983,
       "audibleURL": "https://www.audible.de/pd/B01879LDHE"
     },
     {
       "number": 5,
       "title": "Dracula gibt sich die Ehre (Teil 2 von 3)",
+      "releaseYear": 1983,
       "audibleURL": "https://www.audible.de/pd/B018SNV5PE"
     },
     {
       "number": 6,
       "title": "Die Vampirfalle (Teil 3 von 3)",
+      "releaseYear": 1983,
       "audibleURL": "https://www.audible.de/pd/B018SO3GAA"
     },
     {
       "number": 7,
       "title": "Die Horror-Reiter",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B0193E2EC0"
     },
     {
       "number": 8,
       "title": "Der Totenbeschwörer",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B0193E2FFG"
     },
     {
       "number": 9,
       "title": "Der gelbe Satan (Teil 1 von 2)",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B0193E7FOC"
     },
     {
       "number": 10,
       "title": "Die Horror-Kreuzfahrt (Teil 2 von 2)",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B0193E7DPI"
     },
     {
       "number": 11,
       "title": "Der unheimliche Bogenschütze",
+      "releaseYear": 1983,
       "audibleURL": "https://www.audible.de/pd/B019QB7LWS"
     },
     {
       "number": 12,
       "title": "Augen des Grauens",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B019QBDF7I"
     },
     {
@@ -75,31 +85,37 @@
     {
       "number": 14,
       "title": "Das Buch der grausamen Träume",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01AUMA43U"
     },
     {
       "number": 15,
       "title": "Die Höllenkutsche (Teil 1 von 2)",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01AWKTSU0"
     },
     {
       "number": 16,
       "title": "Asmodinas Reich (Teil 2 von 2)",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01AWM0AIM"
     },
     {
       "number": 17,
       "title": "Die Drohung (Teil 1 von 3)",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01B377C5O"
     },
     {
       "number": 18,
       "title": "Ein Friedhof am Ende der Welt (Teil 2 von 3)",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01BDTX58U"
     },
     {
       "number": 19,
       "title": "Das letzte Duell (Teil 3 von 3)",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01B37CNAI"
     },
     {
@@ -129,16 +145,19 @@
     {
       "number": 24,
       "title": "Im Land des Vampirs (Teil 1 von 3)",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B01DKOGN9E"
     },
     {
       "number": 25,
       "title": "Schreie in der Horror-Gruft (Teil 2 von 3)",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B01E5MYSX8"
     },
     {
       "number": 26,
       "title": "Mein Todesurteil (Teil 3 von 3)",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B01E5N9S0K"
     },
     {
@@ -150,16 +169,19 @@
     {
       "number": 28,
       "title": "Die Hexe vom Hyde Park",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01E5NPGQU"
     },
     {
       "number": 29,
       "title": "Die Werwolf-Sippe (Teil 1 von 2)",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01GEDTU7K"
     },
     {
       "number": 30,
       "title": "Lupinas Todfeind (Teil 2 von 2)",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01GHRNK2O"
     },
     {
@@ -171,31 +193,37 @@
     {
       "number": 32,
       "title": "Ich jagte „Jack the Ripper“",
+      "releaseYear": 1983,
       "audibleURL": "https://www.audible.de/pd/B01GRTQ8DK"
     },
     {
       "number": 33,
       "title": "Die Blutorgel",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01HMWQVGA"
     },
     {
       "number": 34,
       "title": "Ein schwarzer Tag in meinem Leben",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B01HMU0IEI"
     },
     {
       "number": 35,
       "title": "Eine schaurige Warnung",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B01HMUR3MS"
     },
     {
       "number": 36,
       "title": "Der Ripper kehrt zurück (Teil 1 von 2)",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B01HOFLNH2"
     },
     {
       "number": 37,
       "title": "Die Hexeninsel (Teil 2 von 2)",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B01ITP1KHO"
     },
     {
@@ -240,6 +268,7 @@
     {
       "number": 45,
       "title": "Hochzeit der Vampire",
+      "releaseYear": 1982,
       "audibleURL": "https://www.audible.de/pd/B01KVGTYR2"
     },
     {
@@ -255,56 +284,67 @@
     {
       "number": 48,
       "title": "Ewige Schreie",
+      "releaseYear": 1983,
       "audibleURL": "https://www.audible.de/pd/B01LZKLJ5M"
     },
     {
       "number": 49,
       "title": "Der lächelnde Henker",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B01LZKHZTQ"
     },
     {
       "number": 50,
       "title": "Blutiger Halloween",
+      "releaseYear": 1984,
       "audibleURL": "https://www.audible.de/pd/B01M7TYUVE"
     },
     {
       "number": 51,
       "title": "Einsatz der Todesrocker",
+      "releaseYear": 1985,
       "audibleURL": "https://www.audible.de/pd/B01MG4RK64"
     },
     {
       "number": 52,
       "title": "Die Schöne aus dem Totenreich",
+      "releaseYear": 1985,
       "audibleURL": "https://www.audible.de/pd/B01N3SOQ3U"
     },
     {
       "number": 53,
       "title": "Liebe, die der Teufel schenkt",
+      "releaseYear": 1985,
       "audibleURL": "https://www.audible.de/pd/B01MRGVCCS"
     },
     {
       "number": 54,
       "title": "Angst über London",
+      "releaseYear": 1985,
       "audibleURL": "https://www.audible.de/pd/B01N01VWAW"
     },
     {
       "number": 55,
       "title": "Judys Spinnenfluch",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01N556CTB"
     },
     {
       "number": 56,
       "title": "Die Rache der Horror-Reiter",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01N556G4I"
     },
     {
       "number": 57,
       "title": "Ghouls in Manhattan",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01MQLVTMR"
     },
     {
       "number": 58,
       "title": "Geheimbund der Vampire",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01NA8Z02E"
     },
     {
@@ -315,41 +355,49 @@
     {
       "number": 60,
       "title": "Alptraum in Atlantis",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01N43PU85"
     },
     {
       "number": 61,
       "title": "Sieben Siegel der Magie (Teil 1 von 3)",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01N4GNHFV"
     },
     {
       "number": 62,
       "title": "Allein in der Drachenhöhle (Teil 2 von 3)",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01MS01MOU"
     },
     {
       "number": 63,
       "title": "Macht und Mythos (Teil 3 von 3)",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01N9K9W8E"
     },
     {
       "number": 64,
       "title": "Die grausamen Ritter (Teil 1 von 2)",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01MR78B7W"
     },
     {
       "number": 65,
       "title": "Die Drachensaat (Teil 2 von 2)",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01NCX6HZ1"
     },
     {
       "number": 66,
       "title": "Turm der weißen Vampire",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01NBUH319"
     },
     {
       "number": 67,
       "title": "Tal der vergessenen Toten",
+      "releaseYear": 1986,
       "audibleURL": "https://www.audible.de/pd/B01MTABCDU"
     },
     {
@@ -360,16 +408,19 @@
     {
       "number": 69,
       "title": "Ich stieß das Tor zur Hölle auf (Teil 1 von 3)",
+      "releaseYear": 1987,
       "audibleURL": "https://www.audible.de/pd/B06XCBKQFX"
     },
     {
       "number": 70,
       "title": "Im Zentrum des Schreckens (Teil 2 von 3)",
+      "releaseYear": 1987,
       "audibleURL": "https://www.audible.de/pd/B06XCH7Q5N"
     },
     {
       "number": 71,
       "title": "Bring mir den Kopf von Asmodina (Teil 3 von 3)",
+      "releaseYear": 1987,
       "audibleURL": "https://www.audible.de/pd/B06XNN5LF7"
     },
     {
@@ -397,66 +448,79 @@
     {
       "number": 76,
       "title": "Der Irre mit der Teufelsgeige (Teil 1 von 2)",
+      "releaseYear": 1987,
       "audibleURL": "https://www.audible.de/pd/B071XV8RYV"
     },
     {
       "number": 77,
       "title": "Lebendig begraben (Teil 2 von 2)",
+      "releaseYear": 1987,
       "audibleURL": "https://www.audible.de/pd/B06ZZCRGZH"
     },
     {
       "number": 78,
       "title": "Das Mädchen von Atlantis (Teil 1 von 3)",
+      "releaseYear": 1988,
       "audibleURL": "https://www.audible.de/pd/B071Y4MNW2"
     },
     {
       "number": 79,
       "title": "Das Dämonenauge (Teil 2 von 3)",
+      "releaseYear": 1988,
       "audibleURL": "https://www.audible.de/pd/B071RD4HHW"
     },
     {
       "number": 80,
       "title": "Die Hexenmühle (Teil 3 von 3)",
+      "releaseYear": 1988,
       "audibleURL": "https://www.audible.de/pd/B06ZYSD5K2"
     },
     {
       "number": 81,
       "title": "Der unheimliche Mönch",
+      "releaseYear": 1988,
       "audibleURL": "https://www.audible.de/pd/B07235S68D"
     },
     {
       "number": 82,
       "title": "Ein Totenopfer für Clarissa",
+      "releaseYear": 1988,
       "audibleURL": "https://www.audible.de/pd/B071W6QJ51"
     },
     {
       "number": 83,
       "title": "Maringo der Höllenreiter",
+      "releaseYear": 1988,
       "audibleURL": "https://www.audible.de/pd/B072KNYBNC"
     },
     {
       "number": 84,
       "title": "Das Ungeheuer von Loch Morar (Teil 1 von 2)",
+      "releaseYear": 1988,
       "audibleURL": "https://www.audible.de/pd/B0721Y6HB8"
     },
     {
       "number": 85,
       "title": "Die Zombies (Teil 2 von 2)",
+      "releaseYear": 1988,
       "audibleURL": "https://www.audible.de/pd/B07351DY5N"
     },
     {
       "number": 86,
       "title": "Sandra und ihr zweites Ich",
+      "releaseYear": 1988,
       "audibleURL": "https://www.audible.de/pd/B07352SVMD"
     },
     {
       "number": 87,
       "title": "Die Teufelssekte",
+      "releaseYear": 1988,
       "audibleURL": "https://www.audible.de/pd/B073JM8VXK"
     },
     {
       "number": 88,
       "title": "Die Geier und der Wertiger",
+      "releaseYear": 1989,
       "audibleURL": "https://www.audible.de/pd/B078SYGF78"
     },
     {
@@ -472,41 +536,49 @@
     {
       "number": 91,
       "title": "Der Vulkanteufel von Hawaii",
+      "releaseYear": 1989,
       "audibleURL": "https://www.audible.de/pd/B074PTM8T1"
     },
     {
       "number": 92,
       "title": "Der siebenarmige Tod",
+      "releaseYear": 1989,
       "audibleURL": "https://www.audible.de/pd/B074QQJX6D"
     },
     {
       "number": 93,
       "title": "Im Landhaus der Schrecken",
+      "releaseYear": 1989,
       "audibleURL": "https://www.audible.de/pd/B074QR6KMB"
     },
     {
       "number": 94,
       "title": "Anruf aus dem Jenseits",
+      "releaseYear": 1989,
       "audibleURL": "https://www.audible.de/pd/B074XFFQV3"
     },
     {
       "number": 95,
       "title": "Insel der Seelenlosen",
+      "releaseYear": 1989,
       "audibleURL": "https://www.audible.de/pd/B0759VQ817"
     },
     {
       "number": 96,
       "title": "Tigerfrauen greifen an",
+      "releaseYear": 1989,
       "audibleURL": "https://www.audible.de/pd/B075GV9VR7"
     },
     {
       "number": 97,
       "title": "Asmodinas Höllenschlangen",
+      "releaseYear": 1989,
       "audibleURL": "https://www.audible.de/pd/B075MJ2JGR"
     },
     {
       "number": 98,
       "title": "Dr. Tods Monsterhöhle",
+      "releaseYear": 1990,
       "audibleURL": "https://www.audible.de/pd/B075ZT1LVY"
     },
     {
@@ -522,21 +594,25 @@
     {
       "number": 101,
       "title": "Mr. Mondos Monster (Teil 1 von 2)",
+      "releaseYear": 1990,
       "audibleURL": "https://www.audible.de/pd/B076HT9XQ5"
     },
     {
       "number": 102,
       "title": "Königin der Wölfe (Teil 2 von 2)",
+      "releaseYear": 1990,
       "audibleURL": "https://www.audible.de/pd/B076TB8SGJ"
     },
     {
       "number": 103,
       "title": "Der Todesnebel",
+      "releaseYear": 1990,
       "audibleURL": "https://www.audible.de/pd/B076TCRCVG"
     },
     {
       "number": 104,
       "title": "Dr. Tods Horror-Insel",
+      "releaseYear": 1990,
       "audibleURL": "https://www.audible.de/pd/B076T8L6BJ"
     },
     {
@@ -548,6 +624,7 @@
     {
       "number": 106,
       "title": "Tokatas Erbe",
+      "releaseYear": 1990,
       "audibleURL": "https://www.audible.de/pd/B077JWMRWS"
     },
     {
