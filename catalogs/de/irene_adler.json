@@ -1,8 +1,8 @@
 {
   "collectionName": "Irene Adler - Sonderermittlerin der Krone",
   "version": 1,
-  "lastUpdated": "2026-06-13",
-  "entryCount": 34,
+  "lastUpdated": "2026-08-10",
+  "entryCount": 35,
   "entries": [
     {
       "number": 0,
@@ -309,6 +309,15 @@
       "spotifyURL": "https://open.spotify.com/album/0LKyGocJ8hiYSLlKKyuvBI",
       "deezerURL": "https://www.deezer.com/album/976774231",
       "audibleURL": ""
+    },
+    {
+      "number": 34,
+      "title": "Künstlicher Feind",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/6779635591",
+      "spotifyURL": "https://open.spotify.com/album/3PSzw5k1mhnTwd1ZxklEr1",
+      "deezerURL": "https://www.deezer.com/album/1004105071",
+      "audibleURL": "https://www.audible.de/pd/B0H85NCBGC"
     }
   ]
 }
