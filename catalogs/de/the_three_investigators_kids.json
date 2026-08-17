@@ -1,8 +1,8 @@
 {
   "collectionName": "Die drei ??? Kids",
   "version": 2,
-  "lastUpdated": "2026-05-22",
-  "entryCount": 102,
+  "lastUpdated": "2026-08-17",
+  "entryCount": 103,
   "entries": [
     {
       "number": 1,
@@ -921,6 +921,15 @@
       "spotifyURL": "https://open.spotify.com/album/14GyPFeUi6pNCgjHgF9zUw",
       "deezerURL": "https://www.deezer.com/album/907674572",
       "audibleURL": "https://www.audible.de/pd/B0DBM4Z9Y1"
+    },
+    {
+      "number": 103,
+      "title": "SOS im Bike-Park",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/folge-103-sos-im-bike-park/6775767498",
+      "spotifyURL": "https://open.spotify.com/album/7rLkOzBiK5q5GHP3L9IaJl",
+      "deezerURL": "https://www.deezer.com/album/996310511",
+      "audibleURL": "https://www.audible.de/pd/SOS-im-Bike-Park-Hoerbuch/B0H4ZKRCG2"
     }
   ]
 }
