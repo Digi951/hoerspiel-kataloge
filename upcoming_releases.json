@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-08-24",
+  "releases": [
+    {
+      "catalogID": "tkkg",
+      "number": 243,
+      "title": "Die Fährte des Hehlers",
+      "releaseDate": "2026-09-11"
+    },
+    {
+      "catalogID": "die-drei-fragezeichen",
+      "number": 241,
+      "title": "Meister des Lichts",
+      "releaseDate": "2026-09-18"
+    }
+  ]
+}
