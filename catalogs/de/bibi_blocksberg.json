@@ -1,8 +1,8 @@
 {
   "collectionName": "Bibi Blocksberg",
   "version": 4,
-  "lastUpdated": "2026-08-07",
-  "entryCount": 169,
+  "lastUpdated": "2026-09-01",
+  "entryCount": 170,
   "entries": [
     {
       "number": 1,
@@ -1470,6 +1470,15 @@
       "appleMusicURL": "https://music.apple.com/de/album/6772208931",
       "spotifyURL": "",
       "deezerURL": "https://www.deezer.com/album/989056101",
+      "audibleURL": ""
+    },
+    {
+      "number": 166,
+      "title": "Das verhexte Labyrinth",
+      "releaseYear": 2026,
+      "appleMusicURL": "",
+      "spotifyURL": "",
+      "deezerURL": "",
       "audibleURL": ""
     },
     {

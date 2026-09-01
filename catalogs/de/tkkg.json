@@ -1,8 +1,8 @@
 {
   "collectionName": "TKKG",
   "version": 3,
-  "lastUpdated": "2026-08-07",
-  "entryCount": 250,
+  "lastUpdated": "2026-09-01",
+  "entryCount": 251,
   "entries": [
     {
       "number": 1,
@@ -1974,6 +1974,15 @@
       "spotifyURL": "https://open.spotify.com/album/3tZChRTvOtgsW5HEZ32ntC",
       "deezerURL": "https://www.deezer.com/album/980262631",
       "audibleURL": "https://www.audible.de/pd/B0H5JNHZ3L"
+    },
+    {
+      "number": 243,
+      "title": "Die Fährte des Hehlers",
+      "releaseYear": 2026,
+      "appleMusicURL": "",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
     },
     {
       "kind": "special",

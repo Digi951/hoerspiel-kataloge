@@ -1,8 +1,8 @@
 {
   "collectionName": "Die drei ???",
   "version": 6,
-  "lastUpdated": "2026-08-07",
-  "entryCount": 256,
+  "lastUpdated": "2026-09-01",
+  "entryCount": 257,
   "entries": [
     {
       "number": 1,
@@ -2160,6 +2160,15 @@
       "releaseYear": 2026,
       "deezerURL": "",
       "audibleURL": "https://www.audible.de/pd/B0B1QLC97F"
+    },
+    {
+      "number": 241,
+      "title": "Meister des Lichts",
+      "releaseYear": 2026,
+      "appleMusicURL": "",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
     },
     {
       "kind": "special",

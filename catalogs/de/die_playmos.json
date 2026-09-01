@@ -1,8 +1,8 @@
 {
   "collectionName": "Die Playmos",
   "version": 1,
-  "lastUpdated": "2026-05-22",
-  "entryCount": 100,
+  "lastUpdated": "2026-09-01",
+  "entryCount": 101,
   "entries": [
     {
       "number": 1,
@@ -903,6 +903,15 @@
       "spotifyURL": "https://open.spotify.com/album/1S5DMXPrg8YBi1xduJVDKj",
       "deezerURL": "https://www.deezer.com/album/980534251",
       "audibleURL": "https://www.audible.de/pd/B0H1JBG864"
+    },
+    {
+      "number": 101,
+      "title": "Diebstahl im Museum",
+      "releaseYear": 2026,
+      "appleMusicURL": "",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
     }
   ]
 }

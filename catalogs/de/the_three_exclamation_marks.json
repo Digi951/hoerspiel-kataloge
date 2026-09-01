@@ -1,8 +1,8 @@
 {
   "collectionName": "Die drei !!!",
   "version": 2,
-  "lastUpdated": "2026-08-10",
-  "entryCount": 99,
+  "lastUpdated": "2026-09-01",
+  "entryCount": 100,
   "entries": [
     {
       "number": 1,
@@ -894,6 +894,15 @@
       "spotifyURL": "https://open.spotify.com/intl-de/album/2ZiuFFn3inl8jrpj2ntdwM",
       "deezerURL": "https://www.deezer.com/album/1008732601",
       "audibleURL": "https://www.audible.de/pd/B0H6K1V7QQ"
+    },
+    {
+      "number": 100,
+      "title": "Detektivinnen in Gefahr",
+      "releaseYear": 2026,
+      "appleMusicURL": "",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
     }
   ]
 }

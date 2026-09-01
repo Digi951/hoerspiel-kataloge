@@ -1,8 +1,8 @@
 {
   "collectionName": "Benjamin Blümchen",
   "version": 2,
-  "lastUpdated": "2026-06-14",
-  "entryCount": 171,
+  "lastUpdated": "2026-09-01",
+  "entryCount": 172,
   "entries": [
     {
       "number": 1,
@@ -1534,6 +1534,15 @@
       "appleMusicURL": "https://music.apple.com/de/album/6769775194",
       "spotifyURL": "https://open.spotify.com/prerelease/79CyhVbyi411uHCCyeRBFb",
       "deezerURL": "https://www.deezer.com/album/983715451",
+      "audibleURL": ""
+    },
+    {
+      "number": 172,
+      "title": "Als Kapitän",
+      "releaseYear": 2026,
+      "appleMusicURL": "",
+      "spotifyURL": "",
+      "deezerURL": "",
       "audibleURL": ""
     }
   ]

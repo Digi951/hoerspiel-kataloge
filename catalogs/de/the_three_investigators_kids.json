@@ -1,8 +1,8 @@
 {
   "collectionName": "Die drei ??? Kids",
   "version": 2,
-  "lastUpdated": "2026-08-17",
-  "entryCount": 103,
+  "lastUpdated": "2026-09-01",
+  "entryCount": 104,
   "entries": [
     {
       "number": 1,
@@ -930,6 +930,15 @@
       "spotifyURL": "https://open.spotify.com/album/7rLkOzBiK5q5GHP3L9IaJl",
       "deezerURL": "https://www.deezer.com/album/996310511",
       "audibleURL": "https://www.audible.de/pd/SOS-im-Bike-Park-Hoerbuch/B0H4ZKRCG2"
+    },
+    {
+      "number": 104,
+      "title": "Teuflische Küche",
+      "releaseYear": 2026,
+      "appleMusicURL": "",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
     }
   ]
 }

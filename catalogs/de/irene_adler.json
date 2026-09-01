@@ -1,8 +1,8 @@
 {
   "collectionName": "Irene Adler - Sonderermittlerin der Krone",
   "version": 1,
-  "lastUpdated": "2026-08-10",
-  "entryCount": 35,
+  "lastUpdated": "2026-09-01",
+  "entryCount": 36,
   "entries": [
     {
       "number": 0,
@@ -318,6 +318,15 @@
       "spotifyURL": "https://open.spotify.com/album/3PSzw5k1mhnTwd1ZxklEr1",
       "deezerURL": "https://www.deezer.com/album/1004105071",
       "audibleURL": "https://www.audible.de/pd/B0H85NCBGC"
+    },
+    {
+      "number": 35,
+      "title": "Bilder des Fortschritts",
+      "releaseYear": 2026,
+      "appleMusicURL": "",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
     }
   ]
 }
