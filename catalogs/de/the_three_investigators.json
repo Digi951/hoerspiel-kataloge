@@ -1,8 +1,8 @@
 {
   "collectionName": "Die drei ???",
   "version": 6,
-  "lastUpdated": "2026-09-01",
-  "entryCount": 257,
+  "lastUpdated": "2026-09-08",
+  "entryCount": 258,
   "entries": [
     {
       "number": 1,
@@ -2164,6 +2164,15 @@
     {
       "number": 241,
       "title": "Meister des Lichts",
+      "releaseYear": 2026,
+      "appleMusicURL": "",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": ""
+    },
+    {
+      "number": 242,
+      "title": "und das weiße Auge",
       "releaseYear": 2026,
       "appleMusicURL": "",
       "spotifyURL": "",
