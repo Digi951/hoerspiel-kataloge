@@ -1,0 +1,99 @@
+{
+  "collectionName": "Mila et Jaba",
+  "version": 1,
+  "lastUpdated": "2026-09-14",
+  "catalogFormat": 2,
+  "entryCount": 10,
+  "entries": [
+    {
+      "kind": "special",
+      "slug": "le-paquet-de-biscuits",
+      "title": "Le paquet de biscuits",
+      "releaseYear": 0,
+      "links": {
+        "source": "https://souffleurdereves.com/histoires-enfants/6-7-ans/le-paquet-de-biscuits/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "trier-cest-gagne",
+      "title": "Trier c'est gagné",
+      "releaseYear": 0,
+      "links": {
+        "source": "https://souffleurdereves.com/histoires-enfants/6-7-ans/trier-cest-gagne/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "la-visite-au-supermarche",
+      "title": "La visite au supermarché",
+      "releaseYear": 0,
+      "links": {
+        "source": "https://souffleurdereves.com/histoires-enfants/6-7-ans/la-visite-au-supermarche/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "nom-dun-balai-a-moteur",
+      "title": "Nom d'un balai à moteur !",
+      "releaseYear": 0,
+      "links": {
+        "source": "https://souffleurdereves.com/histoires-enfants/6-7-ans/nom-dun-balai-a-moteur/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "la-nature-cest-magique",
+      "title": "La nature, c'est magique !",
+      "releaseYear": 0,
+      "links": {
+        "source": "https://souffleurdereves.com/histoires-enfants/6-7-ans/la-nature-cest-magique/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "la-mysterieuse-disparition",
+      "title": "La mystérieuse disparition",
+      "releaseYear": 0,
+      "links": {
+        "source": "https://souffleurdereves.com/histoires-enfants/6-7-ans/la-mysterieuse-disparition/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "une-cabane-au-coeur-de-la-foret",
+      "title": "Une cabane au cœur de la forêt",
+      "releaseYear": 0,
+      "links": {
+        "source": "https://souffleurdereves.com/histoires-enfants/6-7-ans/une-cabane-au-coeur-de-la-foret/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "aussi-petits-que-des-fourmis",
+      "title": "Aussi petits que des fourmis",
+      "releaseYear": 0,
+      "links": {
+        "source": "https://souffleurdereves.com/histoires-enfants/6-7-ans/aussi-petits-que-des-fourmis/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "une-rencontre-qui-ne-manque-pas-dair",
+      "title": "Une rencontre qui ne manque pas d'air",
+      "releaseYear": 0,
+      "links": {
+        "source": "https://souffleurdereves.com/histoires-enfants/6-7-ans/une-rencontre-qui-ne-manque-pas-dair/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "la-fete-du-solstice",
+      "title": "La fête du solstice",
+      "releaseYear": 0,
+      "links": {
+        "source": "https://souffleurdereves.com/histoires-enfants/6-7-ans/la-fete-du-solstice/"
+      }
+    }
+  ]
+}

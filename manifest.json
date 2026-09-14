@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-21",
+  "updatedAt": "2026-09-14",
   "catalogs": [
     {
       "id": "die-drei-fragezeichen",
@@ -139,6 +139,20 @@
       "name": "Geisterjäger John Sinclair (Tonstudio Braun)",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/john_sinclair_tonstudio_braun.json"
+    },
+    {
+      "id": "asterix-bd-audio",
+      "name": "Astérix — la BD audio",
+      "language": "fr",
+      "style": "anthology",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/fr/asterix_bd_audio.json"
+    },
+    {
+      "id": "mila-et-jaba",
+      "name": "Mila et Jaba",
+      "language": "fr",
+      "style": "anthology",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/fr/mila_et_jaba.json"
     }
   ]
 }

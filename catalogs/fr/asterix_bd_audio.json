@@ -1,0 +1,81 @@
+{
+  "collectionName": "Astérix — la BD audio",
+  "version": 1,
+  "lastUpdated": "2026-09-14",
+  "catalogFormat": 2,
+  "entryCount": 8,
+  "entries": [
+    {
+      "kind": "special",
+      "slug": "le-gaulois",
+      "title": "Astérix le Gaulois",
+      "releaseYear": 2020,
+      "links": {
+        "source": "https://www.audiolib.fr/livre/asterix-le-gaulois-9782367628684/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "la-serpe-dor",
+      "title": "Astérix et la Serpe d'or",
+      "releaseYear": 2020,
+      "links": {
+        "source": "https://www.audiolib.fr/livre/asterix-et-la-serpe-dor-9782367628691/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "gladiateur",
+      "title": "Astérix Gladiateur",
+      "releaseYear": 2020,
+      "links": {
+        "source": "https://www.audiolib.fr/livre/asterix-gladiateur-9791035403218/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "le-tour-de-gaule",
+      "title": "Le Tour de Gaule d'Astérix",
+      "releaseYear": 2020,
+      "links": {
+        "source": "https://www.audiolib.fr/livre/le-tour-de-gaule-dasterix-9791035403225/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "et-cleopatre",
+      "title": "Astérix et Cléopâtre",
+      "releaseYear": 2022,
+      "links": {
+        "source": "https://www.audiolib.fr/livre/asterix-et-cleopatre-9791035412012/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "legionnaire",
+      "title": "Astérix Légionnaire",
+      "releaseYear": 2022,
+      "links": {
+        "source": "https://www.audiolib.fr/livre/asterix-legionnaire-9791035412029/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "aux-jeux-olympiques",
+      "title": "Astérix aux Jeux Olympiques",
+      "releaseYear": 2024,
+      "links": {
+        "source": "https://www.audiolib.fr/livre/asterix-aux-jeux-olympiques-9791035415778/"
+      }
+    },
+    {
+      "kind": "special",
+      "slug": "le-combat-des-chefs",
+      "title": "Astérix — Le Combat des chefs",
+      "releaseYear": 2024,
+      "links": {
+        "source": "https://www.audiolib.fr/livre/asterix-le-combat-des-chefs-9791035415785/"
+      }
+    }
+  ]
+}
