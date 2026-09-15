@@ -1,0 +1,755 @@
+{
+  "collectionName": "Conni",
+  "version": 1,
+  "lastUpdated": "2026-09-15",
+  "entryCount": 83,
+  "entries": [
+    {
+      "number": 1,
+      "title": "Conni geht zum Kinderturnen / Conni und der Wackelzahn",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-geht-zum-kinderturnen-conni-und-der-wackelzahn/1686186026",
+      "spotifyURL": "https://open.spotify.com/album/6YsKPmCJQXbXhlQjB4FyAH",
+      "deezerURL": "https://www.deezer.com/album/219041702",
+      "audibleURL": ""
+    },
+    {
+      "number": 2,
+      "title": "Conni kann nicht einschlafen / Conni macht das Seepferdchen (neu)",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-kann-nicht-einschlafen-conni-macht-das-seepferdchen/1686138646",
+      "spotifyURL": "https://open.spotify.com/album/1sR881Q74a7AeBuWBuyqzJ",
+      "deezerURL": "https://www.deezer.com/album/218433492",
+      "audibleURL": "https://www.audible.de/pd/B084S9V65G"
+    },
+    {
+      "number": 3,
+      "title": "Conni auf dem Bauernhof / Conni und das neue Baby",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-auf-dem-bauernhof-conni-und-das-neue-baby/1686179548",
+      "spotifyURL": "https://open.spotify.com/album/3MJtb4tIcyxbd7PIm5ASJ9",
+      "deezerURL": "https://www.deezer.com/album/218531512",
+      "audibleURL": ""
+    },
+    {
+      "number": 4,
+      "title": "Conni geht zelten / Conni lernt reiten",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-geht-zelten-conni-lernt-reiten/1686187514",
+      "spotifyURL": "https://open.spotify.com/album/0XlODQ0luJjmX0tCLwFb0a",
+      "deezerURL": "https://www.deezer.com/album/218455892",
+      "audibleURL": "https://www.audible.de/pd/B084SBN2BF"
+    },
+    {
+      "number": 5,
+      "title": "Connis erster Flug / Conni geht zum Zahnarzt",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/connis-erster-flug-conni-geht-zum-zahnarzt/1686208401",
+      "spotifyURL": "https://open.spotify.com/album/1VMqmYWDBd8BuaipziZiRO",
+      "deezerURL": "https://www.deezer.com/album/218459052",
+      "audibleURL": ""
+    },
+    {
+      "number": 6,
+      "title": "Conni feiert Weihnachten / Conni fährt Ski",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-feiert-weihnachten-conni-f%C3%A4hrt-ski/1686272584",
+      "spotifyURL": "https://open.spotify.com/album/3mlmTInv2J5T5cy0gJeFds",
+      "deezerURL": "https://www.deezer.com/album/218455362",
+      "audibleURL": ""
+    },
+    {
+      "number": 7,
+      "title": "Conni zieht um / Conni macht Musik",
+      "releaseYear": 2003,
+      "appleMusicURL": "",
+      "spotifyURL": "https://open.spotify.com/album/3zua8s3SzsHQfqkTHaipLK",
+      "deezerURL": "https://www.deezer.com/album/218456502",
+      "audibleURL": "https://www.audible.de/pd/B084SBV2W9"
+    },
+    {
+      "number": 8,
+      "title": "Conni backt Pizza / Conni lernt Rad fahren",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-backt-pizza-conni-lernt-rad-fahren/1686162403",
+      "spotifyURL": "https://open.spotify.com/album/0XiViEkOLyhtXaZrnKvmPt",
+      "deezerURL": "https://www.deezer.com/album/218554522",
+      "audibleURL": ""
+    },
+    {
+      "number": 9,
+      "title": "Conni im Krankenhaus / Conni tanzt",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-im-krankenhaus-conni-tanzt/1686186806",
+      "spotifyURL": "https://open.spotify.com/album/7owOHfGlu89elRiCmWSJRZ",
+      "deezerURL": "https://www.deezer.com/album/218454172",
+      "audibleURL": "https://www.audible.de/pd/B084T9Q5K6"
+    },
+    {
+      "number": 10,
+      "title": "Conni und der Osterhase / Conni spielt Fußball",
+      "releaseYear": 2003,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-osterhase-conni-spielt-fu%C3%9Fball/1686201252",
+      "spotifyURL": "https://open.spotify.com/album/19PVNV21Bjo1hmG9ESBuyI",
+      "deezerURL": "https://www.deezer.com/album/218456742",
+      "audibleURL": ""
+    },
+    {
+      "number": 11,
+      "title": "Conni bekommt eine Katze / Conni hat Geburtstag",
+      "releaseYear": 2005,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-bekommt-eine-katze-conni-hat-geburtstag/1686210137",
+      "spotifyURL": "https://open.spotify.com/album/2Ico90Gpnd5EjFmOWcAT7I",
+      "deezerURL": "https://www.deezer.com/album/218441052",
+      "audibleURL": ""
+    },
+    {
+      "number": 12,
+      "title": "Conni auf dem Reiterhof",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-auf-dem-reiterhof/1686287367",
+      "spotifyURL": "https://open.spotify.com/album/3tnNeblQQtCWFJlQ0Sc8jW",
+      "deezerURL": "https://www.deezer.com/album/219042692",
+      "audibleURL": ""
+    },
+    {
+      "number": 13,
+      "title": "Conni und der Liebesbrief",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-liebesbrief/1686193068",
+      "spotifyURL": "https://open.spotify.com/album/7yK7672w2xS4aRzH20NfXy",
+      "deezerURL": "https://www.deezer.com/album/218404842",
+      "audibleURL": ""
+    },
+    {
+      "number": 14,
+      "title": "Conni reist ans Mittelmeer",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-reist-ans-mittelmeer/1686184344",
+      "spotifyURL": "https://open.spotify.com/album/0OcPFMWbBfyKyQZIpo4XL5",
+      "deezerURL": "https://www.deezer.com/album/218441542",
+      "audibleURL": ""
+    },
+    {
+      "number": 15,
+      "title": "Conni geht auf Klassenfahrt",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-geht-auf-klassenfahrt/1686153254",
+      "spotifyURL": "https://open.spotify.com/album/2hoOCW7MRJ1Ih2PbxZZUSP",
+      "deezerURL": "https://www.deezer.com/album/218435672",
+      "audibleURL": ""
+    },
+    {
+      "number": 16,
+      "title": "Conni feiert Geburtstag",
+      "releaseYear": 2004,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-feiert-geburtstag/1686206103",
+      "spotifyURL": "https://open.spotify.com/album/3oxwMgfDroFPQ9wtCZefJI",
+      "deezerURL": "https://www.deezer.com/album/218415962",
+      "audibleURL": ""
+    },
+    {
+      "number": 17,
+      "title": "Conni und der verschwundene Hund",
+      "releaseYear": 2005,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-verschwundene-hund/1686196578",
+      "spotifyURL": "https://open.spotify.com/album/119PGdOBd93ZGfMANNdrfx",
+      "deezerURL": "https://www.deezer.com/album/218502352",
+      "audibleURL": ""
+    },
+    {
+      "number": 18,
+      "title": "Conni rettet Oma",
+      "releaseYear": 2006,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-rettet-oma/1686198493",
+      "spotifyURL": "https://open.spotify.com/album/6VetbqWxcISujb5SIxpP8c",
+      "deezerURL": "https://www.deezer.com/album/218419172",
+      "audibleURL": ""
+    },
+    {
+      "number": 19,
+      "title": "Conni lernt backen / Conni hilft Mama",
+      "releaseYear": 2006,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-lernt-backen-conni-hilft-mama/1686201909",
+      "spotifyURL": "https://open.spotify.com/album/5UkoCFXGVib8TIc8cvKtfq",
+      "deezerURL": "https://www.deezer.com/album/218457562",
+      "audibleURL": ""
+    },
+    {
+      "number": 20,
+      "title": "Conni und das Geheimnis der Koi",
+      "releaseYear": 2007,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-geheimnis-der-koi/1686286754",
+      "spotifyURL": "https://open.spotify.com/album/5WquYCc7K7Y5HkWgK7RzjS",
+      "deezerURL": "https://www.deezer.com/album/219040112",
+      "audibleURL": ""
+    },
+    {
+      "number": 21,
+      "title": "Conni schläft im Kindergarten / Conni geht in den Zoo",
+      "releaseYear": 2007,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-schl%C3%A4ft-im-kindergarten-conni-geht-in-den-zoo/1686244395",
+      "spotifyURL": "https://open.spotify.com/album/6wvTEh9THKTLiJnICAc8St",
+      "deezerURL": "https://www.deezer.com/album/218523412",
+      "audibleURL": ""
+    },
+    {
+      "number": 22,
+      "title": "Conni und die Jungs von nebenan",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-jungs-von-nebenan/1686206220",
+      "spotifyURL": "https://open.spotify.com/album/3qt1PJtPWPV4jBMVjcFBjt",
+      "deezerURL": "https://www.deezer.com/album/218395372",
+      "audibleURL": ""
+    },
+    {
+      "number": 23,
+      "title": "Conni und das ganz spezielle Weihnachtsfest",
+      "releaseYear": 2008,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-ganz-spezielle-weihnachtsfest/1686167138",
+      "spotifyURL": "https://open.spotify.com/album/6ZIoGb4bzIuaP5TJCnV33H",
+      "deezerURL": "https://www.deezer.com/album/218395992",
+      "audibleURL": ""
+    },
+    {
+      "number": 24,
+      "title": "Conni und das Hochzeitsfest",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-hochzeitsfest/1686296682",
+      "spotifyURL": "https://open.spotify.com/album/0G1zkjmGnFXyBU1C4xZcpI",
+      "deezerURL": "https://www.deezer.com/album/218454632",
+      "audibleURL": ""
+    },
+    {
+      "number": 25,
+      "title": "Conni in der großen Stadt",
+      "releaseYear": 2009,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-in-der-gro%C3%9Fen-stadt/1686199196",
+      "spotifyURL": "https://open.spotify.com/album/3c0VRzvEeyayNJh9J90Ut4",
+      "deezerURL": "https://www.deezer.com/album/218501552",
+      "audibleURL": ""
+    },
+    {
+      "number": 26,
+      "title": "Conni und die verflixte 13",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-verflixte-13/1686208249",
+      "spotifyURL": "https://open.spotify.com/album/4wYMDuA1bHymwPjtGvtrrq",
+      "deezerURL": "https://www.deezer.com/album/218454502",
+      "audibleURL": ""
+    },
+    {
+      "number": 27,
+      "title": "Conni und der Dinoknochen",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-dinoknochen/1686203212",
+      "spotifyURL": "https://open.spotify.com/album/5gv1E25oITGWxH6obxHsN3",
+      "deezerURL": "https://www.deezer.com/album/218409362",
+      "audibleURL": ""
+    },
+    {
+      "number": 28,
+      "title": "Conni und das tanzende Pony",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-tanzende-pony/1686197399",
+      "spotifyURL": "https://open.spotify.com/album/0GM4GkcrfqOryANGzKrkDg",
+      "deezerURL": "https://www.deezer.com/album/218391452",
+      "audibleURL": ""
+    },
+    {
+      "number": 29,
+      "title": "Conni und der große Schnee",
+      "releaseYear": 2010,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-gro%C3%9Fe-schnee/1686196475",
+      "spotifyURL": "https://open.spotify.com/album/7bgRhxk0Wcs7oizTAeYcLz",
+      "deezerURL": "https://www.deezer.com/album/218413162",
+      "audibleURL": ""
+    },
+    {
+      "number": 30,
+      "title": "Conni geht verloren / Conni in den Bergen",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-geht-verloren-conni-in-den-bergen/1686270155",
+      "spotifyURL": "https://open.spotify.com/album/3yS17cHZEUHaAginhlcoLI",
+      "deezerURL": "https://www.deezer.com/album/218413472",
+      "audibleURL": ""
+    },
+    {
+      "number": 31,
+      "title": "Conni ist krank / Conni beim Frisör",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-ist-krank-conni-beim-fris%C3%B6r/1686185103",
+      "spotifyURL": "https://open.spotify.com/album/5dTJuEH52RrYl9Ua2C2z0s",
+      "deezerURL": "https://www.deezer.com/album/218414132",
+      "audibleURL": ""
+    },
+    {
+      "number": 32,
+      "title": "Conni rettet die Tiere",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-rettet-die-tiere/1686187548",
+      "spotifyURL": "https://open.spotify.com/album/4vzFwQy0JuSDYdi9mPH5Tn",
+      "deezerURL": "https://www.deezer.com/album/218394692",
+      "audibleURL": ""
+    },
+    {
+      "number": 33,
+      "title": "Conni und die Detektive",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-detektive/1686165628",
+      "spotifyURL": "https://open.spotify.com/album/3WEe5kEwBqO30saEP2gwMJ",
+      "deezerURL": "https://www.deezer.com/album/218406722",
+      "audibleURL": ""
+    },
+    {
+      "number": 34,
+      "title": "Conni und ihr Lieblingspony / Conni läuft Laterne",
+      "releaseYear": 2011,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-ihr-lieblingspony-conni-l%C3%A4uft-laterne/1686287273",
+      "spotifyURL": "https://open.spotify.com/album/0z1pUoeWigaCgv0v9kNrjv",
+      "deezerURL": "https://www.deezer.com/album/218521502",
+      "audibleURL": ""
+    },
+    {
+      "number": 35,
+      "title": "Conni und der Ferienzirkus",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-ferienzirkus/1686213052",
+      "spotifyURL": "https://open.spotify.com/album/7rX64Cz9KeVTmnOIDbjOaE",
+      "deezerURL": "https://www.deezer.com/album/218399192",
+      "audibleURL": ""
+    },
+    {
+      "number": 36,
+      "title": "Conni und die Burg der Vampire",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-burg-der-vampire/1686287793",
+      "spotifyURL": "https://open.spotify.com/album/5liUjMK6lhxhhomT8TQdl1",
+      "deezerURL": "https://www.deezer.com/album/218395192",
+      "audibleURL": ""
+    },
+    {
+      "number": 37,
+      "title": "Conni übernachtet bei Julia / Conni geht nicht mit Fremden mit",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-%C3%BCbernachtet-bei-julia-conni-geht-nicht-mit-fremden/1686218030",
+      "spotifyURL": "https://open.spotify.com/album/7rp7JoyIEbKkQJZVyMWRmX",
+      "deezerURL": "https://www.deezer.com/album/218452302",
+      "audibleURL": ""
+    },
+    {
+      "number": 38,
+      "title": "Conni macht einen Ausflug / Conni geht auf Reisen",
+      "releaseYear": 2012,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-macht-einen-ausflug-conni-geht-auf-reisen/1686197081",
+      "spotifyURL": "https://open.spotify.com/album/5NQnB6rbmKJnaLrfWLo3Ou",
+      "deezerURL": "https://www.deezer.com/album/218420032",
+      "audibleURL": ""
+    },
+    {
+      "number": 39,
+      "title": "Conni und die große Eiszeit",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-gro%C3%9Fe-eiszeit/1686214024",
+      "spotifyURL": "https://open.spotify.com/album/0fqIKHAdtkunIb3aLGmlur",
+      "deezerURL": "https://www.deezer.com/album/218456662",
+      "audibleURL": ""
+    },
+    {
+      "number": 40,
+      "title": "Conni und das neue Fohlen",
+      "releaseYear": 2013,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-neue-fohlen/1686170892",
+      "spotifyURL": "https://open.spotify.com/album/4OMuGT7rxhO8aL7qFduWlt",
+      "deezerURL": "https://www.deezer.com/album/218423372",
+      "audibleURL": ""
+    },
+    {
+      "number": 41,
+      "title": "Conni und die wilden Tiere",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-wilden-tiere/1686181445",
+      "spotifyURL": "https://open.spotify.com/album/41dBKxUELeeAjjjkOiBWG3",
+      "deezerURL": "https://www.deezer.com/album/218393682",
+      "audibleURL": ""
+    },
+    {
+      "number": 42,
+      "title": "Conni und das Kinderfest / Conni im Zirkus",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-kinderfest-conni-im-zirkus/1686201577",
+      "spotifyURL": "https://open.spotify.com/album/0cyN9sgcNOwPtUy1yJKxur",
+      "deezerURL": "https://www.deezer.com/album/218419672",
+      "audibleURL": ""
+    },
+    {
+      "number": 43,
+      "title": "Conni bekommt Taschengeld / Conni verkleidet sich",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-bekommt-taschengeld-conni-verkleidet-sich/1686209360",
+      "spotifyURL": "https://open.spotify.com/album/6ZnRupQp50O0zveMaLomR7",
+      "deezerURL": "https://www.deezer.com/album/218393892",
+      "audibleURL": ""
+    },
+    {
+      "number": 44,
+      "title": "Conni und das Klassencamp",
+      "releaseYear": 2014,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-klassencamp/1686206594",
+      "spotifyURL": "https://open.spotify.com/album/4LPNAlDbVNqq85GZhZfWvZ",
+      "deezerURL": "https://www.deezer.com/album/218394312",
+      "audibleURL": ""
+    },
+    {
+      "number": 45,
+      "title": "Conni und das Familienfest",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-familienfest/1686159129",
+      "spotifyURL": "https://open.spotify.com/album/397ZOD1pfFtqshQxQu50Ez",
+      "deezerURL": "https://www.deezer.com/album/218458732",
+      "audibleURL": ""
+    },
+    {
+      "number": 46,
+      "title": "Conni geht zum Film",
+      "releaseYear": 2015,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-geht-zum-film/1686216020",
+      "spotifyURL": "https://open.spotify.com/album/0iBRIlra70CvpZqAWLy6f3",
+      "deezerURL": "https://www.deezer.com/album/218537222",
+      "audibleURL": ""
+    },
+    {
+      "number": 47,
+      "title": "Conni und das Ponyabenteuer",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-ponyabenteuer/1686155299",
+      "spotifyURL": "https://open.spotify.com/album/2WIMJaF4y9bC6YbwHLpiaN",
+      "deezerURL": "https://www.deezer.com/album/218488472",
+      "audibleURL": ""
+    },
+    {
+      "number": 48,
+      "title": "Conni löst einen kniffligen Fall",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-l%C3%B6st-einen-kniffligen-fall/1686199941",
+      "spotifyURL": "https://open.spotify.com/album/4MeMBjjwZSdgxYIw4fVAGE",
+      "deezerURL": "https://www.deezer.com/album/218391722",
+      "audibleURL": ""
+    },
+    {
+      "number": 49,
+      "title": "Conni geht einkaufen / Conni und der Läusealarm",
+      "releaseYear": 2016,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-geht-einkaufen-conni-und-der-l%C3%A4usealarm/1686185692",
+      "spotifyURL": "https://open.spotify.com/album/6bZnwwe52KE9uDlVNQhnyz",
+      "deezerURL": "https://www.deezer.com/album/218394342",
+      "audibleURL": ""
+    },
+    {
+      "number": 50,
+      "title": "Conni hilft Papa / Conni streitet sich mit Julia",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-hilft-papa-conni-streitet-sich-mit-julia/1686276901",
+      "spotifyURL": "https://open.spotify.com/album/4c2D6uwta4L4Sz9iHYKP23",
+      "deezerURL": "https://www.deezer.com/album/218395232",
+      "audibleURL": ""
+    },
+    {
+      "number": 51,
+      "title": "Conni und die Katzenliebe",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-katzenliebe/1686284135",
+      "spotifyURL": "https://open.spotify.com/album/5jX9DhZywmVK1O0xDNGb4M",
+      "deezerURL": "https://www.deezer.com/album/218402582",
+      "audibleURL": ""
+    },
+    {
+      "number": 52,
+      "title": "Conni und das große Bergabenteuer",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-gro%C3%9Fe-bergabenteuer/1686138749",
+      "spotifyURL": "https://open.spotify.com/album/0GzYF1VmHG0WRZHtqIKzRh",
+      "deezerURL": "https://www.deezer.com/album/218389642",
+      "audibleURL": ""
+    },
+    {
+      "number": 53,
+      "title": "Conni kommt in den Kindergarten (neu) / Conni geht aufs Töpfchen",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-kommt-in-den-kindergarten-neu-conni-geht-aufs/1686203202",
+      "spotifyURL": "https://open.spotify.com/album/7k5CN9iWpWDryol1Ly2K2l",
+      "deezerURL": "https://www.deezer.com/album/218458702",
+      "audibleURL": "https://www.audible.de/pd/B084SC7LVW"
+    },
+    {
+      "number": 54,
+      "title": "Conni geht zur Zahnärztin / Conni ist wütend",
+      "releaseYear": 2017,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-geht-zur-zahn%C3%A4rztin-conni-ist-w%C3%BCtend/1686203819",
+      "spotifyURL": "https://open.spotify.com/album/5QXDGFK88eka7M0Kz17WcW",
+      "deezerURL": "https://www.deezer.com/album/218389222",
+      "audibleURL": ""
+    },
+    {
+      "number": 55,
+      "title": "Conni und die Nixen",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-nixen/1686276187",
+      "spotifyURL": "https://open.spotify.com/album/28dCHB6cb4qO4sq8CxPXCO",
+      "deezerURL": "https://www.deezer.com/album/218423742",
+      "audibleURL": ""
+    },
+    {
+      "number": 56,
+      "title": "Conni kommt in die Schule (neu) / Conni backt Pfannkuchen",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-kommt-in-die-schule-neu-conni-backt-pfannkuchen/1686231703",
+      "spotifyURL": "https://open.spotify.com/album/4pdsCieLNlgbOZjSj9RFkf",
+      "deezerURL": "https://www.deezer.com/album/218419772",
+      "audibleURL": "https://www.audible.de/pd/B084SQJNMH"
+    },
+    {
+      "number": 57,
+      "title": "Conni und die Nacht im Museum",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-nacht-im-museum/1686061762",
+      "spotifyURL": "https://open.spotify.com/album/4wciXGoYzpa1ww7YHeY9cf",
+      "deezerURL": "https://www.deezer.com/album/218455952",
+      "audibleURL": ""
+    },
+    {
+      "number": 58,
+      "title": "Conni geht zum Kinderarzt (neu) / Conni besucht Oma und Opa",
+      "releaseYear": 2018,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-geht-zum-kinderarzt-neu-conni-besucht-oma-und-opa/1686193348",
+      "spotifyURL": "https://open.spotify.com/album/7EEQA8jYCeVlw1VpBd4AuO",
+      "deezerURL": "https://www.deezer.com/album/218412002",
+      "audibleURL": "https://www.audible.de/pd/B084SBTKRW"
+    },
+    {
+      "number": 59,
+      "title": "Conni und die Reise ans Meer",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-reise-ans-meer/1686247096",
+      "spotifyURL": "https://open.spotify.com/album/1wbReKxgl64UkHW5NvPA9P",
+      "deezerURL": "https://www.deezer.com/album/219041842",
+      "audibleURL": "https://www.audible.de/pd/B0851JJY35"
+    },
+    {
+      "number": 60,
+      "title": "Conni und die Ponys im Schnee",
+      "releaseYear": 2019,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-ponys-im-schnee/1686051975",
+      "spotifyURL": "https://open.spotify.com/album/4v9KmXCKuj7wfhaKIKyXbq",
+      "deezerURL": "https://www.deezer.com/album/218456022",
+      "audibleURL": "https://www.audible.de/pd/B0851JBPSD"
+    },
+    {
+      "number": 61,
+      "title": "Conni und das Baumhaus",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-baumhaus/1686285217",
+      "spotifyURL": "https://open.spotify.com/album/4aHq7p3puiQ6nhjbi8rKsr",
+      "deezerURL": "https://www.deezer.com/album/219041802",
+      "audibleURL": "https://www.audible.de/pd/B0886JG1DR"
+    },
+    {
+      "number": 62,
+      "title": "Conni geht auf Schatzsuche",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-geht-auf-schatzsuche/1686069366",
+      "spotifyURL": "https://open.spotify.com/album/15U5OqpCkT0yinVTiQloa7",
+      "deezerURL": "https://www.deezer.com/album/219041662",
+      "audibleURL": "https://www.audible.de/pd/B08MQTGXQ9"
+    },
+    {
+      "number": 63,
+      "title": "Conni und der Nikolaus / Conni im Schnee",
+      "releaseYear": 2020,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-nikolaus-conni-im-schnee/1686069331",
+      "spotifyURL": "https://open.spotify.com/album/7kJrUS6nYFlgghJLOVpLhl",
+      "deezerURL": "https://www.deezer.com/album/219038192",
+      "audibleURL": "https://www.audible.de/pd/B08MQRP2FM"
+    },
+    {
+      "number": 64,
+      "title": "Conni hat Kummer / Conni lernt die Uhrzeit",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-hat-kummer-conni-lernt-die-uhrzeit/1686244161",
+      "spotifyURL": "https://open.spotify.com/album/6ImzUlpz1RpGf2esnvREdR",
+      "deezerURL": "https://www.deezer.com/album/219039042",
+      "audibleURL": "https://www.audible.de/pd/B08XM6WPXR"
+    },
+    {
+      "number": 65,
+      "title": "Conni und der zauberhafte Schulzirkus",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-zauberhafte-schulzirkus/1686136855",
+      "spotifyURL": "https://open.spotify.com/album/3zBN5XO9sO1LzBbZBJl46L",
+      "deezerURL": "https://www.deezer.com/album/219039732",
+      "audibleURL": "https://www.audible.de/pd/B091J4DM6W"
+    },
+    {
+      "number": 66,
+      "title": "Conni kümmert sich um die Umwelt / Conni entdeckt die Bücher",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-k%C3%BCmmert-sich-um-die-umwelt-conni-entdeckt-die-b%C3%BCcher/1686242832",
+      "spotifyURL": "https://open.spotify.com/album/79Gdn1l8jneDVEsfZWa25K",
+      "deezerURL": "https://www.deezer.com/album/240683492",
+      "audibleURL": "https://www.audible.de/pd/B09BNTY7H3"
+    },
+    {
+      "number": 67,
+      "title": "Conni und die Ponyspiele",
+      "releaseYear": 2021,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-ponyspiele/1686322847",
+      "spotifyURL": "https://open.spotify.com/album/3k9DsmXi1WIQnHXE0scKeI",
+      "deezerURL": "https://www.deezer.com/album/254688382",
+      "audibleURL": "https://www.audible.de/pd/B0BX3THW43"
+    },
+    {
+      "number": 68,
+      "title": "Conni traut sich was / Conni bastelt für ihre Freunde / Connis Weihnachtsbäckerei",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-traut-sich-was-conni-bastelt-f%C3%BCr-ihre-freunde/1686271479",
+      "spotifyURL": "https://open.spotify.com/album/6JKZNohHLo2xRaGJIuIWzz",
+      "deezerURL": "https://www.deezer.com/album/332138407",
+      "audibleURL": ""
+    },
+    {
+      "number": 69,
+      "title": "Conni und das Hausboot-Abenteuer",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-hausboot-abenteuer/1686292067",
+      "spotifyURL": "https://open.spotify.com/album/6ogxxoxP612Vgw0esx4yGI",
+      "deezerURL": "https://www.deezer.com/album/339055547",
+      "audibleURL": "https://www.audible.de/pd/B0BX3Y3KNF"
+    },
+    {
+      "number": 70,
+      "title": "Conni und die Jungs in geheimer Mission",
+      "releaseYear": 2022,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-die-jungs-in-geheimer-mission/1686247240",
+      "spotifyURL": "https://open.spotify.com/album/1JjdVw2Cr9L95pm1bWHu3L",
+      "deezerURL": "https://www.deezer.com/album/363574767",
+      "audibleURL": "https://www.audible.de/pd/B0BVRH1P5P"
+    },
+    {
+      "number": 71,
+      "title": "Conni im Sommer / Conni zieht um",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-im-sommer-conni-zieht-um/1686234446",
+      "spotifyURL": "https://open.spotify.com/album/2jOoq32zr0DQQKNAMzikwa",
+      "deezerURL": "https://www.deezer.com/album/423416847",
+      "audibleURL": ""
+    },
+    {
+      "number": 72,
+      "title": "Conni und das geklaute Kaninchen",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-geklaute-kaninchen/1693995659",
+      "spotifyURL": "https://open.spotify.com/album/0fADlaJbXr3szYriJmYDuT",
+      "deezerURL": "https://www.deezer.com/album/456758445",
+      "audibleURL": "https://www.audible.de/pd/B0CB6818RW"
+    },
+    {
+      "number": 73,
+      "title": "Conni und die wilden Pferde",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/73-conni-und-die-wilden-pferde/1702474876",
+      "spotifyURL": "https://open.spotify.com/album/1ZuSmHKzZWJwxNN8RgQCCd",
+      "deezerURL": "https://www.deezer.com/album/476042575",
+      "audibleURL": ""
+    },
+    {
+      "number": 74,
+      "title": "Conni macht Geschenke / Conni erlebt die Jahreszeiten",
+      "releaseYear": 2023,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-macht-geschenke-conni-erlebt-die-jahreszeiten/1707408724",
+      "spotifyURL": "https://open.spotify.com/album/6wumMrm3pGPUEhaCBBn9BE",
+      "deezerURL": "https://www.deezer.com/album/487889305",
+      "audibleURL": ""
+    },
+    {
+      "number": 75,
+      "title": "Conni und ihr kleiner Bruder / Unser Körper",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-ihr-kleiner-bruder-unser-k%C3%B6rper/1742162734",
+      "spotifyURL": "https://open.spotify.com/album/3gjO1rpjBZKESAipgCyV7y",
+      "deezerURL": "https://www.deezer.com/album/575397181",
+      "audibleURL": ""
+    },
+    {
+      "number": 76,
+      "title": "Conni und das Abenteuer in der Wildnis",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-abenteuer-in-der-wildnis/1749049192",
+      "spotifyURL": "https://open.spotify.com/album/2jS07C2ZHnkonYyJu8Z4Qe",
+      "deezerURL": "https://www.deezer.com/album/593925542",
+      "audibleURL": ""
+    },
+    {
+      "number": 77,
+      "title": "Conni und der Weltkindertag / Conni in der Verkehrsschule",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-weltkindertag-conni-in-der-verkehrsschule/1760572861",
+      "spotifyURL": "https://open.spotify.com/album/4Cs7KoZs3KqwJRWN7Yzq7C",
+      "deezerURL": "https://www.deezer.com/album/623488851",
+      "audibleURL": ""
+    },
+    {
+      "number": 78,
+      "title": "Conni und der beste Spürhund der Welt",
+      "releaseYear": 2024,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-beste-sp%C3%BCrhund-der-welt/1773309595",
+      "spotifyURL": "https://open.spotify.com/album/0DUEOkW7SljUOcb3JFX9ce",
+      "deezerURL": "https://www.deezer.com/album/654912861",
+      "audibleURL": ""
+    },
+    {
+      "number": 79,
+      "title": "Klar kann Conni das! / Conni lernt teilen, vertrauen und sich vertragen",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/klar-kann-conni-das-conni-lernt-teilen-vertrauen-und/1814866173",
+      "spotifyURL": "https://open.spotify.com/album/52uyq2UDlvzQFRKfIOW1Yg",
+      "deezerURL": "https://www.deezer.com/album/757935091",
+      "audibleURL": ""
+    },
+    {
+      "number": 80,
+      "title": "Conni und das Fußballcamp",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-das-fu%C3%9Fballcamp/1823191331",
+      "spotifyURL": "https://open.spotify.com/album/4ElLuCLd9TsZBn4umPSAhh",
+      "deezerURL": "https://www.deezer.com/album/779206051",
+      "audibleURL": ""
+    },
+    {
+      "number": 81,
+      "title": "Conni und der neue Lehrer",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-neue-lehrer/1837171915",
+      "spotifyURL": "https://open.spotify.com/album/2Zjjj73OxxEl4DmzgRq11J",
+      "deezerURL": "https://www.deezer.com/album/814757941",
+      "audibleURL": ""
+    },
+    {
+      "number": 82,
+      "title": "Conni sagt Stopp! / Ein Tag in der Schule",
+      "releaseYear": 2025,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-sagt-stopp-ein-tag-in-der-schule/1858312751",
+      "spotifyURL": "https://open.spotify.com/album/2WDjf0PzITBCuoEsY2xIUC",
+      "deezerURL": "https://www.deezer.com/album/869593892",
+      "audibleURL": ""
+    },
+    {
+      "number": 83,
+      "title": "Conni und der Pferdeflüsterhof",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/conni-und-der-pferdefl%C3%BCsterhof/1877130138",
+      "spotifyURL": "https://open.spotify.com/album/63d6nqQwT9mdpqScsZEYSC",
+      "deezerURL": "https://www.deezer.com/album/918509581",
+      "audibleURL": ""
+    }
+  ]
+}

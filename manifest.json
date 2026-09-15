@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-15",
   "catalogs": [
     {
       "id": "die-drei-fragezeichen",
@@ -37,6 +37,18 @@
       "name": "Bibi und Tina",
       "language": "de",
       "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/bibi_und_tina.json"
+    },
+    {
+      "id": "conni",
+      "name": "Conni",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/conni.json"
+    },
+    {
+      "id": "conni-und-co",
+      "name": "Conni & Co",
+      "language": "de",
+      "url": "https://raw.githubusercontent.com/Digi951/hoerspiel-kataloge/main/catalogs/de/conni_und_co.json"
     },
     {
       "id": "die-schule-der-magischen-tiere",
