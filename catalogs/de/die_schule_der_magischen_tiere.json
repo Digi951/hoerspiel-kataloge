@@ -1,7 +1,7 @@
 {
   "collectionName": "Die Schule der magischen Tiere",
   "version": 2,
-  "lastUpdated": "2026-05-22",
+  "lastUpdated": "2026-09-29",
   "entryCount": 16,
   "entries": [
     {
@@ -38,7 +38,7 @@
       "appleMusicURL": "https://music.apple.com/de/album/04-abgefahren/1875981660",
       "spotifyURL": "https://open.spotify.com/album/756UFNiaRWDFiIvXdAfrKQ",
       "deezerURL": "https://www.deezer.com/album/915376201",
-      "audibleURL": "https://www.audible.de/pd/B07X7WYR6Y"
+      "audibleURL": "https://www.audible.de/pd/B085KXLDJD"
     },
     {
       "number": 5,
@@ -101,7 +101,7 @@
       "appleMusicURL": "https://music.apple.com/de/album/11-wilder-wilder-wald/1686249232",
       "spotifyURL": "https://open.spotify.com/album/35GBDxpgWrAQDk8v2zywMX",
       "deezerURL": "https://www.deezer.com/album/219045782",
-      "audibleURL": "https://www.audible.de/pd/B07X7WYR6Y"
+      "audibleURL": "https://www.audible.de/pd/B0BTMDPZJD"
     },
     {
       "number": 12,
@@ -110,7 +110,7 @@
       "appleMusicURL": "https://music.apple.com/de/album/12-voll-das-chaos/1686277307",
       "spotifyURL": "https://open.spotify.com/album/5KAiz0MNnhq5gGko9knR76",
       "deezerURL": "https://www.deezer.com/album/272324332",
-      "audibleURL": "https://www.audible.de/pd/B07X7WYR6Y"
+      "audibleURL": "https://www.audible.de/pd/B0BTMDTBTH"
     },
     {
       "number": 13,
@@ -128,7 +128,7 @@
       "appleMusicURL": "https://music.apple.com/de/album/14-ach-du-schreck/1716335327",
       "spotifyURL": "https://open.spotify.com/album/1hJPZNkKT3NeK6SK4rTPIm",
       "deezerURL": "https://www.deezer.com/album/512043571",
-      "audibleURL": "https://www.audible.de/pd/B07X7WYR6Y"
+      "audibleURL": "https://www.audible.de/pd/B0DQTV6T83"
     },
     {
       "number": 15,
@@ -137,7 +137,7 @@
       "appleMusicURL": "https://music.apple.com/de/album/15-vierundzwanzig/1781714939",
       "spotifyURL": "https://open.spotify.com/album/5qC7Jr1oiwlwp663Uoi0Ng",
       "deezerURL": "https://www.deezer.com/album/675301921",
-      "audibleURL": "https://www.audible.de/pd/B07X7WYR6Y"
+      "audibleURL": "https://www.audible.de/pd/B0DF2GGZMV"
     },
     {
       "number": 16,
@@ -146,7 +146,7 @@
       "appleMusicURL": "https://music.apple.com/de/album/16-land-unter/1841670092",
       "spotifyURL": "https://open.spotify.com/album/2XgghqqSSYMgqzIYWTSTbZ",
       "deezerURL": "https://www.deezer.com/album/826226571",
-      "audibleURL": "https://www.audible.de/pd/B07X7WYR6Y"
+      "audibleURL": "https://www.audible.de/pd/B0F6YG4X1J"
     }
   ]
 }

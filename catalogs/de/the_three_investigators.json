@@ -1,7 +1,7 @@
 {
   "collectionName": "Die drei ???",
   "version": 6,
-  "lastUpdated": "2026-09-08",
+  "lastUpdated": "2026-09-29",
   "entryCount": 258,
   "entries": [
     {
@@ -956,7 +956,7 @@
       "spotifyURL": "https://open.spotify.com/album/4eX1wH67TDcYPZ1ZsjtPb6",
       "appleMusicURL": "https://music.apple.com/de/album/folge-106-der-mann-ohne-kopf/1115173891",
       "deezerURL": "https://www.deezer.com/album/13836084",
-      "audibleURL": "https://www.audible.de/pd/B0B1QNDL7P"
+      "audibleURL": "https://www.audible.de/pd/B0B1QJGXWL"
     },
     {
       "number": 107,
@@ -1028,7 +1028,7 @@
       "appleMusicURL": "https://music.apple.com/de/album/folge-114-die-villa-der-toten/1115204879",
       "spotifyURL": "https://open.spotify.com/album/5L2KCw21QT3JKg1KKuqSeF",
       "deezerURL": "https://www.deezer.com/album/13895612",
-      "audibleURL": "https://www.audible.de/pd/B0B3Y7SG2C"
+      "audibleURL": "https://www.audible.de/pd/B0B1QL2JYJ"
     },
     {
       "number": 115,
@@ -1370,7 +1370,7 @@
       "appleMusicURL": "https://music.apple.com/de/album/folge-152-skateboardfieber/1149007296",
       "spotifyURL": "https://open.spotify.com/album/5iNeANVy4supl8HowB9V2h",
       "deezerURL": "https://www.deezer.com/album/14350009",
-      "audibleURL": ""
+      "audibleURL": "https://www.audible.de/pd/B0B1QL9GX6"
     },
     {
       "number": 153,
@@ -1838,7 +1838,7 @@
       "appleMusicURL": "https://music.apple.com/de/album/folge-204-der-dunkle-w%C3%A4chter/1494861137",
       "spotifyURL": "https://open.spotify.com/album/1yMMjH3tDN9GyXiADzTkL9",
       "deezerURL": "https://www.deezer.com/album/129216362",
-      "audibleURL": "https://www.audible.de/pd/B0B1QRDVGF"
+      "audibleURL": "https://www.audible.de/pd/B0B1QR266H"
     },
     {
       "number": 205,
@@ -1919,7 +1919,7 @@
       "appleMusicURL": "https://music.apple.com/de/album/folge-213-der-fluch-der-medusa/1585776843",
       "spotifyURL": "https://open.spotify.com/album/4BZfSV9maCil4l4yftT74F",
       "deezerURL": "https://www.deezer.com/album/264850382",
-      "audibleURL": "https://www.audible.de/pd/B0B1QMBMPK"
+      "audibleURL": "https://www.audible.de/pd/B0B1QR8TL6"
     },
     {
       "number": 214,
@@ -2152,23 +2152,23 @@
       "releaseYear": 2026,
       "appleMusicURL": "https://music.apple.com/de/album/folge-239-das-geheimnis-der-sieben-palmen/1887229472",
       "deezerURL": "",
-      "audibleURL": "https://www.audible.de/pd/B0C7LBY92G"
+      "audibleURL": "https://www.audible.de/pd/B0H1MV1KKF"
     },
     {
       "number": 240,
       "title": "und die schwarze Rose",
       "releaseYear": 2026,
       "deezerURL": "",
-      "audibleURL": "https://www.audible.de/pd/B0B1QLC97F"
+      "audibleURL": "https://www.audible.de/pd/B0H2N6CJHJ"
     },
     {
       "number": 241,
       "title": "Meister des Lichts",
       "releaseYear": 2026,
-      "appleMusicURL": "",
+      "appleMusicURL": "https://music.apple.com/de/album/6789055080",
       "spotifyURL": "",
-      "deezerURL": "",
-      "audibleURL": ""
+      "deezerURL": "https://www.deezer.com/album/1024801661",
+      "audibleURL": "https://www.audible.de/pd/B0HBRG4RN8"
     },
     {
       "number": 242,
