@@ -1,4 +1,6 @@
 {
-  "updatedAt": "2026-10-19",
-  "releases": []
+  "updatedAt": "2026-11-02",
+  "releases": [
+    { "catalogID": "fuenf-freunde", "number": 173, "title": "Die Rache des Feuerdämons", "releaseDate": "2026-11-06" }
+  ]
 }
