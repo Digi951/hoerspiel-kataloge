@@ -188,6 +188,7 @@
       "number": 21,
       "title": "als Weihnachtsmann",
       "releaseYear": 1982,
+      "season": "christmas",
       "appleMusicURL": "https://music.apple.com/de/album/folge-21-benjamin-bl%C3%BCmchen-als-weihnachtsmann/1069098246",
       "deezerURL": "https://www.deezer.com/album/13731844",
       "audibleURL": "https://www.audible.de/pd/B004JVF3DA"
@@ -457,6 +458,7 @@
       "number": 51,
       "title": "Der Weihnachtsabend",
       "releaseYear": 1986,
+      "season": "christmas",
       "appleMusicURL": "https://music.apple.com/de/album/folge-51-der-weihnachtsabend/1069205595",
       "deezerURL": "https://www.deezer.com/album/13731914",
       "audibleURL": "https://www.audible.de/pd/B004JVKNEY"
@@ -465,6 +467,7 @@
       "number": 52,
       "title": "Der Weihnachtstraum",
       "releaseYear": 1986,
+      "season": "christmas",
       "appleMusicURL": "https://music.apple.com/de/album/folge-52-der-weihnachtstraum/1069219541",
       "deezerURL": "https://www.deezer.com/album/13732182",
       "audibleURL": "https://www.audible.de/pd/B004JVM7SE"
@@ -653,6 +656,7 @@
       "number": 73,
       "title": "und der Weihnachtsmann",
       "releaseYear": 2007,
+      "season": "christmas",
       "appleMusicURL": "https://music.apple.com/de/album/folge-73-benjamin-bl%C3%BCmchen-und-der-weihnachtsmann/1069167366",
       "deezerURL": "https://www.deezer.com/album/13731960",
       "audibleURL": "https://www.audible.de/pd/B004JVFFQA"
@@ -661,6 +665,7 @@
       "number": 74,
       "title": "singt Weihnachtslieder",
       "releaseYear": 1992,
+      "season": "christmas",
       "appleMusicURL": "https://music.apple.com/de/album/folge-74-benjamin-bl%C3%BCmchen-singt-weihnachtslieder/1069147314",
       "deezerURL": "https://www.deezer.com/album/10805730",
       "audibleURL": "https://www.audible.de/pd/B00HW2U1VW"
@@ -1254,6 +1259,7 @@
       "number": 140,
       "title": "Weihnachtsmarkt im Zoo",
       "releaseYear": 2018,
+      "season": "christmas",
       "appleMusicURL": "https://music.apple.com/de/album/folge-140-weihnachtsmarkt-im-zoo/1440516406",
       "deezerURL": "https://www.deezer.com/album/77871242",
       "audibleURL": "https://www.audible.de/pd/B07KQJ7HDF"
