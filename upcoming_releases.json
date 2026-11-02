@@ -1,6 +1,10 @@
 {
   "updatedAt": "2026-11-02",
   "releases": [
-    { "catalogID": "fuenf-freunde", "number": 173, "title": "Die Rache des Feuerdämons", "releaseDate": "2026-11-06" }
+    { "catalogID": "fuenf-freunde", "number": 173, "title": "Die Rache des Feuerdämons", "releaseDate": "2026-11-06" },
+    { "catalogID": "die-drei-ausrufezeichen", "slug": "diebstahl-im-weihnachtsdorf-adventskalender-2026", "title": "Diebstahl im Weihnachtsdorf (Adventskalender)", "releaseDate": "2026-11-13" },
+    { "catalogID": "die-drei-fragezeichen", "slug": "o-geisterbaum-adventskalender-2026", "title": "O Geisterbaum (Adventskalender)", "releaseDate": "2026-11-13" },
+    { "catalogID": "die-drei-fragezeichen-kids", "slug": "24-tage-voller-spannung-adventskalender-2026", "title": "24 Tage voller Spannung! (Adventskalender)", "releaseDate": "2026-11-13" },
+    { "catalogID": "tkkg", "slug": "die-jagd-nach-dem-luxusadventskalender-adventskalender-2026", "title": "Die Jagd nach dem Luxusadventskalender (Adventskalender)", "releaseDate": "2026-11-13" }
   ]
 }
