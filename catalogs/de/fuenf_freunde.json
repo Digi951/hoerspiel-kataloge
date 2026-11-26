@@ -1,8 +1,8 @@
 {
   "collectionName": "Fünf Freunde",
   "version": 2,
-  "lastUpdated": "2026-09-29",
-  "entryCount": 171,
+  "lastUpdated": "2026-11-26",
+  "entryCount": 173,
   "entries": [
     {
       "number": 1,
@@ -1510,6 +1510,24 @@
       "spotifyURL": "https://open.spotify.com/intl-de/album/0T6eDA8yFm5bzJxT01PF09",
       "deezerURL": "https://www.deezer.com/album/907558382",
       "audibleURL": "https://www.audible.de/pd/B0GMWMHFCM"
+    },
+    {
+      "number": 172,
+      "title": "Und die Spur der Diebe",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/1896423347",
+      "spotifyURL": "https://open.spotify.com/intl-de/album/3R8u94YeLjgIylHlOYsMbr",
+      "deezerURL": "https://www.deezer.com/album/977723971",
+      "audibleURL": "https://www.audible.de/pd/B0H5JQ39LW"
+    },
+    {
+      "number": 173,
+      "title": "Und die Rache des Feuerdämons",
+      "releaseYear": 2026,
+      "appleMusicURL": "https://music.apple.com/de/album/6806319256",
+      "spotifyURL": "https://open.spotify.com/intl-de/album/0YF1CEicPw7p2i2QPU3hQx",
+      "deezerURL": "https://www.deezer.com/album/1065328511",
+      "audibleURL": "https://www.audible.de/pd/B0HHJRLHC3"
     }
   ]
 }

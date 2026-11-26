@@ -1,8 +1,8 @@
 {
   "collectionName": "Die drei ???",
   "version": 6,
-  "lastUpdated": "2026-09-29",
-  "entryCount": 258,
+  "lastUpdated": "2026-11-26",
+  "entryCount": 259,
   "entries": [
     {
       "number": 1,
@@ -2350,6 +2350,18 @@
       "appleMusicURL": "https://music.apple.com/de/album/1683339747",
       "deezerURL": "https://www.deezer.com/album/431878197",
       "audibleURL": "https://www.audible.de/pd/B0BSXSDVYP"
+    },
+    {
+      "kind": "special",
+      "slug": "o-geisterbaum-adventskalender-2026",
+      "title": "O Geisterbaum (Adventskalender)",
+      "releaseYear": 2026,
+      "season": "christmas",
+      "number": 17,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/7e5uqca3BaiL3MURkBTFxJ",
+      "appleMusicURL": "https://music.apple.com/de/album/6816080246",
+      "deezerURL": "https://www.deezer.com/album/1104778272",
+      "audibleURL": "https://www.audible.de/pd/B0HL8XSN8Z"
     }
   ]
 }

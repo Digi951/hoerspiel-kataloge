@@ -1,8 +1,8 @@
 {
   "collectionName": "Die drei !!!",
   "version": 2,
-  "lastUpdated": "2026-09-01",
-  "entryCount": 100,
+  "lastUpdated": "2026-11-26",
+  "entryCount": 101,
   "entries": [
     {
       "number": 1,
@@ -904,6 +904,18 @@
       "spotifyURL": "",
       "deezerURL": "",
       "audibleURL": ""
+    },
+    {
+      "kind": "special",
+      "slug": "diebstahl-im-weihnachtsdorf-adventskalender-2026",
+      "title": "Diebstahl im Weihnachtsdorf (Adventskalender)",
+      "releaseYear": 2026,
+      "season": "christmas",
+      "number": 1,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/55JuNJu8H7XCejXEmIvL8x",
+      "appleMusicURL": "https://music.apple.com/de/album/6820988353",
+      "deezerURL": "https://www.deezer.com/album/1117770502",
+      "audibleURL": "https://www.audible.de/pd/B0HMRVZLMT"
     }
   ]
 }

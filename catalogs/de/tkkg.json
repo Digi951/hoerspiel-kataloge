@@ -1,8 +1,8 @@
 {
   "collectionName": "TKKG",
   "version": 3,
-  "lastUpdated": "2026-09-29",
-  "entryCount": 251,
+  "lastUpdated": "2026-11-26",
+  "entryCount": 252,
   "entries": [
     {
       "number": 1,
@@ -2080,6 +2080,18 @@
       "spotifyURL": "https://open.spotify.com/intl-de/album/0ya2o75ZmbcCCKTngDFS0O",
       "appleMusicURL": "https://music.apple.com/de/album/1841358699",
       "deezerURL": "https://www.deezer.com/album/825397641"
+    },
+    {
+      "kind": "special",
+      "slug": "die-jagd-nach-dem-luxusadventskalender-adventskalender-2026",
+      "title": "Die Jagd nach dem Luxusadventskalender (Adventskalender)",
+      "releaseYear": 2026,
+      "season": "christmas",
+      "number": 10,
+      "spotifyURL": "https://open.spotify.com/intl-de/album/1dn1X8xX8pVuRVxVtlFzcj",
+      "appleMusicURL": "https://music.apple.com/de/album/6819302875",
+      "deezerURL": "https://www.deezer.com/album/1114140282",
+      "audibleURL": "https://www.audible.de/pd/B0HM7LN3MN"
     }
   ]
 }

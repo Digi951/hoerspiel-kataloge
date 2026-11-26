@@ -1,8 +1,8 @@
 {
   "collectionName": "Die Playmos",
   "version": 1,
-  "lastUpdated": "2026-09-29",
-  "entryCount": 102,
+  "lastUpdated": "2026-11-26",
+  "entryCount": 103,
   "entries": [
     {
       "number": 1,
@@ -922,6 +922,16 @@
       "spotifyURL": "",
       "deezerURL": "",
       "audibleURL": "https://www.audible.de/pd/B0HHS8JMBK"
+    },
+    {
+      "number": 103,
+      "title": "Weihnachten in Gefahr",
+      "releaseYear": 2026,
+      "season": "christmas",
+      "appleMusicURL": "https://music.apple.com/de/album/6827140310",
+      "spotifyURL": "https://open.spotify.com/intl-de/album/2slHtQm95FnaqZXQerTsYr",
+      "deezerURL": "",
+      "audibleURL": "https://www.audible.de/pd/B0HQBV8S4T"
     }
   ]
 }
