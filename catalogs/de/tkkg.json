@@ -2,7 +2,7 @@
   "collectionName": "TKKG",
   "version": 3,
   "lastUpdated": "2026-11-26",
-  "entryCount": 252,
+  "entryCount": 253,
   "entries": [
     {
       "number": 1,
@@ -1987,6 +1987,15 @@
       "spotifyURL": "",
       "deezerURL": "",
       "audibleURL": "https://www.audible.de/pd/B0H8TM9WTV"
+    },
+    {
+      "number": 244,
+      "title": "Vier Pfoten für ein Schurkenstück",
+      "releaseYear": 2027,
+      "appleMusicURL": "https://music.apple.com/de/album/6828787794",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": "https://www.audible.de/pd/B0HQ797FF8"
     },
     {
       "kind": "special",

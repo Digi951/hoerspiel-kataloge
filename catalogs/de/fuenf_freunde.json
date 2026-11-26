@@ -2,7 +2,7 @@
   "collectionName": "Fünf Freunde",
   "version": 2,
   "lastUpdated": "2026-11-26",
-  "entryCount": 173,
+  "entryCount": 174,
   "entries": [
     {
       "number": 1,
@@ -1528,6 +1528,15 @@
       "spotifyURL": "https://open.spotify.com/intl-de/album/0YF1CEicPw7p2i2QPU3hQx",
       "deezerURL": "https://www.deezer.com/album/1065328511",
       "audibleURL": "https://www.audible.de/pd/B0HHJRLHC3"
+    },
+    {
+      "number": 174,
+      "title": "Und der Schatz im Dunkeln",
+      "releaseYear": 2027,
+      "appleMusicURL": "https://music.apple.com/de/album/6825281212",
+      "spotifyURL": "",
+      "deezerURL": "",
+      "audibleURL": "https://www.audible.de/pd/B0HQ72BZNN"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "collectionName": "Bibi Blocksberg",
   "version": 4,
   "lastUpdated": "2026-11-26",
-  "entryCount": 171,
+  "entryCount": 172,
   "entries": [
     {
       "number": 1,
@@ -1491,6 +1491,15 @@
       "appleMusicURL": "https://music.apple.com/de/album/6817103385",
       "spotifyURL": "https://open.spotify.com/intl-de/album/49KpXVMyZ3vTwNfqpUQMWy",
       "deezerURL": "https://www.deezer.com/album/1132267121",
+      "audibleURL": ""
+    },
+    {
+      "number": 168,
+      "title": "Besuchschaos mal drei",
+      "releaseYear": 2027,
+      "appleMusicURL": "https://music.apple.com/de/album/6828959548",
+      "spotifyURL": "",
+      "deezerURL": "https://www.deezer.com/album/1135043961",
       "audibleURL": ""
     },
     {

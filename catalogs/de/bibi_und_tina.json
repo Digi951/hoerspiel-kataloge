@@ -1,8 +1,8 @@
 {
   "collectionName": "Bibi und Tina",
   "version": 3,
-  "lastUpdated": "2026-09-29",
-  "entryCount": 132,
+  "lastUpdated": "2026-11-26",
+  "entryCount": 133,
   "entries": [
     {
       "number": 1,
@@ -1136,9 +1136,18 @@
       "title": "Vorweihnachtschaos",
       "releaseYear": 2026,
       "season": "christmas",
-      "appleMusicURL": "",
+      "appleMusicURL": "https://music.apple.com/de/album/6807597283",
+      "spotifyURL": "https://open.spotify.com/intl-de/album/1yWTispi2RwgbMmp1g9JfA",
+      "deezerURL": "https://www.deezer.com/album/1068587151",
+      "audibleURL": ""
+    },
+    {
+      "number": 127,
+      "title": "Ein Kumpel für Alex",
+      "releaseYear": 2027,
+      "appleMusicURL": "https://music.apple.com/de/album/6830360638",
       "spotifyURL": "",
-      "deezerURL": "",
+      "deezerURL": "https://www.deezer.com/album/1137940031",
       "audibleURL": ""
     },
     {
